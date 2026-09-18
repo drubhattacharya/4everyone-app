@@ -76,6 +76,6 @@ You create an "upload key" that proves future updates come from you. **You choos
 
 ## Decisions to make before the first upload
 
-- Confirm the app ID `health.foreveryone.app` (it can never change once published).
+- ~~Confirm the app ID~~ Done: `health.foreveryone.app` on both stores.
 - Have the Spanish store listing in `store/LISTING.md` reviewed by your copyeditor.
 - Resolve the open content questions (Russian proverb audio, ADA employment figures).

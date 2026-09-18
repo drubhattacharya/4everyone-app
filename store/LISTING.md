@@ -6,7 +6,7 @@ Everything below is ready to paste into App Store Connect and the Google Play Co
 
 | Field | Value |
 |---|---|
-| App ID / bundle ID | `health.foreveryone.app` (permanent once published; change it in `capacitor.config.json` before the first upload if you prefer another) |
+| App ID / bundle ID | `health.foreveryone.app` on both stores (confirmed; permanent once published) |
 | Publisher | Safety & Health Equity Partners LLC |
 | Support URL | https://drubhattacharya.github.io/4everyone-app/ |
 | Privacy policy URL | https://drubhattacharya.github.io/4everyone-app/privacy.html |
