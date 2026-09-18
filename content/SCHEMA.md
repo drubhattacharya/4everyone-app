@@ -53,4 +53,7 @@ Every piece of reader-facing text is a language object: `{"en": "...", "es": "..
 | `table` | `caption?`, `head: {"en": [...], "es": [...]}`, `rows: {"en": [[...]], "es": [[...]]}` | Data table |
 | `link` | `href`, `href_es?`, `label` | Call-to-action button to an outside site |
 | `download` | `href`, `href_es?`, `label` | Downloadable PDF in `media/docs/` |
+| `crossword` | `grid: {"en": {rows, cols, entries: [{n, d: "across"|"down", r, c, a, clue}]}, "es": {...}}` | Interactive crossword; each language can have its own grid |
 | `proverb` | `language`, `original`, `romanization?`, `literal?`, `meaning`, `audio`, `youtube?` | Proverb with audio clip |
+
+Any block may carry `"only": "en"` or `"only": "es"` to appear in one language only.

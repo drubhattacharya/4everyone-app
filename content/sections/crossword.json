@@ -20,12 +20,172 @@
       },
       "blocks": [
         {
-          "t": "image",
-          "src": "media/img/v1i1/p77-1.jpg",
-          "src_es": "media/img/v1i1/p77-1-es.jpg",
-          "alt": {
-            "en": "Blank crossword puzzle grid with numbered squares",
-            "es": "Cuadrícula de crucigrama en blanco con casillas numeradas"
+          "t": "crossword",
+          "grid": {
+            "en": {
+              "rows": 13,
+              "cols": 11,
+              "entries": [
+                {
+                  "n": 3,
+                  "d": "across",
+                  "r": 2,
+                  "c": 0,
+                  "a": "GUMBO",
+                  "clue": "Southern dish in recipe videos"
+                },
+                {
+                  "n": 4,
+                  "d": "across",
+                  "r": 2,
+                  "c": 7,
+                  "a": "HIPS",
+                  "clue": "Mobility focus in Dr. Tara’s Strength Training session"
+                },
+                {
+                  "n": 6,
+                  "d": "across",
+                  "r": 5,
+                  "c": 0,
+                  "a": "ELCASCABEL",
+                  "clue": "Song reviewed by Robert Rudy that was on the Voyager’s Golden Record"
+                },
+                {
+                  "n": 7,
+                  "d": "across",
+                  "r": 7,
+                  "c": 2,
+                  "a": "POZOLE",
+                  "clue": "Mexican dish in recipe videos"
+                },
+                {
+                  "n": 9,
+                  "d": "across",
+                  "r": 10,
+                  "c": 1,
+                  "a": "SAFETY",
+                  "clue": "The “S” in the TeamSTEPPS communication technique, CUS, stands for this term"
+                },
+                {
+                  "n": 1,
+                  "d": "down",
+                  "r": 0,
+                  "c": 8,
+                  "a": "BRIDGE",
+                  "clue": "Title of the hope-related film reviewed (Czech, “Most”)."
+                },
+                {
+                  "n": 2,
+                  "d": "down",
+                  "r": 1,
+                  "c": 4,
+                  "a": "GOALS",
+                  "clue": "What Shannon Miller advised people to set to navigate challenges"
+                },
+                {
+                  "n": 5,
+                  "d": "down",
+                  "r": 4,
+                  "c": 6,
+                  "a": "GALLERY",
+                  "clue": "Surname of the Captain whose task force captured the WWII U505 submarine"
+                },
+                {
+                  "n": 8,
+                  "d": "down",
+                  "r": 9,
+                  "c": 4,
+                  "a": "NECK",
+                  "clue": "Upper part of a guitar connecting the headstock to the body"
+                },
+                {
+                  "n": 10,
+                  "d": "down",
+                  "r": 10,
+                  "c": 2,
+                  "a": "ADA",
+                  "clue": "35th anniversary of this law to promote inclusion"
+                }
+              ]
+            },
+            "es": {
+              "rows": 19,
+              "cols": 13,
+              "entries": [
+                {
+                  "n": 3,
+                  "d": "across",
+                  "r": 4,
+                  "c": 0,
+                  "a": "POZOLE",
+                  "clue": "Plato mexicano en vídeos de recetas"
+                },
+                {
+                  "n": 5,
+                  "d": "across",
+                  "r": 7,
+                  "c": 0,
+                  "a": "GALLERY",
+                  "clue": "Apellido del capitán cuya fuerza operativa capturó el submarino U505 durante la Segunda Guerra Mundial."
+                },
+                {
+                  "n": 6,
+                  "d": "across",
+                  "r": 10,
+                  "c": 0,
+                  "a": "CADERAS",
+                  "clue": "Enfoque en la movilidad en la sesión de entrenamiento de fuerza de la Dra. Tara."
+                },
+                {
+                  "n": 9,
+                  "d": "across",
+                  "r": 13,
+                  "c": 3,
+                  "a": "ELCASCABEL",
+                  "clue": "Canción reseñada por Robert Rudy que aparecía en el Disco de Oro de la Voyager."
+                },
+                {
+                  "n": 1,
+                  "d": "down",
+                  "r": 0,
+                  "c": 3,
+                  "a": "GUMBO",
+                  "clue": "Plato sureño en vídeos de recetas"
+                },
+                {
+                  "n": 2,
+                  "d": "down",
+                  "r": 3,
+                  "c": 5,
+                  "a": "SEGURIDAD",
+                  "clue": "La «S» de la técnica de comunicación TeamSTEPPS, CUS, significa este término."
+                },
+                {
+                  "n": 4,
+                  "d": "down",
+                  "r": 6,
+                  "c": 3,
+                  "a": "ELPUENTE",
+                  "clue": "Título de la película relacionada con la esperanza reseñada (checa, «Most»)."
+                },
+                {
+                  "n": 7,
+                  "d": "down",
+                  "r": 10,
+                  "c": 1,
+                  "a": "ADA",
+                  "clue": "35.º aniversario de esta ley para promover la inclusión"
+                },
+                {
+                  "n": 8,
+                  "d": "down",
+                  "r": 10,
+                  "c": 11,
+                  "a": "OBJETIVOS",
+                  "clue": "Lo que Shannon Miller aconsejó a la gente para afrontar los retos"
+                }
+              ]
+            }
           }
         },
         {
@@ -38,65 +198,13 @@
           }
         },
         {
-          "t": "h",
-          "text": {
-            "en": "Across",
-            "es": "Horizontal"
-          }
-        },
-        {
-          "t": "list",
-          "ordered": false,
-          "items": {
-            "en": [
-              "3. Southern dish in recipe videos",
-              "4. Mobility focus in Dr. Tara’s Strength Training session",
-              "6. Song reviewed by Robert Rudy that was on the Voyager’s Golden Record",
-              "7. Mexican dish in recipe videos",
-              "9. The “S” in the TeamSTEPPS communication technique, CUS, stands for this term"
-            ],
-            "es": [
-              "3. Plato mexicano en vídeos de recetas",
-              "5. Apellido del capitán cuya fuerza operativa capturó el submarino U505 durante la Segunda Guerra Mundial.",
-              "6. Enfoque en la movilidad en la sesión de entrenamiento de fuerza de la Dra. Tara.",
-              "9. Canción reseñada por Robert Rudy que aparecía en el Disco de Oro de la Voyager."
-            ]
-          }
-        },
-        {
-          "t": "h",
-          "text": {
-            "en": "Down",
-            "es": "Abajo"
-          }
-        },
-        {
-          "t": "list",
-          "ordered": false,
-          "items": {
-            "en": [
-              "1. Title of the hope-related film reviewed (Czech, “Most”).",
-              "2. What Shannon Miller advised people to set to navigate challenges",
-              "5. Surname of the Captain whose task force captured the WWII U505 submarine",
-              "8. Upper part of a guitar connecting the headstock to the body",
-              "10. 35th anniversary of this law to promote inclusion"
-            ],
-            "es": [
-              "1. Plato sureño en vídeos de recetas",
-              "2. La «S» de la técnica de comunicación TeamSTEPPS, CUS, significa este término.",
-              "4. Título de la película relacionada con la esperanza reseñada (checa, «Most»).",
-              "7. 35.º aniversario de esta ley para promover la inclusión",
-              "8. Lo que Shannon Miller aconsejó a la gente para afrontar los retos"
-            ]
-          }
-        },
-        {
           "t": "download",
           "href": "media/docs/crossword-answers-en.pdf",
           "label": {
             "en": "Download the answer key",
             "es": "Descarga las respuestas (versión en inglés)"
-          }
+          },
+          "only": "en"
         }
       ]
     }

@@ -1,5 +1,5 @@
 /* 4Everyone service worker: app shell precache + offline video playback with Range support. */
-const VERSION = 'v5';
+const VERSION = 'v6';
 const SHELL_CACHE = `4e-shell-${VERSION}`;
 const MEDIA_CACHE = '4e-media-v1'; // must match js/app.js; videos saved by the user live here
 

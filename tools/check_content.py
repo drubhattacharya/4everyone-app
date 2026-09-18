@@ -15,6 +15,7 @@ REQUIRED = {
     'recipe': ['ingredients', 'steps'], 'qa': ['q', 'a'], 'callout': ['text'],
     'table': ['head', 'rows'], 'link': ['href', 'label'], 'download': ['href', 'label'],
     'proverb': ['language', 'original', 'meaning', 'audio'],
+    'crossword': ['grid'],
 }
 LANG_FIELDS = ['text', 'title', 'alt', 'caption', 'credit', 'cite', 'label', 'q', 'a', 'meta', 'language', 'meaning', 'literal']
 
