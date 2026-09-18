@@ -11,7 +11,7 @@ on:
     paths-ignore: ['README.md', 'store/**', 'content/SCHEMA.md']
 
 permissions:
-  contents: read
+  contents: write # to publish the simulator zip to the "ios-simulator" release
 
 jobs:
   ios:
@@ -54,3 +54,16 @@ jobs:
         with:
           name: 4everyone-ios-simulator
           path: 4everyone-ios-simulator.zip
+
+      # Same zip at a fixed public link (a GitHub Release asset), so it can be uploaded to
+      # Appetize.io as-is: no sign-in, no double zip.
+      - name: Publish simulator app to the "ios-simulator" release
+        if: github.ref == 'refs/heads/main'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view ios-simulator >/dev/null 2>&1 || gh release create ios-simulator \
+            --prerelease --title "iOS simulator build (for Appetize.io)" \
+            --notes "Latest iPhone simulator build of the app, for testing on Appetize.io. Upload 4everyone-ios-simulator.zip as-is. Not for the App Store."
+          gh release upload ios-simulator 4everyone-ios-simulator.zip --clobber
+          echo "Download: https://github.com/${{ github.repository }}/releases/download/ios-simulator/4everyone-ios-simulator.zip"
