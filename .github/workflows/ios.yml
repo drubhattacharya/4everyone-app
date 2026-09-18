@@ -33,6 +33,16 @@ jobs:
           npx capacitor-assets generate --ios --iconBackgroundColor "#FFFFFF" --splashBackgroundColor "#FBF8F4" --splashBackgroundColorDark "#14191D"
           npx cap sync ios
 
+      # Treat the app as a media player so video and audio are heard even when the
+      # iPhone's ring/silent switch is on (the default "ambient" audio would be muted).
+      - name: Play sound in silent mode
+        run: |
+          F=ios/App/App/AppDelegate.swift
+          perl -0pi -e 's/import Capacitor\n/import Capacitor\nimport AVFoundation\n/' "$F"
+          perl -0pi -e 's|(didFinishLaunchingWithOptions[^\{]*\{\n)|$1        try? AVAudioSession.sharedInstance().setCategory(.playback, mode: .moviePlayback)\n|' "$F"
+          grep -q "import AVFoundation" "$F" && grep -q "setCategory(.playback" "$F" || { echo "AppDelegate patch failed"; cat "$F"; exit 1; }
+          grep -n -A2 "didFinishLaunchingWithOptions" "$F"
+
       - name: Compile for the iOS simulator (unsigned)
         working-directory: ios/App
         run: |
