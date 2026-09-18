@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>4Everyone</title>
+  <meta name="description" content="4Everyone: Flavors, Fitness, Film, & Flow. A well-being magazine with video, audio and articles in English and Spanish.">
+  <meta name="theme-color" content="#FBF8F4" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#14191D" media="(prefers-color-scheme: dark)">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="4Everyone">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/favicon-64.png" type="image/png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="css/fonts.css">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <a class="skip" href="#main" data-i18n="skip">Skip to content</a>
+  <header class="topbar">
+    <a class="brand" href="#/" aria-label="4Everyone home">
+      <img class="wordmark wordmark--dark" src="media/img/wordmark-dark.png" alt="4Everyone" width="160" height="36">
+      <img class="wordmark wordmark--light" src="media/img/wordmark-light.png" alt="" width="160" height="36">
+    </a>
+    <div class="tools">
+      <button class="tool" id="textSize" type="button" aria-pressed="false">
+        <span aria-hidden="true">A<span class="tool__big">A</span></span>
+        <span class="sr" data-i18n="textSize">Larger text</span>
+      </button>
+      <div class="lang" role="group" aria-label="Language / Idioma">
+        <button type="button" data-lang="en" lang="en">EN</button>
+        <button type="button" data-lang="es" lang="es">ES</button>
+      </div>
+    </div>
+  </header>
+
+  <main id="main" tabindex="-1"></main>
+
+  <div class="routine" id="routine" hidden role="dialog" aria-modal="true" aria-labelledby="routineTitle">
+    <div class="routine__bar">
+      <p class="routine__count" id="routineCount"></p>
+      <button class="routine__close" id="routineClose" type="button" data-i18n="close">Close</button>
+    </div>
+    <h2 class="routine__title" id="routineTitle"></h2>
+    <div class="routine__stage">
+      <video id="routineVideo" playsinline controls preload="auto"></video>
+      <div class="routine__done" id="routineDone" hidden>
+        <p class="routine__done-title" data-i18n="doneTitle">Great job!</p>
+        <p data-i18n="doneBody">You just finished a two-minute movement break.</p>
+        <button class="btn btn--primary" id="routineAgain" type="button" data-i18n="again">Do it again</button>
+      </div>
+    </div>
+    <ol class="routine__steps" id="routineSteps"></ol>
+    <div class="routine__nav">
+      <button class="btn btn--ghost" id="routinePrev" type="button" data-i18n="prevMove">Previous move</button>
+      <button class="btn btn--ghost" id="routineNext" type="button" data-i18n="nextMove">Next move</button>
+    </div>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

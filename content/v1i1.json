@@ -1,0 +1,218 @@
+{
+  "id": "v1i1",
+  "brand": { "en": "4Everyone", "es": "Para Cada 1" },
+  "tagline": { "en": "Flavors, Fitness, Film, & Flow", "es": "Recetas, fitness, cine y ritmo" },
+  "issueLabel": { "en": "Vol. 1 · Issue 1", "es": "Vol. 1 · Número 1" },
+  "motto": { "en": "Health Begins at Home", "es": "La salud comienza en casa" },
+  "cover": { "en": "media/img/cover-en.jpg", "es": "media/img/cover-es.jpg" },
+  "disclaimer": {
+    "en": "Any fitness recommendations are for informational purposes only. These should not be interpreted as personalized recommendations. Consult your healthcare provider before starting a new routine.",
+    "es": "Todas las recomendaciones de fitness tienen fines meramente informativos. No deben interpretarse como recomendaciones personalizadas. Consulta a tu médico antes de comenzar."
+  },
+  "sections": [
+    {
+      "id": "mindset", "available": false,
+      "kicker": { "en": "Gold Medal Mindset", "es": "Mentalidad de medalla de oro" },
+      "title": { "en": "Shannon Miller reflects on her journey and well-being", "es": "Shannon Miller reflexiona sobre su trayectoria y su bienestar" }
+    },
+    {
+      "id": "flavors", "available": false,
+      "kicker": { "en": "Flavors", "es": "Sabores" },
+      "title": { "en": "Join Chef Jenna in your kitchen!", "es": "¡Únete a la chef Jenna en tu cocina!" }
+    },
+    {
+      "id": "fitness", "available": true,
+      "kicker": { "en": "Fitness", "es": "Fitness" },
+      "title": { "en": "Home-based exercises to loosen up!", "es": "¡Ejercicios para hacer en casa y relajarse!" },
+      "intro": {
+        "en": "There's no better time than now to get moving. If it's been a while, warm up with 30-second stretches and seat-based motions. For those of you wanting more, check out a 30-minute yoga or strength training session with Dr. Tara Salay.",
+        "es": "No hay mejor momento que ahora para ponerse en marcha. Si hace tiempo que no haces ejercicio, calienta con estiramientos de 30 segundos y movimientos sentado. Para aquellos que quieran más, echen un vistazo a la sesión de yoga o el entrenamiento de fuerza de 30 minutos con la Dra. Tara Salay."
+      },
+      "groups": [
+        {
+          "label": { "en": "In the privacy of your home · 30 seconds each", "es": "En la intimidad de tu hogar · 30 segundos cada uno" },
+          "routine": true,
+          "articles": ["squats", "arm-raises", "heel-taps", "leg-extensions"]
+        },
+        {
+          "label": { "en": "30-minute lessons with Dr. Tara", "es": "Clases de 30 minutos con la Dra. Tara" },
+          "articles": ["yoga", "strength"]
+        }
+      ]
+    },
+    {
+      "id": "nfl", "available": false,
+      "kicker": { "en": "NFL to Technology-Entrepreneur", "es": "De la NFL a emprendedor tecnológico" },
+      "title": { "en": "Quentin Gause, former NFL player & co-founder, Rizewell", "es": "Quentin Gause, exjugador de la NFL y cofundador de Rizewell" }
+    },
+    {
+      "id": "mental-health", "available": false,
+      "kicker": { "en": "Mental Health", "es": "Salud mental" },
+      "title": { "en": "Your Mental Health Matters!", "es": "¡Tu salud mental es importante!" }
+    },
+    {
+      "id": "flow", "available": false,
+      "kicker": { "en": "Flow", "es": "Flow" },
+      "title": { "en": "Tunes from across the world, with audio samples", "es": "Melodías de todo el mundo, con muestras de audio" }
+    },
+    {
+      "id": "lessons", "available": false,
+      "kicker": { "en": "Learn the Drums & Guitar", "es": "Aprende batería y guitarra" },
+      "title": { "en": "Lessons with Christian Bruni, Fabio Werk and Joaco Bustillo", "es": "Lecciones con Christian Bruni, Fabio Werk y Joaco Bustillo" }
+    },
+    {
+      "id": "film", "available": false,
+      "kicker": { "en": "Film & TV", "es": "Cine y televisión" },
+      "title": { "en": "Health- and hope-related films & TV series", "es": "Películas y series relacionadas con la salud y la esperanza" }
+    },
+    {
+      "id": "doctor", "available": false,
+      "kicker": { "en": "The Doctor Is In", "es": "El doctor está aquí" },
+      "title": { "en": "Dr. Dani Cabral and BrainLove", "es": "La Dra. Dani Cabral y BrainLove" }
+    },
+    {
+      "id": "community", "available": false,
+      "kicker": { "en": "Community Corner", "es": "Rincón de la comunidad" },
+      "title": { "en": "Hispanic and Latino voices on out-of-touch care", "es": "Las voces hispanas y latinas lamentan la falta de atención" }
+    }
+  ],
+  "articles": {
+    "squats": {
+      "section": "fitness", "page": 18, "duration": "0:30",
+      "title": { "en": "Bodyweight Squats", "es": "Sentadillas con el peso corporal" },
+      "video": { "type": "file", "src": { "en": "media/video/squats-en.mp4", "es": "media/video/squats-es.mp4" }, "poster": { "en": "media/video/squats-en.jpg", "es": "media/video/squats-es.jpg" } },
+      "body": {
+        "en": [
+          "As demonstrated in the 30-second video, bodyweight squats can activate your entire lower body. This simple, equipment-free move targets the quads, glutes, and hamstrings while also engaging your core for balance. Stronger legs mean more stability for everyday movements like walking, lifting, and climbing stairs, as well as staying independent.¹",
+          "Squats also help improve joint mobility by moving your hips, knees, and ankles through a full range of motion.² Over time, this can reduce stiffness and support better posture and balance. Benefits include pain relief, strengthening the muscle, and knee stability.³",
+          "Short bursts of activity can also improve metabolic health. One study found that doing bodyweight squats every 45 minutes during sedentary periods significantly lowered blood sugar spikes.⁴"
+        ],
+        "es": [
+          "Como se muestra en el vídeo de 30 segundos, las sentadillas con peso corporal pueden activar toda la parte inferior del cuerpo. Este movimiento sencillo, que no requiere equipamiento, se centra en los cuádriceps, los glúteos y los isquiotibiales, al mismo tiempo que involucra el tronco para mantener el equilibrio. Tener piernas más fuertes permite lograr más estabilidad para los movimientos cotidianos, como caminar, levantar objetos y subir escaleras, así como para mantener la independencia.¹",
+          "Las sentadillas también ayudan a mejorar la movilidad de las articulaciones al mover las caderas, las rodillas y los tobillos en todo su rango de movimiento.² Con el tiempo, esto puede reducir la rigidez y favorecer una mejor postura y equilibrio. Entre los beneficios se incluyen el alivio del dolor, el fortalecimiento de los músculos y la estabilidad de las rodillas.³",
+          "Las actividades breves e intensas también pueden mejorar la salud metabólica. Un estudio demostró que hacer sentadillas con el peso corporal cada 45 minutos durante los periodos sedentarios reducía significativamente los picos de azúcar en sangre.⁴"
+        ]
+      },
+      "references": [
+        "LePage, J. Brown University Health. The Benefits of Strength Training for Musculoskeletal Health. May 13, 2025.",
+        "Zhao Z, Wang R, Guo Y, et al. Static low-angle squatting reduces the intra-articular inflammatory cytokines and improves the performance of patients with knee osteoarthritis. Biomed Res Int. 2019(1): 9617923.",
+        "Polizzi M. Are Squats Bad for Your Knees? Verywell Health. Updated May 20, 2025.",
+        "Gao Y, Li QY, Finni T, Pesola AJ. Enhanced muscle activity during interrupted sitting improves glycemic control in overweight and obese men. Scand J Med Sci Sports. 2024;34(4):e14628."
+      ]
+    },
+    "arm-raises": {
+      "section": "fitness", "page": 19, "duration": "0:30",
+      "title": { "en": "Side Arm Raises", "es": "Elevaciones laterales de brazos" },
+      "video": { "type": "file", "src": { "en": "media/video/arm-raises-en.mp4", "es": "media/video/arm-raises-es.mp4" }, "poster": { "en": "media/video/arm-raises-en.jpg", "es": "media/video/arm-raises-es.jpg" } },
+      "body": {
+        "en": [
+          "As shown in the video, bodyweight side arm raises activate and strengthen your entire shoulder girdle. This simple, equipment-free move targets your deltoids and also engages your upper-back muscles (like the trapezius) for stabilization, while your core remains braced to keep you steady.¹ Stronger shoulders mean better support for everyday activities like reaching overhead and they can help ease upper-back and neck tension from long hours at a desk.²",
+          "Side arm raises also improve upper-body mobility by moving your shoulders through a full range of motion.² Research on office workers has also shown that taking brief “microbreaks” for movement can significantly reduce discomfort in the neck and shoulder areas.³",
+          "Big benefits come from small, equipment-free moves. Short activity breaks can even boost your metabolic health. One study found that breaking up prolonged sitting with brief, light-intensity activity breaks led to significantly lower blood sugar spikes after meals.⁴ Big benefits can come from small, equipment-free moves like these."
+        ],
+        "es": [
+          "Como se muestra en el vídeo, las elevaciones laterales de brazos con el peso corporal activan y fortalecen toda la cintura escapular. Este movimiento sencillo, que no requiere equipamiento, se centra en los deltoides y también involucra los músculos de la parte superior de la espalda (como el trapecio) para la estabilización, mientras que el tronco permanece firme para mantener la estabilidad.¹ Tener hombros más fuertes permite desarrollar un mejor apoyo para las actividades cotidianas, como alcanzar objetos por encima de la cabeza, y puede ayudar a aliviar la tensión de la parte superior de la espalda y el cuello tras pasar muchas horas sentado en un escritorio.²",
+          "Las elevaciones laterales de brazos también mejoran la movilidad de la parte superior del cuerpo al mover los hombros en todo su rango de movimiento.² Las investigaciones realizadas con trabajadores de oficina también han demostrado que tomar breves “micro descansos” para moverse puede reducir significativamente las molestias en las zonas del cuello y los hombros.³",
+          "Los pequeños movimientos sin necesidad de equipamiento aportan grandes beneficios. Las pausas breves para realizar actividad física pueden incluso mejorar la salud metabólica. Un estudio descubrió que interrumpir el sedentarismo prolongado con pausas breves para realizar actividad física de intensidad ligera reducía significativamente los picos de azúcar en sangre después de las comidas.⁴"
+        ]
+      },
+      "references": [
+        "Steel Supplements Blog. How To Do Side Lateral Raises (Form & Benefits). (Describes muscles worked during lateral raises, including the trapezius and core engagement for stability.)",
+        "Busse S.M., Donohoe P. 15 Shoulder Workouts for Maximum Strength and Flexibility. Hydrow Blog.",
+        "McLean L, Tingley M, Scott RN, Rickards J. Computer terminal work and the benefit of microbreaks. Appl Ergon. 2001;32(3):225–237.",
+        "Dunstan DW, Kingwell BA, Larsen R, et al. Breaking up prolonged sitting reduces postprandial glucose and insulin responses. Diabetes Care. 2012;35(5):976–983."
+      ]
+    },
+    "heel-taps": {
+      "section": "fitness", "page": 20, "duration": "0:30",
+      "title": { "en": "Heel Taps", "es": "Toque de talones" },
+      "video": { "type": "file", "src": { "en": "media/video/heel-taps-en.mp4", "es": "media/video/heel-taps-es.mp4" }, "poster": { "en": "media/video/heel-taps-en.jpg", "es": "media/video/heel-taps-es.jpg" } },
+      "body": {
+        "en": [
+          "As shown in the video, heel taps are a core-strengthening exercise performed on your back with knees bent and feet flat (about shoulder-width apart). By lifting your chest and shoulders off the ground and alternating taps to each heel, you engage your abs and obliques. This controlled movement builds core strength while reinforcing spinal stability and improving postural control, which can help reduce discomfort from prolonged sitting.¹",
+          "Heel taps also promote flexibility through gentle lateral trunk flexion, improving range of motion across the thoracolumbar spine.² Over time, this may help alleviate stiffness and improve coordination between your core muscles and spine.³",
+          "Like other bodyweight moves, heel taps are ideal for brief activity “snacks” during sedentary periods. Such breaks can lower blood glucose and insulin responses.⁴ Heel taps support core strength, posture, and metabolic health."
+        ],
+        "es": [
+          "Como se muestra en el vídeo, el toque de talones es un ejercicio de fortalecimiento del tronco que se realiza tumbado boca arriba con las rodillas dobladas y los pies apoyados en el suelo (separados aproximadamente a la anchura de los hombros). Al levantar el pecho y los hombros del suelo y alternar los toques con cada talón, se activan los abdominales y los oblicuos. Este movimiento controlado fortalece el tronco, al mismo tiempo que refuerza la estabilidad de la columna vertebral y mejora el control postural, lo que puede ayudar a reducir las molestias derivadas de estar sentado durante mucho tiempo.¹",
+          "El toque de talones también promueve la flexibilidad a través de una suave flexión lateral del tronco, mejorando el rango de movimiento de la columna toracolumbar.² Con el tiempo, esto puede ayudar a aliviar la rigidez y mejorar la coordinación entre los músculos centrales y la columna vertebral.³",
+          "Al igual que otros movimientos con el peso corporal, el toque de talones es ideal para realizar breves “pausas activas” durante los periodos sedentarios. Estos descansos pueden reducir la glucosa en sangre y la respuesta a la insulina.⁴ El toque de talones favorece la fuerza del tronco, la postura y la salud metabólica."
+        ]
+      },
+      "references": [
+        "Peloton. 13 Oblique Exercises for Total Core Strength. The Output (Peloton Blog).",
+        "Sarıoğlu K., Tunay V.B. Influence of Thoracolumbar Mobility on Running Performance: A Comparative Study. Applied Sciences. 2025;15(5):2777.",
+        "Kibler, W. B., Press, J., & Sciascia, A. The role of core stability in athletic function. Sports Medicine, 2006;36,189-198.",
+        "Dunstan DW, Kingwell BA, Larsen R, et al. Breaking up prolonged sitting reduces postprandial glucose and insulin responses. Diabetes Care. 2012;35(5):976–983."
+      ]
+    },
+    "leg-extensions": {
+      "section": "fitness", "page": 21, "duration": "0:30",
+      "title": { "en": "Seated Leg Extensions", "es": "Extensiones de piernas sentado" },
+      "video": { "type": "file", "src": { "en": "media/video/leg-ext-en.mp4", "es": "media/video/leg-ext-es.mp4" }, "poster": { "en": "media/video/leg-ext-en.jpg", "es": "media/video/leg-ext-es.jpg" } },
+      "body": {
+        "en": [
+          "This simple, low-impact exercise specifically targets the quadriceps, the large muscles at the front of your thighs essential for knee stability.¹ Strengthening these muscles helps support the knee joint and improve its stability. Because it's done seated, it places minimal stress on your joints, making it ideal for gentle training and rehabilitation in those with knee discomfort.² Keeping your back against the chair also encourages an upright posture, engaging your core and supporting your lower back for better postural stability.³",
+          "Beyond building knee strength, seated leg raises can boost overall mobility and comfort for those who sit much of the day. Prolonged sitting often leads to reduced blood flow, stiff joints, and muscle discomfort.⁴ Incorporating chair exercises like leg raises increases circulation and lubricates the joints, helping to improve lower-body mobility and ease stiffness.⁵"
+        ],
+        "es": [
+          "Este ejercicio sencillo y de bajo impacto se centra específicamente en los cuádriceps, los grandes músculos de la parte delantera de los muslos que son esenciales para la estabilidad de la rodilla.¹ El fortalecimiento de estos músculos ayuda a sostener la articulación de la rodilla y a mejorar su estabilidad. Al realizarse sentado, ejerce una tensión mínima sobre las articulaciones, lo que lo hace ideal para el entrenamiento suave y la rehabilitación de personas con molestias en las rodillas.² Mantener la espalda apoyada en la silla también fomenta una postura erguida, lo que activa el tronco y sostiene la zona lumbar para una mejor estabilidad postural.³",
+          "Además de fortalecer las rodillas, las elevaciones de piernas sentado pueden aumentar la movilidad general y la comodidad de las personas que pasan gran parte del día sentadas. Estar sentado durante mucho tiempo suele provocar una reducción del flujo sanguíneo, rigidez en las articulaciones y molestias musculares.⁴ Incorporar ejercicios en silla, como las elevaciones de piernas, aumenta la circulación y lubrica las articulaciones, lo que ayuda a mejorar la movilidad de la parte inferior del cuerpo y a aliviar la rigidez.⁵"
+        ]
+      },
+      "references": [
+        "Arab F et al. Association of eccentric quadriceps torque with pain, physical function, and extension lag in women with grade ≤ II knee osteoarthritis: An observational study. Medicine (Baltimore). 2022;101(31):e29923.",
+        "Harput G et al. (2015). Quadriceps and hamstring strength recovery during early neuromuscular rehabilitation after ACL hamstring-tendon autograft reconstruction. Journal of sport rehabilitation, 24(4), 398-404.",
+        "Panjabi, M. M. (2003). Clinical spinal instability and low back pain. Journal of electromyography and kinesiology, 13(4), 371-379.",
+        "Benatti, F. B., & Ried-Larsen, M. (2015). The effects of breaking up prolonged sitting time: a review of experimental studies. Medicine & Science in Sports & Exercise, 47(10), 2053-2061.",
+        "Jetté, M., Sidney, K., & Blümchen, G. (1990). Metabolic equivalents (METS) in exercise testing, exercise prescription, and evaluation of functional capacity. Clinical cardiology, 13(8), 555-565."
+      ]
+    },
+    "yoga": {
+      "section": "fitness", "page": 22, "duration": "29:00",
+      "title": { "en": "Yoga with Dr. Tara to loosen tight hips", "es": "Yoga con la Dra. Tara para relajar las caderas tensas" },
+      "video": { "type": "youtube", "id": { "en": "", "es": "" }, "poster": { "en": "media/img/tara-yoga.jpg", "es": "media/img/tara-yoga.jpg" } },
+      "body": {
+        "en": [
+          "Many of us spend long hours sitting at work, which can lead to tight hips and reduced mobility. Research shows that people who are more sedentary tend to have stiffer hips and less range of motion in their hip joints.¹ The good news is that yoga can help counteract these effects. In fact, one study found that participants increased their overall flexibility by up to 35% after just eight weeks of yoga.²",
+          "Gentle poses like lunges and pigeon pose target the hip flexors and glutes, undoing the shortening caused by sitting and increasing your hip range of motion. Over time, this means everyday movements, from walking and climbing stairs to bending down, become easier.³ So take a break, roll out the mat, and join Dr. Tara as she leads you through a routine – and give your hips some much-needed relief!"
+        ],
+        "es": [
+          "Muchos de nosotros pasamos largas horas sentados en el trabajo, lo que puede provocar tensión en las caderas y reducir la movilidad. Las investigaciones demuestran que las personas más sedentarias tienden a tener las caderas más rígidas y menos amplitud de movimiento en las articulaciones de la cadera.¹ La buena noticia es que el yoga puede ayudar a contrarrestar estos efectos. De hecho, un estudio demostró que los participantes aumentaron su flexibilidad general hasta en un 35% después de solo ocho semanas de yoga.²",
+          "Las posturas suaves, como las zancadas y la postura de la paloma, se centran en los flexores de la cadera y los glúteos, contrarrestando el acortamiento causado por estar sentado y aumentando la amplitud de movimiento de la cadera. Con el tiempo, esto permite que los movimientos cotidianos, desde caminar y subir escaleras hasta agacharse, se vuelvan más fáciles.³ Así que tómate un descanso, extiende la esterilla y únete a la Dra. Tara mientras te guía a través de una rutina, ¡y dale a tus caderas el alivio que tanto necesitan!"
+        ]
+      },
+      "bio": {
+        "photo": "media/img/tara-headshot.jpg",
+        "en": "Dr. Tara Salay is a Doctor of Physical Therapy, certified yoga instructor, and holistic healing advocate. Based in Long Island, New York, Dr. Tara brings a deeply personal and professional commitment to healing that integrates body, mind, and soul. She's an animal lover and devoted dog mom.",
+        "es": "La Dra. Tara Salay es doctora en fisioterapia, instructora certificada de yoga y defensora de la medicina holística. Aporta un compromiso profundamente personal y profesional con la curación que integra el cuerpo, la mente y el alma. Es una amante de los animales."
+      },
+      "references": [
+        "Boukabache A, Preece SJ, Brookes N. Prolonged sitting and physical inactivity are associated with limited hip extension: a cross-sectional study. Musculoskelet Sci Pract. 2021;51:102282.",
+        "Anders M. Does yoga really do the body good? ACE FitnessMatters. 2005;Sept/Oct:7-9.",
+        "Rintaugu EG, Munoru P. Effects of yoga training on bilateral strength and shoulder and hip range of motion. Int J Curr Res. 2011;3(11):467-470."
+      ]
+    },
+    "strength": {
+      "section": "fitness", "page": 23, "duration": "30:00",
+      "title": { "en": "Strength Training with bodyweight and bands", "es": "Entrenamiento de fuerza con el peso corporal y bandas elásticas" },
+      "video": { "type": "youtube", "id": { "en": "", "es": "" }, "poster": { "en": "media/img/tara-strength.jpg", "es": "media/img/tara-strength.jpg" } },
+      "body": {
+        "en": [
+          "Prolonged sitting often leads to weak glutes and tight hip flexors, a condition sometimes referred to as “dead butt” syndrome.¹ ² Dr. Tara's hip-strengthening class directly addresses this by targeting the gluteus maximus, the body's largest muscle for hip extension and power, and the gluteus medius, which plays a crucial role in hip stabilization.³",
+          "Through a sequence of accessible movements, the lesson builds both strength and stability. Bridges effectively engage the gluteus maximus,⁴ while clamshells and side planks activate the gluteus medius to support hip and core control.³ Squats, particularly when performed with a resistance band, recruit both gluteus maximus and medius to enhance hip alignment and prevent knee collapse.⁴ By reactivating these critical muscles, the session not only enhances hip function but also helps protect the lower back, hips, and knees from discomfort associated with sedentary lifestyles.¹ ²"
+        ],
+        "es": [
+          "Estar sentado durante mucho tiempo suele provocar debilidad en los glúteos y tensión en los flexores de la cadera, una afección que a veces se conoce como síndrome del “trasero muerto”.¹ ² La clase de fortalecimiento de la cadera de la Dra. Tara aborda directamente este problema al centrarse en el glúteo mayor, el músculo más grande del cuerpo para la extensión y la fuerza de la cadera, y en el glúteo medio, que desempeña un papel crucial en la estabilización de la cadera.³",
+          "A través de una secuencia de movimientos accesibles, la lección desarrolla tanto la fuerza como la estabilidad. Los puentes activan eficazmente el glúteo mayor,⁴ mientras que las conchas y las planchas laterales activan el glúteo medio para apoyar el control de la cadera y el tronco.³ Las sentadillas, especialmente cuando se realizan con una banda de resistencia, reclutan tanto el glúteo mayor como el medio para mejorar la alineación de la cadera y evitar el colapso de la rodilla.⁴ Al reactivar estos músculos fundamentales, la sesión no solo mejora la función de la cadera, sino que también ayuda a proteger la zona lumbar, las caderas y las rodillas de las molestias asociadas al sedentarismo.¹ ²"
+        ]
+      },
+      "references": [
+        "Gabriel C. If You Sit at a Desk All Day, This Muscle Might Be in Danger. OrthoCarolina.",
+        "Cleveland Clinic. Feeling Numb After Sitting? Try These Tips to Awaken Your “Dead Butt.” Health Essentials. August 13, 2025.",
+        "Cleveland Clinic. How To Exercise Your Glutes (and Why They Need Your Attention). Health Essentials. March 17, 2025.",
+        "Aguiar R, Chola TA, Sampaio VL, Gama EF. Gluteus Maximus Activation during Common Strength and Hypertrophy Exercises: A Systematic Review. J Sports Sci Med. 2020; 19(1): 195-203."
+      ]
+    }
+  }
+}

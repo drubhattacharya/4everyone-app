@@ -1,0 +1,19 @@
+{
+  "name": "4Everyone: Flavors, Fitness, Film, & Flow",
+  "short_name": "4Everyone",
+  "description": "A well-being magazine with video, audio and articles in English and Spanish.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FBF8F4",
+  "theme_color": "#FBF8F4",
+  "lang": "en",
+  "categories": ["health", "lifestyle", "magazines"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
