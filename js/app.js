@@ -8,6 +8,8 @@
   // Inside the App Store / Google Play build (Capacitor) everything is bundled, so offline saving is unnecessary.
   const NATIVE = !!(window.Capacitor && window.Capacitor.isNativePlatform && window.Capacitor.isNativePlatform());
   const plugin = (name) => (NATIVE && window.Capacitor.Plugins ? window.Capacitor.Plugins[name] : null);
+  // iOS app pages live at capacitor://localhost, which YouTube rejects (Error 153), so videos go through embed.html on the public site.
+  const IOS_APP = NATIVE && window.Capacitor.getPlatform && window.Capacitor.getPlatform() === 'ios';
   if (NATIVE) document.documentElement.classList.add('is-native');
 
   const UI = {
@@ -739,7 +741,10 @@
       btn.addEventListener('click', () => {
         const id = box.dataset.yt;
         const params = new URLSearchParams({ autoplay: '1', rel: '0', playsinline: '1', modestbranding: '1', hl: lang, cc_lang_pref: lang });
-        box.innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${encodeURIComponent(id)}?${params}" title="YouTube" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>`;
+        const src = IOS_APP
+          ? `${PUBLIC_URL}embed.html?v=${encodeURIComponent(id)}&${params}`
+          : `https://www.youtube-nocookie.com/embed/${encodeURIComponent(id)}?${params}`;
+        box.innerHTML = `<iframe src="${src}" title="YouTube" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>`;
       });
     });
     main.querySelectorAll('[data-audio]').forEach((b) => b.addEventListener('click', () => toggleAudio(b)));

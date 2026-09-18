@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <title>4Everyone video</title>
+  <style>
+    html, body { margin: 0; height: 100%; background: #000; }
+    iframe { display: block; border: 0; width: 100%; height: 100%; }
+  </style>
+</head>
+<body>
+  <!--
+    Video relay for the iOS app. YouTube now refuses to play embeds that don't come from a
+    web page (Error 153), and the iOS app's pages live at capacitor://localhost. The app frames
+    this page from the public site, so the YouTube player sees a normal https page.
+  -->
+  <script>
+    (() => {
+      const q = new URLSearchParams(location.search);
+      const id = q.get('v') || '';
+      if (!/^[\w-]{11}$/.test(id)) return;
+      const params = new URLSearchParams({ rel: '0', playsinline: '1', modestbranding: '1' });
+      for (const k of ['autoplay', 'hl', 'cc_lang_pref']) {
+        const v = q.get(k);
+        if (v && /^[\w-]{1,10}$/.test(v)) params.set(k, v);
+      }
+      const f = document.createElement('iframe');
+      f.src = `https://www.youtube-nocookie.com/embed/${id}?${params}`;
+      f.title = 'YouTube';
+      f.allow = 'autoplay; encrypted-media; picture-in-picture; fullscreen';
+      f.allowFullscreen = true;
+      f.referrerPolicy = 'strict-origin-when-cross-origin';
+      document.body.appendChild(f);
+    })();
+  </script>
+</body>
+</html>
