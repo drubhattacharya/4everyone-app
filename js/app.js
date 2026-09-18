@@ -25,7 +25,7 @@
       kind: { video: 'Video', recipe: 'Recipe', audio: 'Audio', interview: 'Interview', read: 'Read', puzzle: 'Puzzle' },
       openImage: 'Open full size', opensNew: '(opens in a new tab)',
       offlineTitle: 'Save for offline', offlineBody: 'Keep the Fitness videos on this device so they play without an internet connection (about 6 MB).',
-      issueOfflineTitle: 'Read offline', issueOfflineBody: 'Save the whole issue (articles, photos, audio and exercise videos) on this device. YouTube videos still need a connection. About 35 MB.',
+      issueOfflineTitle: 'Read offline', issueOfflineBody: 'Save the whole issue (articles, photos, audio and exercise videos) on this device. YouTube videos still need a connection. About 20 MB.',
       offlineSave: 'Save videos', issueOfflineSave: 'Save the issue', offlineSaving: 'Saving…', offlineSaved: 'Saved on this device', offlineError: 'Could not save. Check your connection and try again.',
       loadError: 'This section could not be loaded. Check your connection and try again.',
       notFound: 'Page not found.'
@@ -49,7 +49,7 @@
       kind: { video: 'Vídeo', recipe: 'Receta', audio: 'Audio', interview: 'Entrevista', read: 'Leer', puzzle: 'Pasatiempo' },
       openImage: 'Ver en tamaño completo', opensNew: '(se abre en una pestaña nueva)',
       offlineTitle: 'Guardar sin conexión', offlineBody: 'Guarda los vídeos de Fitness en este dispositivo para verlos sin conexión a internet (unos 6 MB).',
-      issueOfflineTitle: 'Leer sin conexión', issueOfflineBody: 'Guarda todo el número (artículos, fotos, audio y vídeos de ejercicios) en este dispositivo. Los vídeos de YouTube necesitan conexión. Unos 35 MB.',
+      issueOfflineTitle: 'Leer sin conexión', issueOfflineBody: 'Guarda todo el número (artículos, fotos, audio y vídeos de ejercicios) en este dispositivo. Los vídeos de YouTube necesitan conexión. Unos 20 MB.',
       offlineSave: 'Guardar vídeos', issueOfflineSave: 'Guardar el número', offlineSaving: 'Guardando…', offlineSaved: 'Guardado en este dispositivo', offlineError: 'No se pudo guardar. Revisa tu conexión e inténtalo de nuevo.',
       loadError: 'No se pudo cargar esta sección. Revisa tu conexión e inténtalo de nuevo.',
       notFound: 'Página no encontrada.'
