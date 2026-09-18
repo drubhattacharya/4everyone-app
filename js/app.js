@@ -259,7 +259,20 @@
       setState('offlineSaving', true);
       try {
         const cache = await caches.open(MEDIA_CACHE);
-        await cache.addAll(urls);
+        // One at a time with a retry, so a flaky connection keeps whatever already saved.
+        for (const u of urls) {
+          if (await cache.match(u)) continue;
+          for (let attempt = 0; ; attempt++) {
+            try {
+              const res = await fetch(u, { cache: 'reload' });
+              if (!res.ok) throw new Error(res.status);
+              await cache.put(u, res);
+              break;
+            } catch (err) {
+              if (attempt >= 1) throw err;
+            }
+          }
+        }
         if (navigator.storage?.persist) navigator.storage.persist();
         setState('offlineSaved', true);
       } catch {
