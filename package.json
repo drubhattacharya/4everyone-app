@@ -1,0 +1,22 @@
+{
+  "name": "4everyone-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "4Everyone / Para Cada 1: bilingual well-being magazine app (web, iOS, Android)",
+  "scripts": {
+    "build": "node scripts/build-www.mjs",
+    "assets": "capacitor-assets generate --iconBackgroundColor \"#FFFFFF\" --iconBackgroundColorDark \"#FFFFFF\" --splashBackgroundColor \"#FBF8F4\" --splashBackgroundColorDark \"#14191D\"",
+    "sync": "npm run build && cap sync"
+  },
+  "dependencies": {
+    "@capacitor/android": "latest",
+    "@capacitor/app": "latest",
+    "@capacitor/core": "latest",
+    "@capacitor/ios": "latest",
+    "@capacitor/share": "latest"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "latest",
+    "@capacitor/cli": "latest"
+  }
+}

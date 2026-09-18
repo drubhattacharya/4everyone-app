@@ -4,6 +4,11 @@
 
   const ISSUE_URL = 'content/v1i1.json';
   const MEDIA_CACHE = '4e-media-v1';
+  const PUBLIC_URL = 'https://drubhattacharya.github.io/4everyone-app/';
+  // Inside the App Store / Google Play build (Capacitor) everything is bundled, so offline saving is unnecessary.
+  const NATIVE = !!(window.Capacitor && window.Capacitor.isNativePlatform && window.Capacitor.isNativePlatform());
+  const plugin = (name) => (NATIVE && window.Capacitor.Plugins ? window.Capacitor.Plugins[name] : null);
+  if (NATIVE) document.documentElement.classList.add('is-native');
 
   const UI = {
     en: {
@@ -31,7 +36,7 @@
       notFound: 'Page not found.',
       search: 'Search', searchLabel: 'Search this issue', searchHint: 'Try “yoga”, “pozole”, “Alzheimer’s” or “guitar”.',
       results: (n) => `${n} result${n === 1 ? '' : 's'}`, noResults: 'No matches. Try a different word.',
-      share: 'Share', linkCopied: 'Link copied', continueReading: 'Continue reading',
+      share: 'Share', linkCopied: 'Link copied', continueReading: 'Continue reading', privacy: 'Privacy policy',
       across: 'Across', down: 'Down', check: 'Check', revealWord: 'Reveal word', revealAll: 'Reveal all', clear: 'Clear',
       solved: 'Solved! Well done.', wrong: (n) => `${n} square${n === 1 ? '' : 's'} not right yet.`, incomplete: 'Keep going: some squares are still empty.',
       xwHelp: 'Tap a square or a clue, then type. Tap the same square again to switch between across and down.',
@@ -62,7 +67,7 @@
       notFound: 'Página no encontrada.',
       search: 'Buscar', searchLabel: 'Buscar en este número', searchHint: 'Prueba con «yoga», «pozole», «Alzheimer» o «guitarra».',
       results: (n) => `${n} resultado${n === 1 ? '' : 's'}`, noResults: 'Sin coincidencias. Prueba con otra palabra.',
-      share: 'Compartir', linkCopied: 'Enlace copiado', continueReading: 'Seguir leyendo',
+      share: 'Compartir', linkCopied: 'Enlace copiado', continueReading: 'Seguir leyendo', privacy: 'Política de privacidad',
       across: 'Horizontal', down: 'Abajo', check: 'Comprobar', revealWord: 'Mostrar palabra', revealAll: 'Mostrar todo', clear: 'Borrar',
       solved: '¡Resuelto! Muy bien.', wrong: (n) => `${n} casilla${n === 1 ? '' : 's'} todavía no ${n === 1 ? 'es correcta' : 'son correctas'}.`, incomplete: 'Sigue así: aún quedan casillas vacías.',
       xwHelp: 'Toca una casilla o una pista y escribe. Vuelve a tocar la misma casilla para cambiar entre horizontal y abajo.',
@@ -86,7 +91,10 @@
     get(k) { try { return localStorage.getItem(k); } catch { return null; } },
     set(k, v) { try { localStorage.setItem(k, v); } catch { /* private mode */ } }
   };
-  let lang = store.get('4e.lang') || ((navigator.language || 'en').toLowerCase().startsWith('es') ? 'es' : 'en');
+  const urlLang = new URLSearchParams(location.search).get('lang');
+  let lang = (urlLang === 'es' || urlLang === 'en') ? urlLang
+    : store.get('4e.lang') || ((navigator.language || 'en').toLowerCase().startsWith('es') ? 'es' : 'en');
+  if (urlLang) store.set('4e.lang', lang);
   let bigText = store.get('4e.size') === 'lg';
 
   let issue = null;
@@ -197,7 +205,7 @@
           <p>${t('issueOfflineBody')}</p>
           <div><button class="btn btn--ghost" type="button" id="saveOffline" data-scope="issue">${t('issueOfflineSave')}</button></div>
         </div>
-        <div class="about"><p>${t('about')}</p></div>
+        <div class="about"><p>${t('about')}</p><p><a href="${NATIVE ? PUBLIC_URL : ''}privacy.html?lang=${lang}" target="_blank" rel="noopener">${t('privacy')}</a> · <a href="mailto:dru@4everyone.health">dru@4everyone.health</a></p></div>
       </div>`;
   }
 
@@ -288,7 +296,7 @@
     const cap = [b.caption && inline(L(b.caption)), b.credit && `<span class="credit">${inline(L(b.credit))}</span>`].filter(Boolean).join(' ');
     return `
       <figure class="figure">
-        <a href="${esc(src)}" target="_blank" rel="noopener" title="${esc(t('openImage'))}"><img src="${esc(src)}" alt="${esc(L(b.alt))}" loading="lazy"></a>
+        <button type="button" class="figure__zoom" data-zoom="${esc(src)}" aria-label="${esc(t('openImage'))}"><img src="${esc(src)}" alt="${esc(L(b.alt))}" loading="lazy"></button>
         ${cap ? `<figcaption>${cap}</figcaption>` : ''}
       </figure>`;
   }
@@ -502,7 +510,7 @@
         return `<p><a class="btn btn--outline" href="${esc(href)}" target="_blank" rel="noopener">${esc(L(b.label))} ${ICON.ext}<span class="sr">${t('opensNew')}</span></a></p>`;
       }
       case 'download': {
-        const href = (lang === 'es' && b.href_es) || b.href;
+        const href = (NATIVE ? PUBLIC_URL : '') + ((lang === 'es' && b.href_es) || b.href);
         return `<p><a class="btn btn--outline" href="${esc(href)}" target="_blank" rel="noopener">${ICON.down} ${esc(L(b.label))}</a></p>`;
       }
       case 'proverb': return proverbBlock(b);
@@ -651,9 +659,11 @@
 
   // ---------- Sharing and reading position ----------
   async function shareCurrent(btn) {
-    const url = location.href;
+    const url = `${PUBLIC_URL}?lang=${lang}${location.hash}`;
     const title = document.title;
     try {
+      const Share = plugin('Share');
+      if (Share) { await Share.share({ title, url }); return; }
       if (navigator.share) { await navigator.share({ title, url }); return; }
       await navigator.clipboard.writeText(url);
       const label = btn.querySelector('span');
@@ -661,6 +671,30 @@
       setTimeout(() => { if (btn.isConnected) label.textContent = t('share'); }, 2000);
     } catch { /* user cancelled */ }
   }
+
+  // ---------- Image viewer ----------
+  const zoom = document.createElement('div');
+  zoom.className = 'zoom'; zoom.hidden = true;
+  zoom.setAttribute('role', 'dialog'); zoom.setAttribute('aria-modal', 'true');
+  zoom.innerHTML = '<button type="button" class="zoom__close"></button><img alt="">';
+  document.body.appendChild(zoom);
+  let zoomOpener = null;
+  function openZoom(btn) {
+    zoomOpener = btn;
+    const img = zoom.querySelector('img');
+    img.src = btn.dataset.zoom;
+    img.alt = btn.querySelector('img').alt;
+    zoom.querySelector('.zoom__close').textContent = t('close');
+    zoom.hidden = false; document.body.style.overflow = 'hidden';
+    zoom.querySelector('.zoom__close').focus();
+  }
+  function closeZoom() {
+    if (zoom.hidden) return false;
+    zoom.hidden = true; document.body.style.overflow = '';
+    zoomOpener?.focus?.();
+    return true;
+  }
+  zoom.addEventListener('click', closeZoom);
 
   function viewMessage(msg) {
     return `<div class="wrap page"><a class="back" href="#/">${ICON.back}${t('home')}</a><p>${msg}</p></div>`;
@@ -705,11 +739,13 @@
       btn.addEventListener('click', () => {
         const id = box.dataset.yt;
         const params = new URLSearchParams({ autoplay: '1', rel: '0', playsinline: '1', modestbranding: '1', hl: lang, cc_lang_pref: lang });
-        box.innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${encodeURIComponent(id)}?${params}" title="YouTube" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>`;
+        box.innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${encodeURIComponent(id)}?${params}" title="YouTube" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>`;
       });
     });
     main.querySelectorAll('[data-audio]').forEach((b) => b.addEventListener('click', () => toggleAudio(b)));
     main.querySelectorAll('[data-share]').forEach((b) => b.addEventListener('click', () => shareCurrent(b)));
+    main.querySelectorAll('[data-zoom]').forEach((b) => b.addEventListener('click', () => openZoom(b)));
+    if (NATIVE) main.querySelectorAll('.offline').forEach((el) => { el.hidden = true; });
     const xw = main.querySelector('[data-xw]');
     const xwBlock = xw && currentArticle?.blocks?.find((b) => b.t === 'crossword');
     if (xwBlock) wireCrossword(xw, xwBlock);
@@ -865,7 +901,20 @@
   document.getElementById('routineNext').addEventListener('click', () => playStep(R.i + 1));
   document.getElementById('routineAgain').addEventListener('click', () => playStep(0));
   document.getElementById('routineClose').addEventListener('click', closeRoutine);
-  document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && !R.root.hidden) closeRoutine(); });
+  document.addEventListener('keydown', (e) => {
+    if (e.key !== 'Escape') return;
+    if (!closeZoom() && !R.root.hidden) closeRoutine();
+  });
+
+  // Android hardware back button: close overlays, then go back, then leave the app.
+  const App = plugin('App');
+  if (App) {
+    App.addListener('backButton', () => {
+      if (closeZoom()) return;
+      if (!R.root.hidden) { closeRoutine(); return; }
+      if (location.hash && location.hash !== '#/') history.back(); else App.exitApp();
+    });
+  }
 
   // ---------- Boot ----------
   applyPrefs();
@@ -875,7 +924,7 @@
     .then((data) => { issue = data; render(); })
     .catch(() => { main.innerHTML = `<div class="wrap page"><p>${t('loadError')}</p></div>`; });
 
-  if ('serviceWorker' in navigator && location.protocol !== 'file:') {
+  if (!NATIVE && 'serviceWorker' in navigator && location.protocol !== 'file:') {
     window.addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(() => {}));
   }
 })();

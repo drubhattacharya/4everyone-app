@@ -44,3 +44,21 @@ python -m http.server 8790
 ```
 
 Then open http://localhost:8790.
+
+## App Store and Google Play builds
+
+The same web app is wrapped with [Capacitor](https://capacitorjs.com/) so it can ship as a native iOS and Android app, with all text, images, audio and exercise videos bundled inside (long videos stream from YouTube).
+
+| Path | What it is |
+| --- | --- |
+| `package.json`, `capacitor.config.json` | Capacitor setup (app ID `health.foreveryone.app`, name 4Everyone; Android shows "Para Cada 1" on Spanish phones) |
+| `scripts/build-www.mjs` | Copies the site into `www/` for the native builds |
+| `assets/` | Source icon and splash images; `@capacitor/assets` generates every size |
+| `.github/workflows/android.yml` | Builds a test APK on every push; builds the signed Play bundle once signing secrets exist |
+| `.github/workflows/ios.yml` | Compiles the iOS app on a macOS runner (signing added once the Apple account exists) |
+| `store/` | Listing text (EN/ES), screenshots, Play icon and feature graphic |
+| `privacy.html` | Privacy policy required by both stores |
+
+The native `android/` and `ios/` folders are generated fresh in each build and are not kept in the repository.
+
+To build locally instead (optional): install Node.js 22, then `npm install`, `npm run build`, `npx cap add android` (needs Android Studio) or `npx cap add ios` (needs a Mac with Xcode).

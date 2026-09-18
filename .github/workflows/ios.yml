@@ -1,0 +1,42 @@
+name: iOS build
+
+# Builds the App Store version with Capacitor on a GitHub macOS runner.
+# Until an Apple Developer account and signing certificates exist, this compiles an
+# unsigned simulator build to prove the project is healthy. The signed App Store /
+# TestFlight step is added once the account is set up.
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore: ['README.md', 'store/**', 'content/SCHEMA.md']
+
+permissions:
+  contents: read
+
+jobs:
+  ios:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install Capacitor
+        run: npm install --no-audit --no-fund
+
+      - name: Build web assets and iOS project
+        run: |
+          npm run build
+          npx cap add ios
+          npx capacitor-assets generate --ios --iconBackgroundColor "#FFFFFF" --splashBackgroundColor "#FBF8F4" --splashBackgroundColorDark "#14191D"
+          npx cap sync ios
+
+      - name: Compile for the iOS simulator (unsigned)
+        working-directory: ios/App
+        run: |
+          if [ -d App.xcworkspace ]; then TARGET="-workspace App.xcworkspace"; else TARGET="-project App.xcodeproj"; fi
+          xcodebuild $TARGET -scheme App -configuration Debug -sdk iphonesimulator \
+            -destination 'generic/platform=iOS Simulator' CODE_SIGNING_ALLOWED=NO build | tail -n 40
+          echo "iOS simulator build finished"

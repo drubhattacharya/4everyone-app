@@ -1,0 +1,12 @@
+{
+  "appId": "health.foreveryone.app",
+  "appName": "4Everyone",
+  "webDir": "www",
+  "backgroundColor": "#FBF8F4",
+  "android": {
+    "allowMixedContent": false
+  },
+  "ios": {
+    "contentInset": "never"
+  }
+}

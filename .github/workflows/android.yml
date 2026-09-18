@@ -1,0 +1,82 @@
+name: Android build
+
+# Builds the Google Play version with Capacitor.
+# Always produces a debug APK you can install on a phone for testing.
+# Produces a signed release bundle (.aab) for Google Play once the signing secrets exist:
+#   ANDROID_KEYSTORE_BASE64, ANDROID_KEYSTORE_PASSWORD, ANDROID_KEY_ALIAS, ANDROID_KEY_PASSWORD
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore: ['README.md', 'store/**', 'content/SCHEMA.md']
+
+permissions:
+  contents: read
+
+jobs:
+  android:
+    runs-on: ubuntu-latest
+    env:
+      HAS_SIGNING: ${{ secrets.ANDROID_KEYSTORE_BASE64 != '' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 21
+
+      - name: Install Capacitor
+        run: npm install --no-audit --no-fund
+
+      - name: Build web assets and Android project
+        run: |
+          npm run build
+          npx cap add android
+          npx capacitor-assets generate --android --iconBackgroundColor "#FFFFFF" --splashBackgroundColor "#FBF8F4" --splashBackgroundColorDark "#14191D"
+          npx cap sync android
+
+      - name: App name in Spanish, version numbers
+        run: |
+          mkdir -p android/app/src/main/res/values-es
+          cat > android/app/src/main/res/values-es/strings.xml <<'XML'
+          <?xml version="1.0" encoding="utf-8"?>
+          <resources>
+              <string name="app_name">Para Cada 1</string>
+              <string name="title_activity_main">Para Cada 1</string>
+          </resources>
+          XML
+          VERSION_NAME=$(node -p "require('./package.json').version")
+          sed -i "s/versionCode [0-9]*/versionCode ${{ github.run_number }}/" android/app/build.gradle
+          sed -i "s/versionName \"[^\"]*\"/versionName \"${VERSION_NAME}\"/" android/app/build.gradle
+          grep -E "versionCode|versionName|applicationId" android/app/build.gradle
+
+      - name: Build debug APK
+        working-directory: android
+        run: ./gradlew assembleDebug --no-daemon
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: 4everyone-debug-apk
+          path: android/app/build/outputs/apk/debug/app-debug.apk
+
+      - name: Build signed release bundle
+        if: env.HAS_SIGNING == 'true'
+        working-directory: android
+        run: |
+          echo "${{ secrets.ANDROID_KEYSTORE_BASE64 }}" | base64 -d > "$RUNNER_TEMP/upload.jks"
+          ./gradlew bundleRelease --no-daemon \
+            -Pandroid.injected.signing.store.file="$RUNNER_TEMP/upload.jks" \
+            -Pandroid.injected.signing.store.password="${{ secrets.ANDROID_KEYSTORE_PASSWORD }}" \
+            -Pandroid.injected.signing.key.alias="${{ secrets.ANDROID_KEY_ALIAS }}" \
+            -Pandroid.injected.signing.key.password="${{ secrets.ANDROID_KEY_PASSWORD }}"
+
+      - uses: actions/upload-artifact@v4
+        if: env.HAS_SIGNING == 'true'
+        with:
+          name: 4everyone-release-aab
+          path: android/app/build/outputs/bundle/release/app-release.aab
