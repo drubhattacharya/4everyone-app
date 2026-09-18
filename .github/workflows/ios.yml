@@ -36,7 +36,21 @@ jobs:
       - name: Compile for the iOS simulator (unsigned)
         working-directory: ios/App
         run: |
+          set -o pipefail
           if [ -d App.xcworkspace ]; then TARGET="-workspace App.xcworkspace"; else TARGET="-project App.xcodeproj"; fi
           xcodebuild $TARGET -scheme App -configuration Debug -sdk iphonesimulator \
-            -destination 'generic/platform=iOS Simulator' CODE_SIGNING_ALLOWED=NO build | tail -n 40
-          echo "iOS simulator build finished"
+            -destination 'generic/platform=iOS Simulator' -derivedDataPath "$RUNNER_TEMP/dd" \
+            ONLY_ACTIVE_ARCH=NO CODE_SIGNING_ALLOWED=NO build | tail -n 40
+
+      # A zipped simulator app that can be uploaded to Appetize.io to try the iPhone
+      # version in a web browser, without a Mac or an Apple Developer account.
+      - name: Package simulator app for Appetize.io
+        run: |
+          cd "$RUNNER_TEMP/dd/Build/Products/Debug-iphonesimulator"
+          ditto -c -k --sequesterRsrc --keepParent App.app "$GITHUB_WORKSPACE/4everyone-ios-simulator.zip"
+          ls -la "$GITHUB_WORKSPACE/4everyone-ios-simulator.zip"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: 4everyone-ios-simulator
+          path: 4everyone-ios-simulator.zip
