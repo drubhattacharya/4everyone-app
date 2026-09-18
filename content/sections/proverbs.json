@@ -1,0 +1,245 @@
+{
+  "id": "proverbs",
+  "intro": {
+    "en": "The US has a rich linguistic history. Come learn some popular proverbs in top languages! Since something is often lost in translation, we provide them in both English and their original language with audio.",
+    "es": "Estados Unidos tiene una rica historia lingüística. ¡Ven a aprender algunos proverbios populares en los idiomas más hablados! Dado que a menudo se pierde algo en la traducción, los ofrecemos tanto en inglés como en su idioma original con audio."
+  },
+  "articles": [
+    {
+      "id": "proverbs-top-10",
+      "pages": [
+        64,
+        74
+      ],
+      "title": {
+        "en": "Beyond greetings in the top 10 U.S. languages",
+        "es": "Mucho más que saludos en los 10 idiomas más hablados en EE. UU."
+      },
+      "dek": {
+        "en": "Not lost in translation",
+        "es": "Sin pérdidas en la traducción"
+      },
+      "blocks": [
+        {
+          "t": "proverb",
+          "language": {
+            "en": "English",
+            "es": "Inglés"
+          },
+          "original": "Where there’s a will, there’s a way.",
+          "literal": {
+            "en": "Where there’s a will, there’s a way.",
+            "es": "Donde hay voluntad, hay un camino."
+          },
+          "meaning": {
+            "en": "A proverb that emphasizes perseverance and determination as the path to overcoming obstacles. Widely used in English-speaking cultures to convey resolve and grit.¹",
+            "es": "Proverbio que enfatiza la perseverancia y la determinación como el camino para superar los obstáculos. Ampliamente utilizado en las culturas angloparlantes para transmitir resolución y determinación.¹"
+          },
+          "audio": "media/audio/proverbs/01-en.mp3",
+          "youtube": "4ZzMqSWFzME"
+        },
+        {
+          "t": "proverb",
+          "language": {
+            "en": "Spanish",
+            "es": "Español"
+          },
+          "original": "A mal tiempo, buena cara.",
+          "literal": {
+            "en": "In bad times, put on a brave face.",
+            "es": "En los malos momentos, hay que poner buena cara."
+          },
+          "meaning": {
+            "en": "Encourages emotional resilience in the face of adversity, a value deeply embedded in Hispanic cultures and Catholic stoicism.²",
+            "es": "Fomenta la resiliencia emocional ante la adversidad, un valor profundamente arraigado en las culturas hispanas y el estoicismo católico.²"
+          },
+          "audio": "media/audio/proverbs/02-es.mp3",
+          "youtube": "RlbbE9P_AvA"
+        },
+        {
+          "t": "proverb",
+          "language": {
+            "en": "Chinese",
+            "es": "Chino"
+          },
+          "original": "水滴石穿",
+          "romanization": "shuǐ dī shí chuān",
+          "literal": {
+            "en": "Dripping water penetrates the stone.",
+            "es": "El agua que gotea penetra en la piedra."
+          },
+          "meaning": {
+            "en": "A proverb promoting the virtue of perseverance, deeply rooted in Confucian ethics and classical Chinese philosophy.³",
+            "es": "Proverbio que promueve la virtud de la perseverancia, profundamente arraigada en la ética confuciana y la filosofía clásica china.³"
+          },
+          "audio": "media/audio/proverbs/03-zh.mp3",
+          "youtube": "I8CJF6MH7II"
+        },
+        {
+          "t": "proverb",
+          "language": {
+            "en": "Tagalog",
+            "es": "Tagalo"
+          },
+          "original": "Pag may tiyaga, may nilaga.",
+          "literal": {
+            "en": "If you persevere, you will reap the fruits of your labor.",
+            "es": "Si perseveras, cosecharás los frutos de tu trabajo."
+          },
+          "meaning": {
+            "en": "A Filipino adage equating hard work with the comforting reward of *nilaga*, a traditional stew. Signifies familial diligence and domestic harmony.⁴",
+            "es": "Un adagio filipino que equipara el trabajo duro con la reconfortante recompensa del *nilaga*, un guiso tradicional. Representa diligencia familiar y armonía doméstica.⁴"
+          },
+          "audio": "media/audio/proverbs/04-tl.mp3",
+          "youtube": "YiXWb2w4mYY"
+        },
+        {
+          "t": "proverb",
+          "language": {
+            "en": "Vietnamese",
+            "es": "Vietnamita"
+          },
+          "original": "Có công mài sắt, có ngày nên kim.",
+          "literal": {
+            "en": "If you work at grinding iron, it will become a needle.",
+            "es": "Si trabajas afilando hierro, se convertirá en una aguja."
+          },
+          "meaning": {
+            "en": "Evokes the image of laborious refinement to symbolize persistence leading to eventual success.⁵",
+            "es": "Evoca la imagen del laborioso refinamiento para simbolizar la persistencia que conduce al éxito final.⁵"
+          },
+          "audio": "media/audio/proverbs/05-vi.mp3",
+          "youtube": "XDuYMD5x3ak"
+        },
+        {
+          "t": "proverb",
+          "language": {
+            "en": "Arabic",
+            "es": "Árabe"
+          },
+          "original": "الصبر مفتاح الفرج",
+          "romanization": "al-ṣabr muftāḥ al-faraj",
+          "literal": {
+            "en": "Patience is the key to relief.",
+            "es": "La paciencia es la clave del alivio."
+          },
+          "meaning": {
+            "en": "This proverb promotes the Islamic virtue of *ṣabr* (patience) to overcome hardship.⁶",
+            "es": "Este proverbio promueve la virtud islámica de *ṣabr* (paciencia) para superar las dificultades.⁶"
+          },
+          "audio": "media/audio/proverbs/06-ar.mp3",
+          "youtube": "f5tX91EPwX8"
+        },
+        {
+          "t": "proverb",
+          "language": {
+            "en": "French",
+            "es": "Francés"
+          },
+          "original": "Petit à petit, l’oiseau fait son nid.",
+          "literal": {
+            "en": "Little by little, the bird builds its nest.",
+            "es": "Poco a poco, el pájaro construye su nido."
+          },
+          "meaning": {
+            "en": "Speaks to the cultural value of gradual progress through dedication, often used in educational and family contexts.⁷",
+            "es": "Hace referencia al valor cultural del progreso gradual a través de la dedicación, y se utiliza a menudo en contextos educativos y familiares.⁷"
+          },
+          "audio": "media/audio/proverbs/07-fr.mp3",
+          "youtube": "YiDXgk-AghE"
+        },
+        {
+          "t": "proverb",
+          "language": {
+            "en": "Korean",
+            "es": "Coreano"
+          },
+          "original": "고생 끝에 낙이 온다",
+          "romanization": "gosaeng kkeute nag-i onda",
+          "literal": {
+            "en": "After hardship comes happiness.",
+            "es": "Después de las dificultades llega la felicidad."
+          },
+          "meaning": {
+            "en": "Prominent in Korean culture where post-war rebuilding and education are seen as examples of triumph through struggle.⁸",
+            "es": "Destaca en la cultura coreana, donde la reconstrucción y la educación de la posguerra se consideran ejemplos de triunfo a través de la lucha.⁸"
+          },
+          "audio": "media/audio/proverbs/08-ko.mp3",
+          "youtube": "UTaPhjoCr8c"
+        },
+        {
+          "t": "proverb",
+          "language": {
+            "en": "Russian",
+            "es": "Ruso"
+          },
+          "original": "Без труда не выловишь и рыбку из пруда",
+          "romanization": "Bez truda ne vylovish’ i rybku iz pruda",
+          "literal": {
+            "en": "Without effort, you won’t catch even a fish from the pond.",
+            "es": "Sin esfuerzo, no se puede pescar ni un pez del estanque."
+          },
+          "meaning": {
+            "en": "Highlights the Russian value of labor and endurance as central to achievement.⁹",
+            "es": "Destaca el valor que los rusos otorgan al trabajo y la resistencia como elementos fundamentales para alcanzar el éxito.⁹"
+          },
+          "audio": "media/audio/proverbs/09-ru.mp3",
+          "youtube": "QSg-DkqDk2Y"
+        },
+        {
+          "t": "proverb",
+          "language": {
+            "en": "Portuguese",
+            "es": "Portugués"
+          },
+          "original": "Água mole em pedra dura, tanto bate até que fura.",
+          "literal": {
+            "en": "Soft water on hard stone, strikes until it drills through.",
+            "es": "El agua blanda sobre la piedra dura, golpea hasta perforarla."
+          },
+          "meaning": {
+            "en": "Reflects the Portuguese appreciation of resilience through gentle, steady effort.¹⁰",
+            "es": "Refleja la apreciación portuguesa de la resiliencia a través del esfuerzo suave y constante.¹⁰"
+          },
+          "audio": "media/audio/proverbs/10-pt.mp3",
+          "youtube": "-iTAkH5CEj8"
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p64-1.jpg",
+          "src_es": "media/img/v1i1/p64-1-es.jpg",
+          "alt": {
+            "en": "Table of the ten proverbs with each language, the proverb, its English translation and its significance",
+            "es": "Tabla de los diez proverbios con el idioma, el proverbio, su traducción y su significado"
+          }
+        }
+      ],
+      "references": {
+        "en": [
+          "Speake, J. (Ed.). (2015). The Oxford dictionary of proverbs. Oxford university press.",
+          "Alousque, I. N. (2010). La traducción de las expresiones idiomáticas marcadas culturalmente. Revista de lingüística y lenguas aplicadas, (5), 133-140.",
+          "Lin, Y. (1935). My country and my people. New York: Reynal & Hitchcock. Inc.(A John Day Book).",
+          "FilipinoPod. (June 10, 2021). 30 Filipino proverbs for everyday life.",
+          "Vietnamese Language Studies (March 30, 2024). 6 Vietnamese Useful Idioms & Proverbs.",
+          "Al-Azmeh, A. (2009). Islams and modernities. Verso Books.",
+          "Chantreau, S., & Rey, (2015), A. Dictionnaire des expressions et locutions: Relié. Le Robert.",
+          "Guy-byung, P., & Eliot, M. (2013). Dictionary of Korean idioms: idiom proverbs Sino-korean phrases. Munyerim.",
+          "Timeless Edition. (2025). Russian Proverbs and Sayings.",
+          "Stewart J. (2023). A taste of Portuguese: A curated collection of Portuguese proverbs and their translations. Santos ML. Portuguese Proverbs and Popular Wisdom. Lisbon: Imprensa Nacional-Casa da Moeda; 2009."
+        ],
+        "es": [
+          "Speake, J. (Ed.). (2015). The Oxford dictionary of proverbs. Oxford university press.",
+          "Alousque, I. N. (2010). La traducción de las expresiones idiomáticas marcadas culturalmente. Revista de lingüística y lenguas aplicadas, (5), 133-140.",
+          "Lin, Y. (1935). My country and my people. New York: Reynal & Hitchcock. Inc.(A John Day Book).",
+          "FilipinoPod. (June 10, 2021). 30 Filipino proverbs for everyday life.",
+          "Vietnamese Language Studies (March 30, 2024). 6 Vietnamese Useful Idioms & Proverbs.",
+          "Al-Azmeh, A. (2009). Islams and modernities. Verso Books.",
+          "Chantreau, S., & Rey, (2015), A. Dictionnaire des expressions et locutions: Relié. Le Robert.",
+          "Guy-byung, P., & Eliot, M. (2013). Dictionary of Korean idioms: idiom proverbs Sino-korean phrases. Munyerim.",
+          "Timeless Edition. (2025). Russian Proverbs and Sayings.",
+          "Stewart J. (2023). A taste of Portuguese: A curated collection of Portuguese proverbs and their translations. Santos ML. Portuguese Proverbs and Popular Wisdom. Lisbon: Imprensa Nacional-Casa da Moeda; 2009."
+        ]
+      }
+    }
+  ]
+}

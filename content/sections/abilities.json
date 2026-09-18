@@ -1,0 +1,320 @@
+{
+  "id": "abilities",
+  "intro": {
+    "en": "On July 26, 1990, then President George H.W. Bush signed into law the Americans with Disabilities Act of 1990. We revisit its enactment, legacy, and current challenges. Spotlight on LumiRead, an inclusive, user-focused tool to make the internet more accessible for the visually impaired community, and a conversation with its developer, Anran Lyu, followed by a demo on how to use the tool.",
+    "es": "El 26 de julio de 1990, el entonces presidente George H. W. Bush promulgó la Ley de Estadounidenses con Discapacidades de 1990. Revisamos su promulgación, su legado y los retos actuales. Destacamos LumiRead, una herramienta inclusiva y centrada en el usuario que hace que Internet sea más accesible para la comunidad con discapacidad visual, y conversamos con su desarrollador, Anran Lyu, seguido de una demostración sobre cómo utilizar la herramienta."
+  },
+  "articles": [
+    {
+      "id": "ada-35th-anniversary",
+      "pages": [
+        65,
+        66,
+        67,
+        68
+      ],
+      "title": {
+        "en": "The 35th Anniversary of the Americans with Disabilities Act",
+        "es": "35º aniversario de la Ley de Estadounidenses con Discapacidades"
+      },
+      "blocks": [
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p65-1.jpg",
+          "src_es": "media/img/v1i1/p65-1-es.jpg",
+          "alt": {
+            "en": "1981 U.S. 18-cent stamp showing a man in a wheelchair looking into a microscope, with the words “Disabled doesn’t mean Unable”",
+            "es": "Sello estadounidense de 18 centavos de 1981 que muestra a un hombre en silla de ruedas mirando por un microscopio, con el texto “Disabled doesn’t mean Unable”"
+          },
+          "caption": {
+            "en": "U.S. Stamp circa 1981, the year the U.N. General Assembly proclaimed as the International Year of Disabled Persons.",
+            "es": "Texto de la imagen: “Discapacitado no significa incapaz”. Sello estadounidense de 1981, año en que la Asamblea General de las Naciones Unidas proclamó el Año Internacional de las Personas con Discapacidad."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "On a hot July day in 1990, disability rights activists gathered on the White House lawn to witness history. President George H.W. Bush was about to sign the Americans with Disabilities Act (ADA), a landmark civil rights law extending protections to millions of Americans with physical, sensory, mental, and developmental disabilities. “Let the shameful walls of exclusion finally come tumbling down,” Bush proclaimed as he signed the bill. His words rang with hope that day, echoing the dramatic protests that had propelled the law forward. Just months earlier, demonstrators had famously cast aside wheelchairs and crawled up the U.S. Capitol’s stone steps to demand equal access, a visceral display of the everyday barriers people with disabilities faced.",
+            "es": "En un caluroso día de julio de 1990, activistas por los derechos de las personas con discapacidad se reunieron en el jardín de la Casa Blanca para ser testigos de un momento histórico. El presidente George H. W. Bush estaba a punto de firmar la Ley de Estadounidenses con Discapacidades (ADA), una ley histórica de derechos civiles que ampliaba la protección a millones de estadounidenses con discapacidades físicas, sensoriales, mentales y del desarrollo. “Que los vergonzosos muros de la exclusión se derrumben por fin”, proclamó Bush al firmar el proyecto de ley. Sus palabras resonaron con esperanza ese día, haciéndose eco de las dramáticas protestas que habían impulsado la ley. Solo unos meses antes, los manifestantes habían dejado a un lado sus sillas de ruedas y habían subido a gatas los escalones de piedra del Capitolio de los Estados Unidos para exigir la igualdad de acceso, una muestra visceral de las barreras cotidianas a las que se enfrentaban las personas con discapacidad."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "With that bold action and bipartisan will in Congress, the ADA became law on July 26, 1990, prohibiting discrimination in employment, government services, public accommodations, transportation and more. Thirty-five years later, as we celebrate the ADA’s anniversary in 2025, its impact is visible in every city street corner, school, and website. Curb cuts and ramps abound where once there were none; buses kneel to welcome wheelchair users; videos carry captions; workplaces provide adaptive equipment. The world is far more accessible today than in 1990. Yet the ADA’s promise remains a work in progress, a civil rights journey still unfolding in hospitals and office buildings, on the internet, and in transit systems across America. With over 61 million U.S. adults (about 1 in 4) now reporting some form of disability, the law’s continued relevance is beyond question. Each advance driven by the ADA has opened doors for a huge swath of Americans, while new challenges demand renewed commitment to equity, accessibility, and human dignity.",
+            "es": "Con esa audaz acción y la voluntad bipartidista del Congreso, la ADA se convirtió en ley el 26 de julio de 1990, prohibiendo la discriminación en el empleo, los servicios gubernamentales, los alojamientos públicos, el transporte y más. Treinta y cinco años después, mientras celebramos el aniversario de la ADA en 2025, su impacto es visible en cada esquina de la ciudad, escuela y sitio web. Abundan los rebajes en las aceras y las rampas donde antes no había ninguno, los autobuses se inclinan para dar la bienvenida a los usuarios de sillas de ruedas, los vídeos llevan subtítulos y los lugares de trabajo proporcionan equipos adaptados. El mundo es mucho más accesible hoy que en 1990. Sin embargo, la promesa de la ADA sigue siendo una tarea en curso, un viaje por los derechos civiles que aún se está desarrollando en hospitales y edificios de oficinas, en Internet y en los sistemas de transporte público de todo Estados Unidos. Con más de 61 millones de adultos estadounidenses (aproximadamente 1 de cada 4) que hoy declaran tener algún tipo de discapacidad, la relevancia de la ley en 2025 es incuestionable. Cada avance impulsado por la ADA ha abierto las puertas a una gran parte de la población estadounidense, mientras que los nuevos retos exigen un compromiso renovado con la equidad, la accesibilidad y la dignidad humana."
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "A Civil Rights Milestone",
+            "es": "Un hito en los derechos civiles"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "The signing of the ADA in 1990 marked the culmination of decades of activism. Advocates often call the ADA the most important civil rights law since the 1964 Civil Rights Act. It was the first time disability was comprehensively addressed as a protected class. The path to its passage was paved by grassroots organizers and trailblazers who remembered life before accessibility was a right. They fought to end what advocates called the low expectations and marginalization of disabled people in public life. The Capitol Crawl protest on March 12, 1990, became an enduring symbol of this struggle: about 60 Americans with disabilities, led by eight-year-old Jennifer Keelan, left their mobility aids and crawled up the Capitol entrance to dramatize the literal barriers they faced. Their bravery put a spotlight on Congress, adding urgency to pass the ADA.",
+            "es": "La firma de la ADA en 1990 supuso la culminación de décadas de activismo. Los defensores suelen calificar a la ADA como la ley de derechos civiles más importante desde la Ley de Derechos Civiles de 1964. Era la primera vez que la discapacidad se abordaba de forma integral como una clase protegida. El camino hacia su aprobación fue allanado por organizadores de base y pioneros que recordaban cómo era la vida antes de que la accesibilidad fuera un derecho. Lucharon para acabar con lo que los defensores denominaban las bajas expectativas y la marginación de las personas con discapacidad en la vida pública. La protesta Capitol Crawl del 12 de marzo de 1990 se convirtió en un símbolo perdurable de esta lucha: unos 60 estadounidenses con discapacidad, liderados por Jennifer Keelan, de ocho años, dejaron sus ayudas para la movilidad y se arrastraron hasta la entrada del Capitolio para dramatizar las barreras literales a las que se enfrentaban. Su valentía puso el foco de atención en el Congreso, lo que añadió urgencia a la aprobación de la ADA."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "When President Bush signed the Act that summer, he acknowledged the activists’ triumph. The ADA set forth sweeping requirements: employers must provide reasonable accommodations and cannot fire or refuse to hire someone just because of a disability; state and local governments must ensure access to public programs and facilities; businesses open to the public, from restaurants and theaters to hotels and doctors’ offices, must remove barriers and offer auxiliary aids (like sign language interpreters or Braille materials) when needed. In short, the ADA aimed to transform America’s built environment and social infrastructure so that people with disabilities could participate fully and independently in daily life. Its passage was a watershed moment born from protest and perseverance, and it carries profound significance as a statement that disability rights are human rights.",
+            "es": "Cuando el presidente Bush firmó la ley ese verano, reconoció el triunfo de los activistas. La ADA establecía requisitos muy amplios: los empleadores debían proporcionar adaptaciones razonables y no podían despedir o negarse a contratar a alguien solo por tener una discapacidad, los gobiernos estatales y locales debían garantizar el acceso a los programas y las instalaciones públicas y los negocios abiertos al público, desde restaurantes y teatros hasta hoteles y consultorios médicos, debían eliminar las barreras y ofrecer ayudas auxiliares (como intérpretes de lengua de signos o materiales en braille) cuando fuera necesario. En resumen, la ADA tenía como objetivo transformar el entorno construido y la infraestructura social de Estados Unidos para que las personas con discapacidad pudieran participar de forma plena e independiente en la vida cotidiana. Su aprobación fue un momento decisivo nacido de la protesta y la perseverancia, y tiene un profundo significado como declaración de que los derechos de las personas con discapacidad son derechos humanos."
+          }
+        },
+        {
+          "t": "youtube",
+          "id": "bn3m8OhTFmo",
+          "id_es": "kc9TnwU449I",
+          "title": {
+            "en": "President George H.W. Bush signs the Americans with Disabilities Act of 1990",
+            "es": "El presidente George H. W. Bush firma la Ley de Estadounidenses con Discapacidades de 1990"
+          },
+          "caption": {
+            "en": "On July 26, 1990, President George H.W. Bush signed the Americans with Disabilities Act of 1990. Video Credit: Rick Ray",
+            "es": "El 26 de julio de 1990, el presidente George H. W. Bush firmó la Ley de Estadounidenses con Discapacidades de 1990. Crédito del vídeo: Rick Ray"
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "Healthcare: Access and Equity in Healing",
+            "es": "Atención sanitaria: acceso y equidad en la curación"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Few areas illustrate the ADA’s impact on dignity better than healthcare. Before 1990, visiting a doctor or hospital often meant indignities for people with disabilities, from exam rooms up a flight of stairs, and clinics denying sign language interpreters, to mammography machines or scales unusable for wheelchair users. The ADA began addressing these failures by requiring medical providers to offer equal access. Over the past 35 years, we’ve seen hospitals install ramps and power doors, waiting rooms clear space for mobility devices, and interpreters or captioning made available for patients who are deaf. However, gaps in healthcare access persisted well into the 21st century, prompting new action. In fact, even recently many patients using wheelchairs have reported receiving only cursory exams because they could not be transferred onto standard-height tables, or forgoing preventive care like dental exams and mammograms due to inaccessible equipment.",
+            "es": "Pocas áreas ilustran mejor el impacto de la ADA en la dignidad que la asistencia sanitaria. Antes de 1990, acudir al médico o al hospital solía suponer una humillación para las personas con discapacidad, desde salas de exploración situadas en pisos superiores hasta clínicas que negaban intérpretes de lengua de signos, pasando por máquinas de mamografía o básculas inutilizables para los usuarios de sillas de ruedas. La ADA comenzó a abordar estas deficiencias exigiendo a los proveedores médicos que ofrecieran igualdad de acceso. En los últimos 35 años, hemos visto cómo los hospitales han instalado rampas y puertas automáticas, las salas de espera han habilitado espacios para dispositivos de movilidad y se han puesto a disposición de los pacientes sordos intérpretes o subtítulos. Sin embargo, las desigualdades en el acceso a la asistencia sanitaria persistieron hasta bien entrado el siglo XXI, lo que impulsó nuevas medidas. De hecho, incluso recientemente, muchos pacientes en silla de ruedas han informado que solo han podido realizarse exámenes superficiales porque no podían trasladarse a mesas de altura estándar, o que debieron renunciar a cuidados preventivos como exámenes dentales y mamografías debido a la inaccesibilidad de los equipos."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p67-1.jpg",
+          "alt": {
+            "en": "Header of the Department of Justice final rule, 28 CFR Part 35: Nondiscrimination on the Basis of Disability; Accessibility of Medical Diagnostic Equipment of State and Local Government Entities",
+            "es": "Encabezado de la norma definitiva del Departamento de Justicia, 28 CFR Parte 35, sobre la accesibilidad de los equipos de diagnóstico médico de las entidades gubernamentales estatales y locales"
+          },
+          "caption": {
+            "en": "Justice Department publishes final rule to improve access to medical care for people with disabilities on the 34th anniversary of the ADA",
+            "es": "El Departamento de Justicia publica la norma definitiva para mejorar el acceso a la atención médica de las personas con discapacidad en el 34º aniversario de la ADA."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "In recognition of this, the Justice Department marked the ADA’s 34th anniversary in 2024 by issuing a new rule requiring medical diagnostic equipment to be accessible in all state and local healthcare facilities.",
+            "es": "En reconocimiento de ello, el Departamento de Justicia conmemoró el 34º aniversario de la ADA en 2024 con la publicación de una nueva norma que exige que los equipos de diagnóstico médico sean accesibles en todos los centros de salud estatales y locales."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Examination tables, weight scales, x-ray and scanning devices, are now all governed by clear standards so that “people with disabilities should not have to forgo needed medical care due to inaccessible medical diagnostic equipment,” explained Assistant Attorney General Kristen Clarke.",
+            "es": "Las camillas de exploración, las básculas, los aparatos de rayos X y los escáneres se rigen ahora por normas claras, de modo que “las personas con discapacidad no tengan que renunciar a la atención médica necesaria debido a la inaccesibilidad de los equipos de diagnóstico médico”, explicó la fiscal general adjunta Kristen Clarke."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "This long-awaited step means that a patient who uses a wheelchair can finally expect a doctor’s office to have an adjustable-height exam table or a scale they can roll onto, rather than being turned away or examined in their chair. Healthcare access is not only about equipment, but about services and systems. The ADA’s integration mandate, bolstered by the Supreme Court’s Olmstead decision in 1999, affirmed that people with disabilities have the right to receive care in the most integrated setting appropriate, not be segregated in institutions. In practice, this has pushed state Medicaid programs to expand in-home and community-based services across the country.",
+            "es": "Este paso tan esperado implica que un paciente que utiliza una silla de ruedas puede finalmente esperar que la consulta del médico cuente con una camilla de altura ajustable o una báscula en la que pueda subirse, en lugar de ser rechazado o examinado en su silla. El acceso a la atención sanitaria no solo tiene que ver con los equipos, sino también con los servicios y los sistemas. El mandato de integración de la ADA, respaldado por la decisión del Tribunal Supremo en el caso Olmstead en 1999, afirmó que las personas con discapacidad tienen un derecho a recibir atención en el entorno más integrado y adecuado, sin ser segregadas en instituciones. En la práctica, esto ha impulsado a los programas estatales de Medicaid a ampliar los servicios a domicilio y comunitarios en todo el país."
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "Employment: From Exclusion to Inclusion at Work",
+            "es": "Empleo: de la exclusión a la inclusión en el trabajo"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "In the workplace, the ADA sought to topple another towering barrier: discrimination that kept capable people out of jobs just because of disability. Title I of the Act made it illegal for employers (with 15+ employees) to refuse to hire or promote someone due to disability and required them to provide reasonable accommodations, that is, modifications or aids that enable an employee to perform their job. This transformed countless lives. Over the decades, employees who use wheelchairs gained access to adjustable desks and wheelchair-friendly office layouts; deaf employees obtained sign interpreters for meetings or telephone relay services; people with chronic illnesses negotiated flexible schedules to attend medical appointments. The law opened doors to integrated, competitive employment for people who had long been shunted to the sidelines. However, true equality in employment remains a work in progress. Americans with disabilities still participate in the labor force at much lower rates than their nondisabled peers. In fact, around 42% of disabled adults are employed, compared to roughly 68% of those without disabilities, a disparity rooted in both societal bias and systemic obstacles. Even for those who are employed, the median earnings for workers with disabilities lag nearly 30% behind those of other workers. These gaps point to persistent challenges, from employers’ stigmas to the need for better education and job training pathways.",
+            "es": "En el lugar de trabajo, la ADA buscó derribar otra barrera imponente: la discriminación que impedía que personas capaces obtuvieran empleos solo por tener una discapacidad. El Título I de la ley estableció que era ilegal que los empleadores con más de 15 empleados se negaran a contratar o ascender a alguien debido a una discapacidad y les exigió que proporcionaran adaptaciones razonables, es decir, modificaciones o ayudas que permitieran al empleado realizar su trabajo. Esto transformó innumerables vidas. A lo largo de las décadas, los empleados que utilizan sillas de ruedas obtuvieron acceso a escritorios ajustables y diseños de oficinas adaptados a las sillas de ruedas, los empleados sordos obtuvieron intérpretes de lengua de signos para las reuniones o servicios de retransmisión telefónica, y las personas con enfermedades crónicas negociaron horarios flexibles para acudir a sus citas médicas. La ley abrió las puertas a un empleo integrado y competitivo para personas que durante mucho tiempo habían sido marginadas. Sin embargo, la verdadera igualdad en el empleo sigue siendo una tarea en curso. Los estadounidenses con discapacidades siguen participando en la población activa en proporciones mucho menores que sus compañeros sin discapacidades. De hecho, solo alrededor del 23% de los adultos discapacitados tienen empleo, en comparación con aproximadamente el 66% de los que no tienen discapacidades, una disparidad que tiene su origen tanto en los prejuicios sociales como en los obstáculos sistémicos. Incluso para aquellos que tienen empleo, los ingresos medios de los trabajadores con discapacidades son casi un 30% inferiores a los de otros trabajadores. Estas diferencias apuntan a retos persistentes, desde los estigmas de los empleadores hasta la necesidad de mejorar la educación y las vías de formación profesional."
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "Digital Access: The New Frontier of Inclusion",
+            "es": "Acceso digital: la nueva frontera de la inclusión"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "When the ADA became law in 1990, the public internet was barely in its infancy. The Act doesn’t even mention websites or digital technology. Fast forward to today, and so much of daily life has moved online that digital accessibility has become a core civil rights issue for people with disabilities. Whether it’s applying for a job, doing schoolwork, managing finances, or connecting with friends, access to the digital world is essential to full participation in society. The ADA’s broad guarantee of equal access has had to stretch into cyberspace, through evolving interpretations and new policies. Over the past two decades, disability advocates and courts have pushed the idea that websites and apps provided by businesses or governments should be considered public accommodations or services, and thus should be accessible just like a physical storefront or office. In practical terms, this means websites should be designed so that blind users can navigate them with screen-reader software, videos should have captions and transcripts for deaf users, and so on. Progress has been halting but evident. Many companies, from tech giants to online retailers, have been sued under the ADA for having inaccessible websites, leading to settlements that improved their digital offerings. The U.S. Department of Justice has clarified that existing ADA requirements do apply to web content, and in 2022 it proposed the first explicit regulations for state and local government websites to meet modern accessibility standards. As a result, awareness of standards like the Web Content Accessibility Guidelines (WCAG) has grown, and it’s increasingly common for web developers to build with accessibility in mind. We see the results in features like alt-text image descriptions on social media, voice-controlled smart devices, and automatic captioning on video platforms.",
+            "es": "Cuando la ADA entró en vigor en 1990, la Internet pública apenas estaba en sus inicios. La ley ni siquiera menciona los sitios web ni la tecnología digital. En 2025, gran parte de la vida cotidiana se ha trasladado a Internet, por lo que la accesibilidad digital se ha convertido en una cuestión fundamental de derechos civiles para las personas con discapacidad. Ya sea para solicitar un empleo, hacer los deberes, gestionar las finanzas o conectar con los amigos, el acceso al mundo digital es esencial para participar plenamente en la sociedad. La amplia garantía de igualdad de acceso de la ADA ha tenido que extenderse al ciberespacio, a través de interpretaciones evolutivas y nuevas políticas. Durante las últimas dos décadas, los defensores de las personas con discapacidad y los tribunales han impulsado la idea de que los sitios web y las aplicaciones proporcionados por empresas o gobiernos deben considerarse alojamientos o servicios públicos y, por lo tanto, deben ser accesibles al igual que una tienda física o una oficina. En términos prácticos, esto significa que los sitios web deben diseñarse de manera que los usuarios ciegos puedan navegar por ellos con software de lectura de pantalla, los vídeos deben tener subtítulos y transcripciones para los usuarios sordos, etc. El progreso ha sido lento, pero evidente. Muchas empresas, desde gigantes tecnológicos hasta minoristas en línea, han sido demandadas en virtud de la ADA por tener sitios web inaccesibles, lo que ha dado lugar a acuerdos que han mejorado sus ofertas digitales. El Departamento de Justicia de los Estados Unidos ha aclarado que los requisitos existentes de la ADA se aplican al contenido web, y en 2022 propuso las primeras regulaciones explícitas para que los sitios web de los gobiernos estatales y locales cumplan con los estándares modernos de accesibilidad. Como resultado, ha aumentado la conciencia sobre estándares como las Pautas de Accesibilidad al Contenido Web (WCAG) y es cada vez más común que los desarrolladores web construyan teniendo en cuenta la accesibilidad. Vemos los resultados en funciones como las descripciones de imágenes con texto alternativo en las redes sociales, los dispositivos inteligentes controlados por voz y los subtítulos automáticos en las plataformas de vídeo."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p68-1.jpg",
+          "alt": {
+            "en": "“WCAG Accessibility” illustration: icons for a wheelchair user, a crossed-out eye, an ear with sound waves, a raised hand, a person with open arms and a head showing the brain",
+            "es": "Ilustración “WCAG Accessibility”: iconos de un usuario de silla de ruedas, un ojo tachado, una oreja con ondas sonoras, una mano levantada, una persona con los brazos abiertos y una cabeza con el cerebro"
+          },
+          "caption": {
+            "en": "Simple illustration of Web Content Accessibility Guidelines (WCAG).",
+            "es": "Ejemplo ilustrativo de las Pautas de Accesibilidad al Contenido en la Web (WCAG)."
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "A Legacy of Inclusion and Work Still Unfinished",
+            "es": "Un legado de inclusión y una labor aún por completar"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "As we commemorate the ADA’s 35th anniversary, it’s clear that this law has sparked nothing short of a revolution in how we build our world and live our lives together. Generations have grown up learning that inclusion is the norm, not an exception or charity. The ADA literally changed the face of America, from sidewalk corners to boardrooms, and perhaps more importantly, it changed the expectations of what people with disabilities can achieve when society dismantles artificial barriers. Equally, the ADA has helped nondisabled people re-imagine what accessibility means: not only braille signs and ramps, but flexible work arrangements, websites designed for all, and the basic idea that everyone deserves a fair chance to contribute their talents. The law’s impact is often measured in concrete changes (like how many buildings now have elevators), but its true power may lie in its affirmation of human dignity.",
+            "es": "Al conmemorar el 35º aniversario de la ADA, queda claro que esta ley ha provocado nada menos que una revolución en la forma en que vivimos y construimos nuestro mundo. Generaciones enteras han crecido aprendiendo que la diversidad incluye la discapacidad y que la inclusión es la norma, no una excepción ni un acto de caridad. La ADA cambió literalmente la cara de Estados Unidos, desde las esquinas de las aceras hasta las salas de juntas, y quizás lo más importante es que cambió las expectativas de lo que las personas con discapacidad pueden lograr cuando la sociedad derriba las barreras artificiales. Del mismo modo, la ADA ha ayudado a las personas sin discapacidad a replantearse lo que significa la accesibilidad: no solo señales en braille y rampas, sino también modalidades de trabajo flexibles, sitios web diseñados para todos y la idea básica de que todo el mundo merece una oportunidad justa para aportar su talento. El impacto de la ley se mide a menudo en cambios concretos (como el número de edificios que ahora tienen ascensores), pero su verdadero poder puede residir en su afirmación de la dignidad humana."
+          }
+        }
+      ]
+    },
+    {
+      "id": "lumiread",
+      "pages": [
+        69,
+        70
+      ],
+      "title": {
+        "en": "Spotlight: Lumiread",
+        "es": "En primer plano: Lumiread"
+      },
+      "dek": {
+        "en": "A conversation with developer Anran Lyu, followed by a demo",
+        "es": "Una conversación con el desarrollador Anran Lyu, seguida de una demostración"
+      },
+      "blocks": [
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p69-1.jpg",
+          "alt": {
+            "en": "LumiRead developer Anran Lyu speaking into a microphone at a tech meetup",
+            "es": "Anran Lyu, desarrollador de LumiRead, hablando con un micrófono en un encuentro tecnológico"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "LumiRead is transforming the way people experience the internet by putting accessibility first. Designed in close partnership with the visually impaired community, this inclusive, user-centered tool delivers a smoother, more intuitive reading experience for everyone. With continuous refinement of its features, LumiRead makes online content easier to navigate and enjoy. Now available on the Chrome Web Store, it offers next-level accessibility for users everywhere. We recently caught up with developer Anran Lyu to discuss Lumiread and its features, and his motivation to make the internet more accessible. Be sure to also check out the demo, below.",
+            "es": "LumiRead está transformando la forma en que las personas experimentan Internet al dar prioridad a la accesibilidad. Diseñada en estrecha colaboración con la comunidad de personas con discapacidad visual, esta herramienta inclusiva y centrada en el usuario ofrece una experiencia de lectura más fluida e intuitiva para todos. Con el perfeccionamiento continuo de sus funciones, LumiRead facilita la navegación y el disfrute de los contenidos en línea. Ahora disponible en Chrome Web Store, ofrece un nuevo nivel de accesibilidad para usuarios de todo el mundo. Recientemente nos reunimos con el desarrollador Anran Lyu para hablar sobre Lumiread y sus funciones, así como sobre su motivación para hacer que Internet sea más accesible. No te pierdas la demostración que encontrarás a continuación."
+          }
+        },
+        {
+          "t": "link",
+          "href": "https://lumiread.netlify.app/",
+          "label": {
+            "en": "Visit LumiRead",
+            "es": "Visita LumiRead"
+          }
+        },
+        {
+          "t": "qa",
+          "q": {
+            "en": "What inspired you to develop Lumiread?",
+            "es": "¿Qué le inspiró a desarrollar Lumiread?"
+          },
+          "a": {
+            "en": "The biggest inspiration came from the user community directly. I had weekly meetings with community reps to discuss their needs, and they shaped everything about LumiRead. One example - they told me screen reader voices are too robotic for long text and hard to focus on. That’s why I integrated AI voice models. They also gave me tons of input on the UI and interaction design to make it work better for visually impaired users.",
+            "es": "La mayor inspiración provino directamente de la comunidad de usuarios. Me reunía semanalmente con representantes de la comunidad para hablar de sus necesidades, y ellos dieron forma a todo lo relacionado con LumiRead. Por ejemplo, me dijeron que las voces de los lectores de pantalla son demasiado robóticas para textos largos y que cuesta concentrarse en ellas. Por eso integré modelos de voz con IA. También me dieron un montón de ideas sobre la interfaz de usuario y el diseño de la interacción para que funcionara mejor para los usuarios con discapacidad visual."
+          }
+        },
+        {
+          "t": "qa",
+          "q": {
+            "en": "How easily could Lumiread be integrated with existing customer-facing interfaces, e.g., patient portal on a healthcare app?",
+            "es": "¿Con qué facilidad se puede integrar Lumiread en las interfaces existentes de cara al cliente, por ejemplo, el portal de pacientes de una aplicación sanitaria?"
+          },
+          "a": {
+            "en": "Currently LumiRead works on almost any text-based webpage. It’s mainly designed to help users consume text info from browsers. I don’t see it integrating into phone apps or other applications beyond websites right now.",
+            "es": "Actualmente, LumiRead funciona en casi cualquier página web basada en texto. Está diseñado principalmente para ayudar a los usuarios a consumir información textual desde los navegadores. Por ahora, no veo que se pueda integrar en aplicaciones para teléfonos u otras aplicaciones más allá de los sitios web."
+          }
+        },
+        {
+          "t": "qa",
+          "q": {
+            "en": "One exciting feature is modifying the text difficulty level to meet people where they are. Could you tell us more about this?",
+            "es": "Una característica interesante es la posibilidad de modificar el nivel de dificultad del texto para adaptarse al nivel de cada persona. ¿Podría contarnos más sobre esto?"
+          },
+          "a": {
+            "en": "The “reading level adjustment” feature is designed for dyslexia users or people with learning delays, though it also helps non-native speakers. I’m using a hybrid method, combining AI with reading level formulas to determine and adjust difficulty. The AI replaces hard words and complicated sentences with more understandable language, and I use several formulas to make sure the measurement is accurate.\n\nA lot of reading level formulas are based on grades, but after feedback from the community, LumiRead uses less judgmental levels like “difficult, moderately accessible, accessible, highly accessible” instead. The community felt grade-based labels were stigmatizing, so we shifted to these more neutral descriptors that focus on accessibility rather than academic level.",
+            "es": "La función de “ajuste del nivel de lectura” está diseñada para usuarios con dislexia o personas con retrasos en el aprendizaje, aunque también ayuda a los hablantes no nativos. Utilizo un método híbrido, que combina la inteligencia artificial con fórmulas de nivel de lectura para determinar y ajustar la dificultad. La inteligencia artificial sustituye las palabras difíciles y las frases complicadas por un lenguaje más comprensible, y yo utilizo varias fórmulas para asegurarme de que la medición es precisa.\n\nMuchas fórmulas de nivel de lectura se basan en los grados, pero tras recibir comentarios de la comunidad, LumiRead utiliza niveles menos críticos como “difícil, moderadamente accesible, accesible y muy accesible”. La comunidad consideraba que las etiquetas basadas en los grados eran estigmatizantes, por lo que cambiamos a estos descriptores más neutros que se centran en la accesibilidad en lugar del nivel académico."
+          }
+        },
+        {
+          "t": "qa",
+          "q": {
+            "en": "Is there an option to see the text in different languages?",
+            "es": "¿Hay alguna opción para ver el texto en diferentes idiomas?"
+          },
+          "a": {
+            "en": "Yes! A new translation feature is on the way where users can switch languages easily.",
+            "es": "¡Sí! Estamos preparando una nueva función de traducción que permitirá a los usuarios cambiar fácilmente de idioma."
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "Lumiread demonstration",
+            "es": "Demostración de Lumiread"
+          }
+        },
+        {
+          "t": "youtube",
+          "id": "S7PxYuhy9XE",
+          "title": {
+            "en": "LumiRead demo video",
+            "es": "Vídeo de demostración de LumiRead"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "LumiRead highlights its user-centered approach to making web content more accessible. Essential tools include the AI-powered Read Mode, Translation, and Text-to-Speech, designed to enhance comprehension and accessibility. The Read Mode stands out by offering adjustable reading levels and content length, helping readers tailor dense or lengthy material to their preferences. Users also benefit from a reading highlighter that tracks the cursor, reducing eye strain and improving focus.",
+            "es": "LumiRead destaca su enfoque centrado en el usuario para hacer que el contenido web sea más accesible. Entre las herramientas esenciales se incluyen el modo de lectura con tecnología de inteligencia artificial, la traducción y la conversión de texto a voz, diseñadas para mejorar la comprensión y la accesibilidad. El modo de lectura destaca por ofrecer niveles de lectura y longitud de contenido ajustables, lo que ayuda a los lectores a adaptar el material denso o extenso a sus preferencias. Los usuarios también se benefician de un resaltador de lectura que sigue el cursor, lo que reduce la fatiga visual y mejora la concentración."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Users can customize text appearance using dyslexia-friendly fonts, making the reading experience more comfortable for individuals with dyslexia or similar reading challenges. LumiRead transforms overwhelming web pages into simplified, reader-friendly content.",
+            "es": "Los usuarios pueden personalizar la apariencia del texto utilizando fuentes adaptadas a la dislexia, lo que hace que la experiencia de lectura sea más cómoda para las personas con dislexia o dificultades de lectura similares. LumiRead transforma las abrumadoras páginas web en contenido simplificado y fácil de leer."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "The Text-to-Speech functionality emphasizes a more human-like voice, creating a more natural listening experience compared to robotic alternatives. This makes web content more accessible to those who rely on auditory reading.",
+            "es": "La función de conversión de texto a voz destaca por ofrecer una voz más humana, lo que crea una experiencia auditiva más natural en comparación con las alternativas robóticas. Esto hace que el contenido web sea más accesible para quienes dependen de la lectura auditiva."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Overall, LumiRead effectively illustrates how these intuitive, accessible features combine to create a smoother, more inclusive browsing experience, which is ideal for students, professionals, and anyone seeking improved readability online.",
+            "es": "En general, LumiRead ilustra eficazmente cómo estas funciones intuitivas y accesibles se combinan para crear una experiencia de navegación más fluida e inclusiva, ideal para estudiantes, profesionales y cualquier persona que busque mejorar la legibilidad en línea."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "By breaking down digital barriers, LumiRead reflects the broader mission of fostering inclusion, belonging, and opportunity, a vision deeply aligned with *4Everyone*’s commitment to making innovation accessible to all.",
+            "es": "Al romper las barreras digitales, LumiRead refleja la misión más amplia de fomentar la inclusión, la pertenencia y las oportunidades, una visión profundamente alineada con el compromiso de Para cada Uno de hacer que la innovación sea accesible para todos."
+          }
+        }
+      ]
+    }
+  ]
+}

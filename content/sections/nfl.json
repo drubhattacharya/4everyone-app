@@ -1,0 +1,116 @@
+{
+  "id": "nfl",
+  "intro": {
+    "en": "This spotlight highlights athletes who have transformed their success on the field into thriving entrepreneurial ventures. Meet Quentin Gause and Rizewell’s unique offerings, including AI powered wellness coaches and Virtual Reality (VR) therapy.",
+    "es": "Este artículo destaca a los atletas que han transformado su éxito en el campo en prósperas iniciativas empresariales. Conoce a Quentin Gause y las ofertas únicas de Rizewell, que incluyen entrenadores de bienestar impulsados por IA y terapia de realidad virtual (VR)."
+  },
+  "articles": [
+    {
+      "id": "quentin-gause",
+      "pages": [
+        24,
+        25
+      ],
+      "title": {
+        "en": "NFL to Tech-Entrepreneur",
+        "es": "De la NFL al emprendimiento tecnológico"
+      },
+      "dek": {
+        "en": "Quentin Gause, former NFL player & co-founder, Rizewell",
+        "es": "Quentin Gause, exjugador de la NFL y cofundador de Rizewell"
+      },
+      "cover": "media/img/v1i1/p24-2.jpg",
+      "blocks": [
+        {
+          "t": "p",
+          "text": {
+            "en": "Quentin Gause is the co-founder of Rizewell, which provides comprehensive solutions that bridge the gap between wellness and technology. A former NFL player turned technology entrepreneur, his passion on and off the field are embodied in his ability to empower individuals to lead healthier lives. We caught up with Quentin to reflect on Rizewell’s mission in the context of belonging and wellness, and its unique offerings.",
+            "es": "Quentin Gause es cofundador de Rizewell, una empresa que ofrece soluciones integrales que tienden un puente entre el bienestar y la tecnología. Este exjugador de la NFL convertido en emprendedor tecnológico plasma su pasión dentro y fuera del campo en su capacidad para empoderar a las personas para que lleven una vida más saludable. Nos reunimos con Quentin para reflexionar sobre la misión de Rizewell en el contexto de la pertenencia y el bienestar, y sus ofertas únicas."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p24-2.jpg",
+          "alt": {
+            "en": "Portrait of Quentin Gause, smiling, in glasses and a black jacket",
+            "es": "Retrato de Quentin Gause, sonriente, con gafas y chaqueta negra"
+          },
+          "caption": {
+            "en": "Quentin Gause",
+            "es": "Quentin Gause"
+          }
+        },
+        {
+          "t": "qa",
+          "q": {
+            "en": "What does ‘belonging’ mean to you in the context of wellness?",
+            "es": "¿Qué significa para ti “pertenencia” en el contexto del bienestar?"
+          },
+          "a": {
+            "en": "For me, belonging in wellness means you don’t have to fit into a certain mold to take care of yourself. It’s about feeling safe, seen, and supported, wherever you are in life. I’ve been in high-performance spaces like the NFL, and I’ve also walked through seasons where I needed to slow down and heal. Wellness should meet you in all of it. True belonging means you’re welcomed just as you are, not once you “fix” yourself.",
+            "es": "Para mí, pertenecer al bienestar significa que no tienes que encajar en un molde determinado para cuidarte. Se trata de sentirte seguro, visto y apoyado, independientemente de la etapa de la vida en la que te encuentres. He estado en espacios de alto rendimiento como la NFL, y también he pasado por temporadas en las que necesitaba reducir el ritmo y recuperarme. El bienestar debe acompañarte en todo ello. La verdadera pertenencia significa que te aceptan tal y como eres, no una vez que te arreglas."
+          }
+        },
+        {
+          "t": "qa",
+          "q": {
+            "en": "How does Rizewell support people who feel left out of traditional wellness spaces?",
+            "es": "¿Cómo apoya Rizewell a las personas que se sienten excluidas de los espacios de bienestar tradicionales?"
+          },
+          "a": {
+            "en": "Rizewell was born out of that exact gap. I saw so many people—especially in Black and Brown communities, or folks working high-stress jobs—being overlooked in the wellness conversation. We built Rizewell to meet people where they are, using everything from our AI-powered wellness coach to VR therapy, community events, and workplace programs.\n\nWhether it’s at a school, a warehouse, or a corporate office, we’re showing up for people who often feel unseen, and giving them tools that actually work in real life.",
+            "es": "Rizewell nació precisamente de esa brecha. Vi a mucha gente, especialmente en las comunidades negras y latinas, o a personas con trabajos muy estresantes, que eran ignoradas en el debate sobre el bienestar.\n\nCreamos Rizewell para llegar a las personas allí donde se encuentran, utilizando desde nuestro entrenador de bienestar basado en inteligencia artificial hasta terapia de realidad virtual, eventos comunitarios y programas en el lugar de trabajo.\n\nYa sea en una escuela, un almacén o una oficina corporativa, estamos ahí para las personas que a menudo se sienten invisibles, y les proporcionamos herramientas que realmente funcionan en la vida real."
+          }
+        },
+        {
+          "t": "qa",
+          "q": {
+            "en": "What sets Rizewell apart from other companies out there?",
+            "es": "¿Qué diferencia a Rizewell de otras empresas?"
+          },
+          "a": {
+            "en": "We’re doing something really different. We’re blending cutting-edge tech with deeply human experiences. It’s not just content or one-off workshops. We’re creating a full ecosystem that includes on-site wellness events, VR job training, and an app that supports mental, emotional, and even financial wellness. At the core of it all is our belief that wellness should feel personal and possible. We’re not here to sell a quick fix—we’re here to walk with people as they rise.",
+            "es": "Estamos haciendo algo realmente diferente: combinamos tecnología de vanguardia con experiencias profundamente humanas. No se trata solo de contenido o talleres puntuales. Estamos creando un ecosistema completo que incluye eventos de bienestar in situ, formación laboral en realidad virtual y una aplicación que apoya el bienestar mental, emocional e incluso financiero. En el centro de todo ello se encuentra nuestra creencia de que el bienestar debe ser algo personal y posible. No estamos aquí para vender soluciones rápidas, sino para acompañar a las personas en su crecimiento."
+          }
+        },
+        {
+          "t": "youtube",
+          "id": "4hEtZIDRB84",
+          "id_es": "hANJ1q4IfFo",
+          "vertical": true,
+          "title": {
+            "en": "Quentin Gause on Rizewell",
+            "es": "Quentin Gause habla de Rizewell"
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p25-1.jpg",
+          "alt": {
+            "en": "Rizewell's products: App & Dashboard, VR/AR Job Training, Onsite Wellness, Vitality Index Score, Deescalation Training, Wellness Initiative",
+            "es": "Productos de Rizewell: App & Dashboard (aplicación y panel), VR/AR Job Training (formación laboral en RV/RA), Onsite Wellness (bienestar in situ), Vitality Index Score (índice de vitalidad), Deescalation Training (formación en desescalada), Wellness Initiative (iniciativa de bienestar)"
+          },
+          "caption": {
+            "en": "Rizewell’s products",
+            "es": "Productos de Rizewell"
+          }
+        },
+        {
+          "t": "callout",
+          "text": {
+            "en": "Rizewell is redefining employee wellness through a holistic, tech-powered approach that prioritizes personalization and community. Their platform integrates physical fitness, mental resilience, and emotional balance, offering tailored coaching and immersive VR/AR training. More than a service, Rizewell is a movement, transforming corporate culture by embedding well-being into the fabric of organizational success.",
+            "es": "Rizewell está redefiniendo el bienestar de los empleados a través de un enfoque holístico y tecnológico que prioriza la personalización y la comunidad. Su plataforma integra la forma física, la resiliencia mental y el equilibrio emocional, y ofrece coaching personalizado y formación inmersiva en realidad virtual y realidad aumentada. Más que un servicio, Rizewell es un movimiento que transforma la cultura corporativa al integrar el bienestar en la estructura del éxito organizativo."
+          }
+        },
+        {
+          "t": "link",
+          "href": "https://www.rizewell.io/",
+          "label": {
+            "en": "To learn more, visit Rizewell",
+            "es": "Para obtener más información, visita Rizewell"
+          }
+        }
+      ]
+    }
+  ]
+}

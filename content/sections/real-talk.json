@@ -1,0 +1,167 @@
+{
+  "id": "real-talk",
+  "intro": {
+    "en": "Dr. Dru offers an honest take on pressing issues, drawing from his success as a TeamSTEPPS® Master Trainer in leading teams and building employee culture.",
+    "es": "El Dr. Dru ofrece una visión honesta sobre cuestiones urgentes, basándose en su éxito como formador maestro de TeamSTEPPS® en la dirección de equipos y la creación de una cultura empresarial."
+  },
+  "articles": [
+    {
+      "id": "start-cusing",
+      "pages": [
+        75,
+        76
+      ],
+      "title": {
+        "en": "Start CUSing: Normalizing Psychological Safety in the Workplace",
+        "es": "Empiece a “CUSing”: normalizar la seguridad psicológica en el lugar de trabajo"
+      },
+      "dek": {
+        "en": "A root cause analysis can’t create accountability when we’re afraid to speak up. Culture reflects integrity.",
+        "es": "“Un análisis de las causas fundamentales no puede generar responsabilidad cuando tenemos miedo de hablar. La cultura refleja la integridad”."
+      },
+      "byline": {
+        "en": "Real Talk Xpress · By Dr. Dru Bhattacharya",
+        "es": "Conversación real · Por el Dr. Dru Bhattacharya"
+      },
+      "cover": "media/img/v1i1/p76-1.jpg",
+      "blocks": [
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p75-1.jpg",
+          "alt": {
+            "en": "Portrait of Dr. Dru Bhattacharya",
+            "es": "Retrato del Dr. Dru Bhattacharya"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "There’s a saying in high-risk industries: you don’t rise to the occasion—you fall to the level of your training. That belief shaped the birth of TeamSTEPPS®, a teamwork training system originally developed by the Department of Defense in partnership with the Agency for Healthcare Research and Quality (AHRQ). What started as a response to medical errors in military hospitals soon spread across civilian healthcare systems, where it’s still widely used to reduce patient harm and improve team dynamics. I first encountered TeamSTEPPS® not as a concept but as a necessity when lives were literally at stake at the height of COVID-19. Now, as a Master Trainer, I’ve seen what happens when teams function in sync: communication flows, roles are clear, and people feel empowered to speak up. I’ve also seen what happens when safety breaks down, not just physical safety, but emotional and psychological safety too. And here’s the truth I’ve come to believe: well-being doesn’t grow unless safety is planted first.",
+            "es": "Hay un dicho en las industrias de alto riesgo: no estás a la altura de las circunstancias, sino que caes al nivel de tu formación. Esa creencia dio forma al nacimiento de TeamSTEPPS®, un sistema de formación en trabajo en equipo desarrollado originalmente por el Departamento de Defensa en colaboración con la Agencia para la Investigación y la Calidad de la Atención Médica (AHRQ). Lo que comenzó como una respuesta a los errores médicos en los hospitales militares pronto se extendió a los sistemas de salud civiles, donde todavía se utiliza ampliamente para reducir los daños a los pacientes y mejorar la dinámica de equipo. Mi primer contacto con TeamSTEPPS® no fue como concepto, sino como necesidad, cuando las vidas estaban literalmente en juego en el punto álgido de la COVID-19. Ahora, como formador maestro, he visto lo que ocurre cuando los equipos funcionan en sincronía: la comunicación fluye, las funciones están claras y las personas se sienten empoderadas para expresarse. También he visto lo que ocurre cuando se rompe la seguridad, no solo la física, sino también la emocional y la psicológica. Y esta es la verdad en la que he llegado a creer: el bienestar no crece a menos que primero se plante la seguridad."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "While the language of TeamSTEPPS® was designed for clinical care, its tools and lessons are transferable to any workplace. Because in every industry, from design firms to manufacturing lines to tech startups, teams are made up of people. And people need to feel safe in order to thrive.",
+            "es": "Aunque el lenguaje de TeamSTEPPS® se diseñó para la atención clínica, sus herramientas y lecciones se pueden aplicar a cualquier lugar de trabajo. Porque en todos los sectores, desde las empresas de diseño hasta las líneas de fabricación o las startups tecnológicas, los equipos están formados por personas. Y las personas necesitan sentirse seguras para poder prosperar."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Safety, in this context, isn’t just about preventing injuries or catching errors. It’s about creating a culture where people feel seen, heard, and respected, especially when they challenge the status quo or flag a risk. It’s about leaders who normalize huddles and debriefs, and teammates who listen actively when someone says, “I’m concerned.”",
+            "es": "En este contexto, la seguridad no se limita a prevenir lesiones o detectar errores. Se trata de crear una cultura en la que las personas se sientan vistas, escuchadas y respetadas, especialmente cuando desafían el statu quo o señalan un riesgo. Se trata de líderes que normalizan las reuniones y las sesiones informativas, y de compañeros de equipo que escuchan activamente cuando alguien dice: “Estoy preocupado”."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p75-2.jpg",
+          "alt": {
+            "en": "Colleagues listening to one another around a meeting table",
+            "es": "Colegas escuchándose unos a otros alrededor de una mesa de reuniones"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "This is where the roots of well-being take hold. When people feel safe to speak up, ask questions, or admit they don’t know something, stress diminishes and connection increases. When there’s room for vulnerability, there’s room for innovation. And when teammates watch out for each other, they’re not just preventing harm, but cultivating a culture of care.",
+            "es": "Aquí es donde se afianzan las raíces del bienestar. Cuando las personas se sienten seguras para expresarse, hacer preguntas o admitir que no saben algo, el estrés disminuye y la conexión aumenta. Cuando hay espacio para la vulnerabilidad, hay espacio para la innovación. Y cuando los compañeros de equipo se cuidan unos a otros, no solo están previniendo daños, sino que están cultivando una cultura de cuidado."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "But what happens when the warning signs aren’t visible in advance, and something feels off but no one’s sure whether to say anything?",
+            "es": "Pero, ¿qué ocurre cuando las señales de alerta no son visibles de antemano y algo parece estar mal, pero nadie está seguro de si decir algo?"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "That’s where one of the most deceptively simple TeamSTEPPS® tools becomes transformational: CUS. It stands for:",
+            "es": "Ahí es donde una de las herramientas más aparentemente sencillas de TeamSTEPPS® se convierte en transformadora: CUS. Significa:"
+          }
+        },
+        {
+          "t": "callout",
+          "text": {
+            "en": "“I’m **C**oncerned.”\n\n“I’m **U**ncomfortable.”\n\n“This is a **S**afety Issue.”",
+            "es": "“Estoy preocupado (**C**oncerned)”.\n\n“Me siento incómodo (**U**ncomfortable)”.\n\n“Esto es un problema de seguridad (**S**afety)”."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "CUS works not because it’s magic, but because it normalizes naming discomfort. It gives people a socially sanctioned way to say what they’re seeing, feeling, or fearing without having to “prove” they’re right. You don’t have to be certain. You just have to speak up. And our collective inclination to do so when necessary is our current culture.",
+            "es": "CUS funciona, no porque sea mágico, sino porque normaliza el hecho de expresar el malestar. Ofrece a las personas una forma socialmente aceptada de decir lo que ven, sienten o temen sin tener que “demostrar” que tienen razón. No es necesario estar seguro. Solo hay que decirlo."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "And the best part? CUS isn’t just for hospitals. It belongs in every workplace where people operate under pressure, across roles, and across levels. Because where there are humans, there are blind spots. And where there are blind spots, we need tools that let people safely shine a light. In doing so, we give employees a shared language and permission to act, which are two things often missing in environments where hierarchy, fear, or time pressure rule the day. These aren’t just procedural hacks. They are cultural reinforcements. They say: Your voice matters. Your judgment counts. We protect each other here.",
+            "es": "Y lo mejor de todo es que CUS no aplica solo para hospitales, sino que se adecúa a todos los lugares de trabajo donde las personas operan bajo presión, en todos los puestos y en todos los niveles. Porque donde hay seres humanos, hay puntos ciegos. Y donde hay puntos ciegos, necesitamos herramientas que permitan a las personas arrojar luz sobre ellos de forma segura. Al hacerlo, proporcionamos a los empleados un lenguaje común y permiso para actuar, dos cosas que a menudo faltan en entornos donde imperan la jerarquía, el miedo o la presión del tiempo. No se trata solo de trucos procedimentales, son refuerzos culturales. Dicen: Tu voz importa, tu opinión cuenta, aquí nos protegemos unos a otros."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p76-1.jpg",
+          "alt": {
+            "en": "Cupped hands holding soil with a young green seedling",
+            "es": "Manos que sostienen tierra con un pequeño brote verde"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "And they have a ripple effect. Organizations that embrace these principles don’t just reduce errors. They increase engagement, lower burnout, and retain talent. That’s because people who feel psychologically safe are more likely to ask for help, offer feedback, and invest emotionally in their work. They don’t just clock in—they show up.",
+            "es": "Y tienen un efecto dominó. Las organizaciones que adoptan estos principios no solo reducen los errores, sino que también aumentan el compromiso, disminuyen el agotamiento y retienen el talento. Esto se debe a que las personas que se sienten psicológicamente seguras son más propensas a pedir ayuda, ofrecer comentarios e invertir emocionalmente en su trabajo. No solo fichan, sino que se implican."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "And here’s the beautiful part: this doesn’t require a budget overhaul or a six-month initiative. It starts with a single shift in mindset from managing people to caring for teams. That might look like starting each meeting with a quick “brief,” or ending with a “check-back.” It might mean pausing during a conflict to say, “I’m concerned,” instead of staying silent. Over time, these small behaviors weave a powerful culture. One where safety and well-being are not two separate goals, but mutually reinforcing conditions. A root cause analysis can’t create accountability when we’re afraid to speak up. Culture reflects integrity. Because the truth is, silence isn’t neutral—it’s a symptom. When people don’t feel safe to speak, we lose not just their voice, but their full potential.",
+            "es": "Y esto es lo mejor: no requiere una revisión presupuestaria ni una iniciativa de seis meses. Comienza con un simple cambio de mentalidad, pasando de gestionar personas a cuidar de los equipos. Esto puede traducirse en comenzar cada reunión con un breve “resumen” o terminarla con una “revisión”. Puede significar hacer una pausa durante un conflicto para decir “estoy preocupado”, en lugar de permanecer en silencio. Con el tiempo, estos pequeños comportamientos tejen una cultura poderosa. Una en la que la seguridad y el bienestar no son dos objetivos separados, sino condiciones que se refuerzan mutuamente. Antes de hacer un análisis de las causas fundamentales de lo que salió mal, preguntémonos: “¿Cómo permitimos que sucediera?”. Porque la verdad es que el silencio no es neutral, es un síntoma. Cuando las personas no se sienten seguras para hablar, perdemos no solo su voz, sino todo su potencial."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "If safety is the soil, then well-being is the bloom. And if we want our workplaces to thrive, across every sector and shift and time zone, we have to tend the roots.",
+            "es": "Si la seguridad es el suelo, el bienestar es la flor. Y si queremos que nuestros lugares de trabajo prosperen, en todos los sectores, turnos y zonas horarias, tenemos que cuidar las raíces."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Let’s normalize the language of care, concern, and courage.",
+            "es": "Normalicemos el lenguaje del cuidado, la preocupación y el coraje."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Let’s start CUSing.",
+            "es": "Empecemos a usar CUS."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Wishing you health, wealth, and prosperity,",
+            "es": "Te deseo salud, riqueza, y prosperidad."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "**Dr. Dru**",
+            "es": "**Dr. Dru**"
+          }
+        }
+      ]
+    }
+  ]
+}

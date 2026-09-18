@@ -1,0 +1,249 @@
+{
+  "id": "veterans",
+  "intro": {
+    "en": "We salute the Greatest Generation and revisit the capture of the U-505 German submarine and its pivotal role in the Battle of the Atlantic, before making its final voyage to Chicago’s Griffin Museum of Science and Industry.",
+    "es": "Rendimos homenaje a la Generación Más Grande y repasamos la captura del submarino alemán U-505 y su papel fundamental en la batalla del Atlántico, antes de emprender su último viaje al Museo Griffin de Ciencia e Industria de Chicago."
+  },
+  "articles": [
+    {
+      "id": "u-505",
+      "pages": [
+        71,
+        72,
+        73,
+        74
+      ],
+      "title": {
+        "en": "Honoring the Heroes who Captured the U-505",
+        "es": "Homenaje a los héroes que capturaron el U-505"
+      },
+      "cover": "media/img/v1i1/p72-1.jpg",
+      "blocks": [
+        {
+          "t": "callout",
+          "title": {
+            "en": "Honoring our Veterans",
+            "es": "Honrando a nuestros veteranos"
+          },
+          "text": {
+            "en": "In every generation, there are those who answer the call to serve, individuals whose courage, sacrifice, and quiet strength have safeguarded the freedoms we often take for granted. We dedicate this section to honoring our nation’s veterans whose stories remind us that liberty is never free. Through personal reflections, historical features, and community tributes, we honor those who have worn the uniform and carried our nation forward with integrity and resolve. Here, we pay special tribute to the Greatest Generation, spotlighting the extraordinary U.S. Navy crew that captured the German U-505 submarine.",
+            "es": "En cada generación hay personas que responden a la llamada del servicio, personas cuyo coraje, sacrificio y fuerza silenciosa han salvaguardado las libertades que a menudo damos por sentadas. Dedicamos esta sección a honrar a los veteranos de nuestra nación, cuyas historias nos recuerdan que la libertad nunca es gratuita. A través de reflexiones personales, artículos históricos y homenajes de la comunidad, honramos a aquellos que han vestido el uniforme y han llevado adelante a nuestra nación con integridad y determinación. Aquí rendimos un homenaje especial a la Generación Más Grande, destacando a la extraordinaria tripulación de la Marina de los Estados Unidos que capturó el submarino alemán U-505."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "I still remember the thrill of my first job as a tour guide of the German U-505 submarine at Chicago Griffin’s Museum of Science and Industry. Day after day, I led wide-eyed visitors through the cramped quarters of this World War II U-boat, reliving its dramatic history with each tour. In the summer of ‘95, we held a special members’ night where we were joined by veterans who had participated in its capture, including Zenon Lukosius and Wayne Pickels.",
+            "es": "Todavía recuerdo la emoción de mi primer trabajo como guía turístico del submarino alemán U-505 en el Museo de Ciencia e Industria Griffin de Chicago. Día tras día guiaba a visitantes con los ojos muy abiertos por los estrechos compartimentos de este submarino de la Segunda Guerra Mundial, reviviendo su dramática historia con cada visita. En el verano de 1995 celebramos una noche especial para socios en la que nos acompañaron veteranos que habían participado en su captura, entre ellos Zenon Lukosius y Wayne Pickels."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "On that night, I found myself standing beneath the submarine’s conning tower, listening in awe as Mr. Lukosius pointed upwards and described what it was like climbing down that stretch over 50 years earlier. In his voice I could hear the mix of adrenaline and uncertainty they must have felt when he descended into the dark submarine, not knowing if a desperate German sailor might still be hiding below or if booby traps had been activated. All the while, Mr. Pickels looked on with a grin and patted me on the back as I stood, mouth agape. It was a humbling moment that connected me directly with history and heroism.",
+            "es": "Esa noche me encontré de pie bajo la torre de mando del submarino, escuchando con asombro mientras el Sr. Lukosius señalaba hacia arriba y describía cómo fue bajar por allí más de 50 años antes. En su voz podía oír la mezcla de adrenalina e incertidumbre que debieron sentir cuando descendieron al oscuro submarino, sin saber si algún marinero alemán desesperado aún se escondía abajo o si se habían activado trampas explosivas. Mientras tanto, el Sr. Pickels me observaba con una sonrisa y me daba palmadas en la espalda mientras yo permanecía allí, con la boca abierta. Fue un momento humilde que me conectó directamente con la historia y el heroísmo."
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "The Daring Capture",
+            "es": "La audaz captura"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Long before it became a museum exhibit, the U-505 was at the center of one of the most extraordinary naval feats of World War II. On June 4, 1944, in the Atlantic about 150 miles off the coast of West Africa, a U.S. Navy Hunter-Killer Task Group led by Captain Daniel V. Gallery achieved the impossible: they seized a German U-boat at sea. In fact, the U-505 was the first enemy warship captured by the U.S. Navy on the high seas since the War of 1812.¹ Task Group 22.3, built around the small aircraft carrier USS Guadalcanal and five escort destroyers, had been hunting U-boats and that day their aircraft spotted the U-505. Depth charges forced the submarine to surface, and the German crew, believing their vessel doomed, abandoned ship, but not before attempting to scuttle it.²",
+            "es": "Mucho antes de convertirse en una pieza de museo, el U-505 fue protagonista de una de las hazañas navales más extraordinarias de la Segunda Guerra Mundial. El 4 de junio de 1944, en el Atlántico, a unas 150 millas de la costa de África Occidental, un grupo de trabajo de caza y destrucción de la Marina de los Estados Unidos, liderado por el capitán Daniel V. Gallery, logró lo imposible: capturó un submarino alemán en el mar. De hecho, el U-505 fue el primer buque de guerra enemigo capturado por la Armada de los Estados Unidos en alta mar desde la Guerra de 1812.¹ El Grupo de Tarea 22.3, formado por el pequeño portaaviones USS Guadalcanal y cinco destructores de escolta, había estado cazando submarinos y ese día sus aviones avistaron el U-505. Las cargas de profundidad obligaron al submarino a salir a la superficie, y la tripulación alemana, creyendo que su barco estaba condenado, lo abandonó, pero no sin antes intentar hundirlo.²"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "As the U-505 circled out of control, taking on water, a brave American boarding party launched from the destroyer escort USS Pillsbury. Led by Lieutenant (j.g.) Albert L. David, these nine sailors clambered aboard the U-boat’s slippery deck, fully aware it could sink or explode at any moment.³",
+            "es": "Mientras el U-505 daba vueltas sin control, llenándose de agua, un valiente grupo de abordaje estadounidense se lanzó desde el destructor escolta USS Pillsbury. Liderados por el teniente de navío Albert L. David, estos nueve marineros treparon a la resbaladiza cubierta del submarino, plenamente conscientes de que podía hundirse o explotar en cualquier momento.³"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Below decks, the boarders found chaos amidst gauges smashed, seawater flooding in, and hissing pipes. Quickly they fanned out to accomplish two crucial tasks: preserve the submarine and procure its secrets. One team raced to grab codebooks, charts, and the prized Enigma cipher machine before they could be destroyed or waterlogged. Then 21-year-old Wayne Pickels seized documents that would prove invaluable in cracking the German naval codes.⁴ Simultaneously, other sailors desperately worked to stop the flooding and disarm any scuttling charges (hidden explosives) the Germans might have set.",
+            "es": "Bajo cubierta, los abordadores encontraron el caos entre medidores destrozados, agua de mar inundando el barco y tuberías silbando. Rápidamente se dispersaron para llevar a cabo dos tareas cruciales: preservar el submarino y obtener sus secretos. Un equipo se apresuró a hacerse con los libros de códigos, las cartas náuticas y la preciada máquina de cifrado Enigma antes de que pudieran ser destruidos o se empaparan. Entonces, Wayne Pickels, de 21 años, se apoderó de documentos que resultarían inestimables para descifrar los códigos navales alemanes.⁴ Al mismo tiempo, otros marineros trabajaban desesperadamente para detener la inundación y desactivar cualquier carga de hundimiento (explosivos ocultos) que los alemanes pudieran haber colocado."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p73-1.jpg",
+          "alt": {
+            "en": "An Enigma cipher machine with its wooden case, on display behind glass",
+            "es": "Una máquina de cifrado Enigma con su caja de madera, expuesta tras un cristal"
+          },
+          "caption": {
+            "en": "German Enigma machine used to encode messages during the war.",
+            "es": "Máquina Enigma alemana utilizada para codificar mensajes durante la guerra."
+          },
+          "credit": {
+            "en": "ImagineerInc.",
+            "es": "ImagineerInc."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Motor Machinist’s Mate 1st Class Zenon Lukosius spotted water gushing in from an open sea strainer valve that the U-boat crew had used to scuttle the sub. Fully aware the metal cover might be wired to a bomb, he nonetheless waded through the rising water to close it. Later, he admitted he paused before tightening the cover and muttered, “Here goes nothing,” knowing that if it was booby-trapped, “we might be all gone.”⁵ With incredible courage and a bit of luck, the cover wasn’t rigged, and he had stopped the flooding just in time. The U-505, though badly damaged, remained afloat.",
+            "es": "El contramaestre de primera clase Zenon Lukosius vio cómo entraba agua a raudales por una válvula de filtro de mar abierta que la tripulación del submarino había utilizado para hundirlo. A pesar de ser plenamente consciente de que la tapa metálica podía estar conectada a una bomba, se adentró en el agua, que seguía subiendo, para cerrarla. Más tarde, admitió que se detuvo antes de apretar la tapa y murmuró: “Allá vamos”, sabiendo que si estaba trampa, “podríamos desaparecer todos”.⁵ Con un valor increíble y un poco de suerte, la tapa no estaba manipulada y consiguió detener la inundación justo a tiempo. El U-505, aunque muy dañado, se mantuvo a flote."
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "A Living Legacy of Courage",
+            "es": "Un legado vivo de valentía"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "The Americans towed the 252-foot submarine to Bermuda in secret, along with its trove of intelligence. The capture was so significant that the U.S. Navy kept it classified for months, to avoid alerting the enemy that Allied forces now held their codes and devices. Lt. Albert David’s leadership of the boarding earned him the Congressional Medal of Honor (the only Medal of Honor awarded in the Atlantic Fleet in WWII).⁶ Admiral Gallery received the Distinguished Service Medal, and every member of the boarding party, including Lukosius and Pickels, was awarded the Silver Star for gallantry.",
+            "es": "Los estadounidenses remolcaron en secreto el submarino de 77 metros hasta Bermudas, junto con su tesoro de información. La captura fue tan importante que la Marina de los Estados Unidos la mantuvo en secreto durante meses, para evitar alertar al enemigo de que las fuerzas aliadas ahora tenían sus códigos y dispositivos. El liderazgo del teniente Albert David en el abordaje le valió la Medalla de Honor del Congreso (la única Medalla de Honor concedida en la Flota Atlántica durante la Segunda Guerra Mundial).⁶ El almirante Gallery recibió la Medalla al Servicio Distinguido, y todos los miembros del equipo de abordaje, incluidos Lukosius y Pickels, fueron condecorados con la Estrella de Plata por su valentía."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "After the war, U-505 was almost slated for scrap, but Captain Gallery, who was a Chicago native, had other ideas. He envisioned preserving the submarine as a tribute to the Navy’s sacrifice and skill. In 1954, through Gallery’s efforts and the support of Chicagoans, the U-505 was donated to the Museum of Science and Industry, becoming a permanent exhibit and war memorial.⁷ On September 25, 1954, the U-505 was formally dedicated in Chicago as a war memorial to the 55,000 Americans that had died in the Battle of the Atlantic.⁸ In my time as a guide, I watched children and adults alike step into the narrow corridors, eyes widening as they imagined life on patrol or the tension of that capture day. In those moments, I could feel the truth of Captain Gallery’s own words, predicting that “the story of the U-505’s capture, told to successive generations of youngsters as they troop through her, will be an inspiration to young Americans for a long time.”⁹ The very sight of the U-505, “now peacefully resting among the trees,” he said, should stand as “a stern reminder to their elders of the debt this country owes to its seamen” who fought the ferocious U-boat threat.⁹ Honoring the crew of U-505’s capture is not just about a single dramatic victory; it’s about paying tribute to all the veterans who, through courage and selflessness, carried the day in one of history’s darkest hours. Their legacy sails on in every young mind inspired by the U-505, a legacy of bravery that we must never forget.",
+            "es": "Después de la guerra, el U-505 estuvo a punto de ser desguazado, pero el capitán Gallery, natural de Chicago, tenía otras ideas. Su intención era conservar el submarino como homenaje al sacrificio y la destreza de la Marina. En 1954, gracias a los esfuerzos de Gallery y al apoyo de los habitantes de Chicago, el U-505 fue donado al Museo de Ciencia e Industria, convirtiéndose en una exposición permanente y un monumento a la guerra.⁷ El 25 de septiembre de 1954, el U-505 fue inaugurado oficialmente en Chicago como monumento conmemorativo de guerra a los 55.000 estadounidenses que murieron en la batalla del Atlántico.⁸ Durante mi etapa como guía, vi a niños y adultos entrar en los estrechos pasillos y abrir los ojos con asombro mientras imaginaban la vida en patrulla o la tensión de aquel día de la captura. En esos momentos, podía sentir la verdad de las propias palabras del capitán Gallery, quien predijo que “la historia de la captura del U-505, contada a sucesivas generaciones de jóvenes mientras recorren el museo, será una inspiración para los jóvenes estadounidenses durante mucho tiempo”.⁹ La sola visión del U-505, “que ahora descansa pacíficamente entre los árboles”, dijo, debería servir como “un severo recordatorio para sus mayores de la deuda que este país tiene con sus marineros”, que lucharon contra la feroz amenaza de los submarinos.⁹ Honrar a la tripulación del U-505 no es solo celebrar una victoria dramática, sino rendir homenaje a todos los veteranos que, con valentía y abnegación, salieron victoriosos en uno de los momentos más oscuros de la historia. Su legado navega en la mente de todos los jóvenes inspirados por el U-505, un legado de valentía que nunca debemos olvidar."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p72-1.jpg",
+          "alt": {
+            "en": "The U-505 submarine on display inside the Museum of Science and Industry in Chicago",
+            "es": "El submarino U-505 expuesto en el interior del Museo de Ciencia e Industria de Chicago"
+          },
+          "caption": {
+            "en": "The U-505 at Chicago’s Griffin Museum of Science and Industry",
+            "es": "El U-505 en el Museo Griffin de Ciencia e Industria de Chicago"
+          },
+          "credit": {
+            "en": "Jesus Luquin/Shutterstock.com",
+            "es": "Jesus Luquin/Shutterstock.com"
+          }
+        },
+        {
+          "t": "youtube",
+          "id": "TNp6XNQ7k8s",
+          "id_es": "ywpAmtDeafY",
+          "title": {
+            "en": "1954 - The U-505 brought to Chicago against its skyline",
+            "es": "1954: el U-505 llega a Chicago con el horizonte de la ciudad como telón de fondo"
+          },
+          "caption": {
+            "en": "Produced by Dr. Dru; Video footage credit: Rick Ray",
+            "es": "Producido por el Dr. Dru; Créditos del vídeo: Rick Ray"
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "Remembering the 9 Members of the Boarding Party",
+            "es": "En memoria de los nueve miembros del equipo de abordaje"
+          }
+        },
+        {
+          "t": "list",
+          "ordered": false,
+          "items": {
+            "en": [
+              "Albert L. David, Lieutenant, Junior Grade, U.S.N.",
+              "Chester A. Mocarski, Gunner’s Mate, First Class, U.S.N.",
+              "Wayne M. Pickels, Boatswain’s Mate, Second Class, U.S.N.",
+              "Arthur W. Knispel, Torpedoman, Third Class, U.S.N.R.",
+              "George W. Jacobson, Chief Motor Machinist’s Mate, U.S.N.",
+              "Zenon B. Lukosius, Motor Machinist’s Mate, First Class, U.S.N.",
+              "William R. Riendeau, Electrician’s Mate, Third Class, U.S.N.",
+              "Stanley E. Wdowiak, Radioman, Third Class, U.S.N.R.",
+              "Gordon F. Hohne, Signalman, Third Class, U.S.N.R."
+            ],
+            "es": [
+              "Albert L. David, teniente de navío, Marina de los Estados Unidos",
+              "Chester A. Mocarski, contramaestre de primera clase, Marina de los Estados Unidos",
+              "Wayne M. Pickels, contramaestre de segunda clase, Marina de los Estados Unidos",
+              "Arthur W. Knispel, torpedista de tercera clase, Reserva Naval de los Estados Unidos",
+              "George W. Jacobson, contramaestre jefe de máquinas, Marina de los Estados Unidos",
+              "Zenon B. Lukosius, contramaestre de máquinas, primera clase, Armada de los Estados Unidos",
+              "William R. Riendeau, contramaestre electricista de tercera clase, Marina de los Estados Unidos",
+              "Stanley E. Wdowiak, radiotelegrafista de tercera clase, Reserva Naval de los Estados Unidos",
+              "Gordon F. Hohne, señalero, tercera clase, U.S.N.R."
+            ]
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "Learn more",
+            "es": "Más información"
+          }
+        },
+        {
+          "t": "link",
+          "href": "https://www.msichicago.org/",
+          "label": {
+            "en": "Museum of Science and Industry, Chicago",
+            "es": "Museo de Ciencia e Industria de Chicago"
+          }
+        },
+        {
+          "t": "link",
+          "href": "https://www.nationalww2museum.org/",
+          "label": {
+            "en": "The National WWII Museum",
+            "es": "Museo Nacional de la Segunda Guerra Mundial"
+          }
+        },
+        {
+          "t": "link",
+          "href": "https://www.history.navy.mil/",
+          "label": {
+            "en": "National Museum of the U.S. Navy",
+            "es": "Museo Nacional de la Marina de los EE. UU."
+          }
+        },
+        {
+          "t": "link",
+          "href": "https://uboat.net/boats/u505.htm",
+          "label": {
+            "en": "U-505 on uboat.net",
+            "es": "El U-505 en uboat.net"
+          }
+        }
+      ],
+      "references": {
+        "en": [
+          "Helgason G. German submarine U-505 (Type IXC) – capture 4 June 1944. uboat.net",
+          "National Museum of the US Navy. Imagery of U-505 capture and salvage. navy.mil",
+          "Museum of Science and Industry, Chicago. Saving U-505 – Boarding the Enemy. msichicago.org",
+          "National WWII Museum. Louisiana Spotlight: U-505 and Camp Ruston. nationalww2museum.org",
+          "Museum of Science and Industry, Chicago. Saving U-505 – The Dangers Within. msichicago.org",
+          "Hickman K. World War II: Capture of U-505. ThoughtCo.",
+          "Museum of Science and Industry, Chicago. The First Exhibition – Voyage to Chicago. msichicago.org",
+          "Thompson JH. (Aug. 13, 1954). U-505 landed! First sub in history pulled ashore. Chicago Tribune.",
+          "Gallery DV. U-505 (20 Million Tons Under the Sea). Library, Inc., New York, NY. January 1, 1968."
+        ],
+        "es": [
+          "Helgason G. German submarine U-505 (Type IXC) – capture 4 June 1944. uboat.net",
+          "National Museum of the US Navy. Imagery of U-505 capture and salvage. navy.mil",
+          "Museum of Science and Industry, Chicago. Saving U-505 – Boarding the Enemy. msichicago.org",
+          "National WWII Museum. Louisiana Spotlight: U-505 and Camp Ruston. nationalww2museum.org",
+          "Museum of Science and Industry, Chicago. Saving U-505 – The Dangers Within. msichicago.org",
+          "Hickman K. World War II: Capture of U-505. ThoughtCo.",
+          "Museum of Science and Industry, Chicago. The First Exhibition – Voyage to Chicago. msichicago.org",
+          "Thompson JH. (Aug. 13, 1954). U-505 landed! First sub in history pulled ashore. Chicago Tribune.",
+          "Gallery DV. U-505 (20 Million Tons Under the Sea). Library, Inc., New York, NY. January 1, 1968."
+        ]
+      }
+    }
+  ]
+}

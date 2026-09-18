@@ -270,3 +270,86 @@ main { outline: none; }
 .routine__steps li.is-now::before { background: #E28A68; }
 .routine__nav { display: flex; gap: 10px; justify-content: space-between; max-width: 960px; width: 100%; margin: 0 auto; }
 .routine__nav .btn { color: #fff; border-color: #3A4A53; flex: 1; }
+
+/* ---------- Full-issue additions ---------- */
+.toc__page { font-size: .82rem; color: var(--ink-soft); white-space: nowrap; font-variant-numeric: tabular-nums; }
+.h1--article { font-size: clamp(2rem, 7.5vw, 3rem); }
+.byline { font-weight: 600; margin: -6px 0 8px; }
+.card__dek { margin: 4px 0 0; font-size: .92rem; color: var(--ink-soft); line-height: 1.4; }
+.card__media--blank { background: linear-gradient(135deg, var(--teal-wash), var(--coral-wash)); }
+.cards--section { margin-top: 20px; }
+
+.next-section {
+  display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 2px 12px;
+  margin-top: 28px; padding: 16px 18px; border-radius: var(--radius);
+  background: var(--ink); color: var(--paper); text-decoration: none;
+}
+.next-section small { grid-column: 1; font-size: .8rem; opacity: .75; }
+.next-section span { grid-column: 1; font: 400 1.6rem/1 var(--display); letter-spacing: .03em; }
+.next-section .chev { grid-column: 2; grid-row: 1 / span 2; color: inherit; }
+
+.prose .h2 { font-size: 1.7rem; margin: 1.4em 0 .5em; }
+.prose a { overflow-wrap: anywhere; }
+.figure, .media { margin: 1.4em 0; }
+.figure img { width: 100%; height: auto; border-radius: 10px; background: var(--line); }
+.figure a { display: block; }
+figcaption { font-size: .88rem; color: var(--ink-soft); margin-top: 8px; line-height: 1.45; }
+.credit { font-size: .8rem; opacity: .85; }
+.media .yt { border-radius: 10px; overflow: hidden; }
+.media--vertical { max-width: 340px; margin-left: auto; margin-right: auto; }
+.media--vertical .yt { aspect-ratio: 9 / 16; }
+
+.quote { margin: 1.4em 0; padding: 4px 0 4px 18px; border-left: 4px solid var(--coral); font-size: 1.15rem; font-style: italic; }
+.quote p { margin: 0 0 .5em; }
+.quote cite { display: block; font-style: normal; font-weight: 600; font-size: .95rem; color: var(--ink-soft); }
+.list { padding-left: 1.3em; margin: 0 0 1em; }
+.list li { margin-bottom: .35em; }
+
+.audio { margin: 1.2em 0; padding: 14px; border-radius: var(--radius); background: var(--surface); border: 1px solid var(--line); }
+.audio__title { font-weight: 600; margin: 0 0 8px; }
+.audio audio { width: 100%; }
+.audio__cap { font-size: .9rem; color: var(--ink-soft); margin: 8px 0 0; }
+
+.recipe { margin: 1.4em 0; padding: 18px; border-radius: var(--radius); background: var(--surface); border: 1px solid var(--line); box-shadow: var(--shadow); }
+.recipe__meta { margin: 0 0 6px; color: var(--ink-soft); font-weight: 500; }
+.recipe__h { font: 400 1.35rem/1 var(--display); letter-spacing: .06em; color: var(--coral-deep); margin: 14px 0 10px; }
+.recipe__ing { list-style: none; padding: 0; margin: 0; }
+.recipe__ing li { border-bottom: 1px solid var(--line); }
+.recipe__ing label { display: flex; gap: 12px; align-items: flex-start; padding: 9px 0; cursor: pointer; min-height: 44px; }
+.recipe__ing input { width: 20px; height: 20px; margin: 3px 0 0; accent-color: var(--teal-deep); flex: none; }
+.recipe__ing input:checked + span { text-decoration: line-through; color: var(--ink-soft); }
+.recipe__steps { padding-left: 1.4em; margin: 0; }
+.recipe__steps li { margin-bottom: .6em; padding-left: 4px; }
+
+.qa { margin: 1.3em 0; }
+.qa__q { font-weight: 600; color: var(--teal-deep); margin: 0 0 .4em; }
+.qa__a p { margin: 0 0 .8em; }
+
+.callout { margin: 1.4em 0; padding: 16px 18px; border-radius: var(--radius); background: var(--teal-wash); }
+.callout__title { font: 400 1.3rem/1.1 var(--display); letter-spacing: .05em; margin: 0 0 8px; }
+.callout p { margin: 0 0 .7em; }
+.callout p:last-child { margin: 0; }
+
+.table-wrap { overflow-x: auto; margin: 1.4em 0; }
+.table-wrap table { border-collapse: collapse; width: 100%; font-size: .92rem; }
+.table-wrap caption { text-align: left; font-weight: 600; margin-bottom: 8px; }
+.table-wrap th, .table-wrap td { padding: 8px 10px; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; }
+.table-wrap th { background: var(--teal-wash); }
+
+.btn--outline { border-color: var(--teal-deep); color: var(--teal-deep); background: transparent; text-decoration: none; }
+.btn--outline svg { width: 18px; height: 18px; }
+
+.proverb { margin: 14px 0; padding: 16px 18px; border-radius: var(--radius); background: var(--surface); border: 1px solid var(--line); }
+.proverb__lang { font: 400 1rem/1 var(--display); letter-spacing: .1em; color: var(--coral-deep); margin: 0 0 8px; }
+.proverb__original { font-size: 1.35rem; font-weight: 600; line-height: 1.35; margin: 0 0 4px; }
+.proverb__roman { font-style: italic; color: var(--ink-soft); margin: 0 0 6px; }
+.proverb__literal { font-size: .95rem; color: var(--ink-soft); margin: 0 0 4px; }
+.proverb__meaning { margin: 0 0 12px; }
+.listen {
+  display: inline-flex; align-items: center; gap: 8px; min-height: 44px; padding: 0 16px 0 12px;
+  border-radius: 999px; border: 1px solid var(--teal-deep); background: transparent; color: var(--teal-deep);
+  font-weight: 600; cursor: pointer;
+}
+.listen svg { width: 16px; height: 16px; }
+.listen.is-playing { background: var(--teal-deep); color: #fff; }
+@media (prefers-color-scheme: dark) { .listen.is-playing { color: #10202A; } }

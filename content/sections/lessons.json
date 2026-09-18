@@ -1,0 +1,377 @@
+{
+  "id": "lessons",
+  "intro": {
+    "en": "Join Italian drummer Christian Bruni as he demonstrates how to play the electric drums in the first of a multi-issue set of lessons! Learn the guitar! Electric or acoustic - your choice. Follow along with guitarists Fabio Werk or Joaco Bustillo as they guide you through an introduction to the electric and acoustic guitar, respectively, in the first lesson of their multi-issue courses.",
+    "es": "¡Únete al baterista italiano Christian Bruni, quien te enseña a tocar la batería eléctrica en la primera de una serie de lecciones! ¡Aprende a tocar la guitarra! Eléctrica o acústica, tú eliges. Sigue a los guitarristas Fabio Werk o Joaco Bustillo, quienes te guiarán a través de una introducción a la guitarra eléctrica y acústica, respectivamente, en la primera lección de sus cursos de varios números."
+  },
+  "articles": [
+    {
+      "id": "drums-single-stroke-roll",
+      "pages": [
+        37
+      ],
+      "title": {
+        "en": "Lesson 1: The Single Stroke Roll",
+        "es": "Lección 1: El redoble simple"
+      },
+      "dek": {
+        "en": "Learn the Drums with Christian Bruni",
+        "es": "Aprende a tocar la batería con Christian Bruni"
+      },
+      "cover": "media/img/v1i1/p37-1.jpg",
+      "blocks": [
+        {
+          "t": "p",
+          "text": {
+            "en": "Drums are among humanity’s oldest and most ubiquitous musical instruments.¹ Their primal rhythms hold an allure that transcends cultures and eras.² Archaeological evidence suggests drum-like instruments existed as early as 6000 BCE, and these primitive drums were likely used in rituals, ceremonies, and for communication.³ For centuries, drums rallied warriors on the battlefield and set the rhythm for sacred ceremonies, uniting communities through a common beat.⁴",
+            "es": "La batería es uno de los instrumentos musicales más antiguos y omnipresentes de la humanidad.¹ Sus ritmos primitivos tienen un encanto que trasciende culturas y épocas.² Las pruebas arqueológicas sugieren que ya en el año 6000 a. C. existían instrumentos similares a la batería, y es probable que estas baterías primitivas se utilizaran en rituales, ceremonias y para comunicarse.³ Durante siglos, la batería animó a los guerreros en el campo de batalla y marcó el ritmo de las ceremonias sagradas, uniendo a las comunidades a través de un compás común.⁴"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "In the early 1900s, jazz musicians pioneered the modern drum kit.⁵ By the late 20th century, electronic drums added new technological dimensions to percussion.⁶ Today, drums remain the heartbeat of music across countless genres and cultures worldwide.⁷ For beginners, remember that when you play drums, you join a tradition thousands of years old.⁸ Every beat you practice echoes this global heritage.⁹ Embrace the journey and enjoy every beat along the way!",
+            "es": "A principio del siglo XX, los músicos de jazz fueron los pioneros de la batería moderna.⁵ A finales del siglo XX, las baterías electrónicas añadieron nuevas dimensiones tecnológicas a la percusión.⁶ Hoy en día, la batería sigue siendo el corazón de la música en innumerables géneros y culturas de todo el mundo.⁷ Si eres principiante, recuerda que cuando tocas la batería, te unes a una tradición milenaria.⁸ Cada compás que practicas se hace eco de este patrimonio mundial.⁹ ¡Disfruta del viaje y de cada compás del camino!"
+          }
+        },
+        {
+          "t": "download",
+          "href": "media/docs/drum-sheets.pdf",
+          "label": {
+            "en": "Download and print the drumset legend",
+            "es": "Descarga e imprime la leyenda de la batería"
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p37-1.jpg",
+          "alt": {
+            "en": "Drummer Christian Bruni holding a pair of drumsticks",
+            "es": "El baterista Christian Bruni sosteniendo un par de baquetas"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Christian Bruni is a professional drummer and teacher from Italy. You can follow him on Instagram @christianbruni_drummer and learn more about his work [here](https://christianbrunidrummer.com/en/home-page-2/about-me/).",
+            "es": "Christian Bruni es un baterista profesional y profesor de Italia. Puedes seguirlo en su Instagram @christianbruni_drummer y obtener más información sobre su trabajo [aquí](https://christianbrunidrummer.com/en/home-page-2/about-me/)."
+          }
+        },
+        {
+          "t": "youtube",
+          "id": "3W-t5BlYx7I",
+          "id_es": "r4Ziq1sbjKs",
+          "title": {
+            "en": "Lesson 1: The Single Stroke Roll",
+            "es": "Lección 1: El redoble simple"
+          }
+        }
+      ],
+      "references": {
+        "en": [
+          "Hernán, D. (2025, January 22). Where did the drum originate? +ION Percussion.",
+          "BandMix. (n.d.). The Pulse of Passion: The Evolution of Drums from Ancient Rhythms to Modern Beats. BandMix Blog.",
+          "Grosse Pointe Music Academy Staff. (2011, September 7). Drummers: The Unsung Heroes of the Band. Grosse Pointe Music Academy Blog.",
+          "GUDA Drum. (n.d.). The Origin of Percussion Instruments. GUDA Drum Blog.",
+          "MasterClass. (2021, June 7). A Brief History of Drums: On the Origin of Percussion. MasterClass.",
+          "BandMix. (n.d.). The Pulse of Passion: The Evolution of Drums from Ancient Rhythms to Modern Beats.",
+          "MasterClass. (2021, June 7). A Brief History of Drums: On the Origin of Percussion.",
+          "Grosse Pointe Music Academy Staff. (2011, September 7). Drummers: The Unsung Heroes of the Band.",
+          "BandMix. (n.d.). The Pulse of Passion: The Evolution of Drums from Ancient Rhythms to Modern Beats."
+        ],
+        "es": [
+          "Hernán, D. (2025, January 22). Where did the drum originate? +ION Percussion.",
+          "BandMix. (n.d.). The Pulse of Passion: The Evolution of Drums from Ancient Rhythms to Modern Beats. BandMix Blog.",
+          "Grosse Pointe Music Academy Staff. (2011, September 7). Drummers: The Unsung Heroes of the Band. Grosse Pointe Music Academy Blog.",
+          "GUDA Drum. (n.d.). The Origin of Percussion Instruments. GUDA Drum Blog.",
+          "MasterClass. (2021, June 7). A Brief History of Drums: On the Origin of Percussion. MasterClass.",
+          "BandMix. (n.d.). The Pulse of Passion: The Evolution of Drums from Ancient Rhythms to Modern Beats.",
+          "MasterClass. (2021, June 7). A Brief History of Drums: On the Origin of Percussion.",
+          "Grosse Pointe Music Academy Staff. (2011, September 7). Drummers: The Unsung Heroes of the Band.",
+          "BandMix. (n.d.). The Pulse of Passion: The Evolution of Drums from Ancient Rhythms to Modern Beats."
+        ]
+      }
+    },
+    {
+      "id": "drums-double-stroke-roll",
+      "pages": [
+        38
+      ],
+      "title": {
+        "en": "Lesson 2: The Double Stroke Roll",
+        "es": "Lección 2: El redoble doble"
+      },
+      "dek": {
+        "en": "Learn the Drums with Christian Bruni",
+        "es": "Aprende a tocar la batería con Christian Bruni"
+      },
+      "blocks": [
+        {
+          "t": "youtube",
+          "id": "EO8BIG_5dM8",
+          "id_es": "e6bUhWQ546A",
+          "title": {
+            "en": "Lesson 2: The Double Stroke Roll",
+            "es": "Lección 2: El redoble doble"
+          }
+        },
+        {
+          "t": "download",
+          "href": "media/docs/drum-sheets.pdf",
+          "label": {
+            "en": "Download and print the drumset legend and stroke sheets",
+            "es": "Descarga e imprime la leyenda de la batería y las hojas de redobles"
+          }
+        }
+      ]
+    },
+    {
+      "id": "electric-guitar-lesson-1",
+      "pages": [
+        38,
+        39
+      ],
+      "title": {
+        "en": "Plug & Play: The Electric Guitar",
+        "es": "Enchufar y usar: La guitarra eléctrica"
+      },
+      "byline": {
+        "en": "With Fabio Werk",
+        "es": "Con Fabio Werk"
+      },
+      "blocks": [
+        {
+          "t": "p",
+          "text": {
+            "en": "The electric guitar is a cultural icon.¹ Born in the 1930s to amplify jazz and blues performances,² it soon rewired the soundscape of modern music.³ From Chuck Berry’s riffs⁴ to Jimi Hendrix’s sonic revolutions,⁵ and from global rock stages to underground fusion clubs, the electric guitar has become the heartbeat of expression across genres and borders.⁶",
+            "es": "La guitarra eléctrica es un icono cultural.¹ Nacida en la década de 1930 para amplificar las actuaciones de jazz y blues,² pronto reconfiguró el panorama sonoro de la música moderna.³ Desde los riffs⁴ de Chuck Berry hasta las revoluciones sónicas⁵ de Jimi Hendrix, y desde los escenarios de rock mundiales hasta los clubes underground de fusión, la guitarra eléctrica se ha convertido en el latido de la expresión más allá de los géneros y las fronteras.⁶"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Its roots may be newer than the ancient oud or classical guitar, but its impact is global and immediate, shaping music in North and South America, Europe, Asia, and beyond.⁷ Whether used for power chords, melodic solos, or ambient textures, the electric guitar invites individuality and innovation.⁸ Now, begin your journey with a world-class guide.",
+            "es": "Sus raíces pueden ser más recientes que las del antiguo laúd o la guitarra clásica, pero su impacto es global e inmediato, y ha dado forma a la música en América del Norte y del Sur, Europa, Asia y más allá.⁷ Ya sea para acordes potentes, solos melódicos o texturas ambientales, la guitarra eléctrica invita a la individualidad y la innovación.⁸ Ahora, comienza tu viaje con una guía de primera clase."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Fabio Werk is an accomplished electric guitarist and composer with an international pedigree. He holds advanced degrees in Musicology and Ethnomusicology (MMus, Universidad Internacional de Valencia), Composition with New Technologies (MA, UNIR), Classical Guitar (BA, Conservatori Superior del Liceu), and Liberal Arts in Music (Tokyo College of Music). Fabio is equally comfortable in the studio and on stage, skilled in songwriting, arranging, recording, editing, and post-production.",
+            "es": "Fabio Werk es un consumado guitarrista eléctrico y compositor con un pedigrí internacional. Tiene títulos avanzados en Musicología y Etnomusicología (Máster en Música, Universidad Internacional de Valencia), Composición con Nuevas Tecnologías (Máster, UNIR), Guitarra Clásica (Licenciatura, Conservatorio Superior del Liceu) y Artes Liberales en Música (Tokyo College of Music). Fabio se siente igual de cómodo en el estudio que en el escenario, y es experto en composición, arreglos, grabación, edición y posproducción."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "What makes him exceptional isn’t just his education, but his ability to translate complex technique into joyful, approachable learning. With Fabio as your guide, each lesson will blend discipline with creativity, culture with sound, and confidence with skill. So grab your guitar, plug in, and power up. Your musical journey starts now.",
+            "es": "Lo que lo hace excepcional no es solo su formación, sino su capacidad para traducir técnicas complejas en un aprendizaje divertido y accesible. Con Fabio como guía, cada lección combinará disciplina con creatividad, cultura con sonido y confianza con habilidad. Así que coge tu guitarra, enchúfala y enciéndela. Tu viaje musical comienza ahora."
+          }
+        },
+        {
+          "t": "youtube",
+          "id": "Ae0-gKeBKhA",
+          "id_es": "a57ZCgg7JOU",
+          "title": {
+            "en": "Electric Guitar Lesson 1: Meet Your Guitar",
+            "es": "Lección de guitarra eléctrica 1: Conoce tu guitarra"
+          },
+          "caption": {
+            "en": "Identifying parts of the guitar and amp; tune using an app or clip-on tuner; playing open strings and fretted notes on 1st string; playing a simple 1-string melody (E-F-G).",
+            "es": "Identificar las partes de la guitarra y el amplificador, afinar utilizando una aplicación o un afinador de pinza, tocar cuerdas al aire y notas pulsadas en la primera cuerda y tocar una melodía sencilla de una cuerda (mi-fa-sol)."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "In Lesson 1, “Meet Your Guitar,” the objectives are to:",
+            "es": "En la lección 1, “Conoce tu guitarra”, los objetivos son:"
+          }
+        },
+        {
+          "t": "list",
+          "ordered": false,
+          "items": {
+            "en": [
+              "Identify parts of the electric guitar & amp",
+              "Tune using an app or clip-on tuner",
+              "Hold the pick and guitar properly (seated)",
+              "Play open strings and fretted notes on the 1st string",
+              "Play a simple 1-string melody (E-F-G)",
+              "Mini Song Intro: “Smoke on the Water” (1-string riff)",
+              "Exercise: Play your first, clean 3-note melody"
+            ],
+            "es": [
+              "Identificar las partes de la guitarra eléctrica y el amplificador",
+              "Afinar utilizando una aplicación o un afinador de pinza",
+              "Sujetar correctamente la púa y la guitarra (sentado)",
+              "Tocar cuerdas al aire y notas pulsadas en la primera cuerda",
+              "Tocar una melodía sencilla de una cuerda (mi-fa-sol)",
+              "Introducción a una mini canción: “Smoke on the Water” (riff de una cuerda)",
+              "Ejercicio: Toca tu primera melodía limpia de 3 notas"
+            ]
+          }
+        },
+        {
+          "t": "download",
+          "href": "media/docs/electric-guitar-lesson1-guide-en.pdf",
+          "href_es": "media/docs/electric-guitar-lesson1-guide-es.pdf",
+          "label": {
+            "en": "Download & Print the Lesson 1 Guide",
+            "es": "Descarga e imprime la guía de la lección 1"
+          }
+        }
+      ],
+      "references": {
+        "en": [
+          "Waksman, S. (2001). Instruments of desire: The electric guitar and the shaping of musical experience. Harvard University Press.",
+          "Maloof, R. (2022, April 7). Who Really Invented the Electric Guitar? Reverb.",
+          "Millard, A. J. (2004). America on record: A history of recorded sound (2nd ed.). Cambridge University Press.",
+          "Palmer, R. (1995). Rock & roll: An unruly history. Harmony Books.",
+          "Murray, C. S. (1991). Crosstown traffic: Jimi Hendrix and the post-war rock ‘n’ roll revolution. St. Martin’s Griffin.",
+          "Orchard, B. (2018). The Electric Guitar and Its Changing Role in Popular Music. Research & Scholarship Symposium, Cedarville University.",
+          "Horn, D. (Ed.). (2013). Bloomsbury encyclopedia of popular music of the world: Locations. Bloomsbury Academic.",
+          "Gracyk, T. (1996). Rhythm and noise: An aesthetics of rock. Duke University Press."
+        ],
+        "es": [
+          "Waksman, S. (2001). Instruments of desire: The electric guitar and the shaping of musical experience. Harvard University Press.",
+          "Maloof, R. (2022, April 7). Who Really Invented the Electric Guitar? Reverb.",
+          "Millard, A. J. (2004). America on record: A history of recorded sound (2nd ed.). Cambridge University Press.",
+          "Palmer, R. (1995). Rock & roll: An unruly history. Harmony Books.",
+          "Murray, C. S. (1991). Crosstown traffic: Jimi Hendrix and the post-war rock ‘n’ roll revolution. St. Martin’s Griffin.",
+          "Orchard, B. (2018). The Electric Guitar and Its Changing Role in Popular Music. Research & Scholarship Symposium, Cedarville University.",
+          "Horn, D. (Ed.). (2013). Bloomsbury encyclopedia of popular music of the world: Locations. Bloomsbury Academic.",
+          "Gracyk, T. (1996). Rhythm and noise: An aesthetics of rock. Duke University Press."
+        ]
+      }
+    },
+    {
+      "id": "acoustic-guitar-lesson-1",
+      "pages": [
+        39,
+        40
+      ],
+      "title": {
+        "en": "Lesson 1: Music in 3 Concepts",
+        "es": "Lección 1: La música en 3 conceptos"
+      },
+      "dek": {
+        "en": "Old School: Acoustic Guitar",
+        "es": "Clásica: Guitarra acústica"
+      },
+      "byline": {
+        "en": "With Joaco Bustillo",
+        "es": "Con Joaco Bustillo"
+      },
+      "blocks": [
+        {
+          "t": "p",
+          "text": {
+            "en": "Musician Joaco Bustillo is an indie folk singer-songwriter, music producer, and teacher from Bolivia and based out of Buenos Aires, Argentina. His studio album, *Melodies from a (Broken) Folky Heart*, was released in 2023. His most recent releases are shot in videos amidst the landscapes of Patagonia, Argentina. He has collaborated with individuals worldwide, helping others achieve their musical goals, whether learning to play, writing songs, composing, or producing their own music. In the following lessons, he covers rhythm, melody, and harmony; major and minor music; strings and tuning; and warm-ups.",
+            "es": "El músico Joaco Bustillo es un cantautor indie folk, productor musical y profesor boliviano afincado en Buenos Aires, Argentina. Su álbum de estudio, “Melodies from a (Broken) Folky Heart”, se publicó en 2023. Sus últimos lanzamientos se grabaron en vídeos entre los paisajes de la Patagonia argentina. Ha colaborado con personas de todo el mundo, ayudándolas a alcanzar sus objetivos musicales, ya sea aprendiendo a tocar, escribiendo canciones, componiendo o produciendo su propia música. En las siguientes lecciones, aborda el ritmo, la melodía y la armonía, la música mayor y menor, las cuerdas y la afinación, y los ejercicios de calentamiento."
+          }
+        },
+        {
+          "t": "youtube",
+          "id": "2Z9DCYHVmoY",
+          "id_es": "rO70qrKbYNU",
+          "title": {
+            "en": "Lesson 1: Music in 3 Concepts",
+            "es": "Lección 1: La música en 3 conceptos"
+          },
+          "caption": {
+            "en": "Rhythm, Melody, and Harmony",
+            "es": "Ritmo, melodía y armonía"
+          }
+        }
+      ]
+    },
+    {
+      "id": "acoustic-guitar-lesson-2",
+      "pages": [
+        40
+      ],
+      "title": {
+        "en": "Lesson 2: Major and Minor Music",
+        "es": "Lección 2: Música mayor y menor"
+      },
+      "dek": {
+        "en": "Old School: Acoustic Guitar",
+        "es": "Clásica: Guitarra acústica"
+      },
+      "byline": {
+        "en": "With Joaco Bustillo",
+        "es": "Con Joaco Bustillo"
+      },
+      "blocks": [
+        {
+          "t": "youtube",
+          "id": "y-WIs1qilTA",
+          "id_es": "YEeoqA0Jxpo",
+          "title": {
+            "en": "Lesson 2: Major and Minor Music",
+            "es": "Lección 2: Música mayor y menor"
+          }
+        }
+      ]
+    },
+    {
+      "id": "acoustic-guitar-lesson-3",
+      "pages": [
+        41
+      ],
+      "title": {
+        "en": "Lesson 3: Strings and Tuning the Guitar",
+        "es": "Lección 3: Cuerdas y afinación de la guitarra"
+      },
+      "dek": {
+        "en": "Old School: Acoustic Guitar",
+        "es": "Clásica: Guitarra acústica"
+      },
+      "byline": {
+        "en": "With Joaco Bustillo",
+        "es": "Con Joaco Bustillo"
+      },
+      "blocks": [
+        {
+          "t": "youtube",
+          "id": "i34yVw1LP1Q",
+          "id_es": "yLt3j58zwAY",
+          "title": {
+            "en": "Lesson 3: Strings and Tuning the Guitar",
+            "es": "Lección 3: Cuerdas y afinación de la guitarra"
+          }
+        }
+      ]
+    },
+    {
+      "id": "acoustic-guitar-bonus-warming-up",
+      "pages": [
+        41
+      ],
+      "title": {
+        "en": "Bonus Lesson: Warming Up",
+        "es": "Lección extra: Calentamiento"
+      },
+      "dek": {
+        "en": "Old School: Acoustic Guitar",
+        "es": "Clásica: Guitarra acústica"
+      },
+      "byline": {
+        "en": "With Joaco Bustillo",
+        "es": "Con Joaco Bustillo"
+      },
+      "blocks": [
+        {
+          "t": "youtube",
+          "id": "PPNydTANDjY",
+          "id_es": "D2XxzyfJOD8",
+          "title": {
+            "en": "Bonus Lesson: Warming Up",
+            "es": "Lección extra: Calentamiento"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "id": "innovation",
+  "intro": {
+    "en": "China has slowly surpassed other nations as a high-speed rail user. Writer Geri Mileva explores what drove its success and challenges as it continues to grow.",
+    "es": "China ha ido superado poco a poco a otras naciones en el uso del tren de alta velocidad. La escritora Geri Mileva explora qué ha impulsado su éxito y los retos a los que se enfrenta a medida que sigue creciendo."
+  },
+  "articles": [
+    {
+      "id": "china-high-speed-rail",
+      "pages": [
+        55,
+        56,
+        57,
+        58
+      ],
+      "title": {
+        "en": "How China’s High Speed Rail Changed Travel--and Influence",
+        "es": "Cómo el tren de alta velocidad chino cambió los viajes y su influencia"
+      },
+      "byline": {
+        "en": "By Geri Mileva",
+        "es": "Por Geri Mileva"
+      },
+      "cover": "media/img/v1i1/p57-1.jpg",
+      "blocks": [
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p55-3.jpg",
+          "alt": {
+            "en": "Portrait of writer Geri Mileva",
+            "es": "Retrato de la escritora Geri Mileva"
+          },
+          "caption": {
+            "en": "Geri Mileva",
+            "es": "Geri Mileva"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "*Geri Mileva blends the precise thinking of her engineering background with the storytelling skills of an experienced writer. Based in Prague, she writes everything from engaging copy to in-depth journalistic pieces.* [Discover more about Geri’s work.](https://www.gerimileva.com/)",
+            "es": "*Geri Mileva combina el pensamiento preciso de su formación en ingeniería con las habilidades narrativas de una escritora experimentada. Afincada en Praga, escribe todo tipo de textos, desde atractivos artículos publicitarios hasta profundos reportajes periodísticos.* [Descubre más sobre el trabajo de Geri.](https://www.gerimileva.com/)"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Since becoming the “bicycle kingdom” of the 1980s and 1990s, China has slowly surpassed other nations and become the world’s high-speed rail (HSR) leader. In under two decades, the country created 48,000 kilometers (or 29,825 miles) of nationwide iron veins that connect the megacities of Beijing, Shanghai, and Guangzhou (imagine rails stretching from New York to Los Angeles a dozen times!). Designed for speeds of up to 400 kilometers per hour (almost 250 mph), the rail systems of other countries (except Japan) pale in comparison. But there’s more to this transformation than engineering and speed. The infrastructure reveals how its people’s discipline and long-term thinking have reshaped how they move. Let’s unpack what it took to make the HSR dream into a daily commute. What lessons do they teach us, especially to those of us who measure time in TikToks and two-day shipping? In just 12 years, China underwent significant transformation.",
+            "es": "Desde que se convirtió en el “reino de la bicicleta” en las décadas de 1980 y 1990, China ha superado poco a poco a otras naciones y se ha convertido en el líder mundial del tren de alta velocidad (HSR). En menos de dos décadas el país ha creado 48.000 kilómetros (o 29.825 millas) de vías férreas que conectan las megaciudades de Pekín, Shanghái y Cantón (¡imagina unas vías que se extienden desde Nueva York hasta Los Ángeles una docena de veces!). Diseñados para alcanzar velocidades de hasta 400 kilómetros por hora (casi 250 mph), los sistemas ferroviarios de otros países, excepto Japón, palidecen en comparación. Pero esta transformación va más allá de la ingeniería y la velocidad. La infraestructura revela cómo la disciplina y la visión a largo plazo de su población han transformado su forma de desplazarse. Analicemos qué se necesitó para convertir el sueño del tren de alta velocidad en un medio de transporte cotidiano. ¿Qué lecciones nos enseñan, especialmente a aquellos de nosotros que medimos el tiempo en TikToks y envíos de dos días? En solo 12 años, China experimentó una transformación significativa."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p55-2.jpg",
+          "alt": {
+            "en": "World Bank map of China showing a few early high-speed rail lines",
+            "es": "Mapa del Banco Mundial de China con algunas de las primeras líneas de alta velocidad"
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p55-1.jpg",
+          "alt": {
+            "en": "Railway map of China, updated February 2020, with colored lines showing a dense high-speed rail network",
+            "es": "Mapa ferroviario de China, actualizado en febrero de 2020, con líneas de colores que muestran una densa red de alta velocidad"
+          },
+          "caption": {
+            "en": "12-year growth in High Speed Rail routes from 2008 to 2020",
+            "es": "Crecimiento en 12 años de las rutas de tren de alta velocidad entre 2008 y 2020."
+          },
+          "credit": {
+            "en": "Credit: Lawrence, Martha, Richard Bullock, and Ziming Liu. 2019. China’s High-Speed Rail Development. International Development in Focus. Washington, DC: World Bank. doi:10.1596/978-1-4648-1425-9. License: Creative Commons Attribution CC BY 3.0 IGO.",
+            "es": "Crédito: Lawrence, Martha, Richard Bullock y Ziming Liu. 2019. El desarrollo del tren de alta velocidad en China. Desarrollo internacional en foco. Washington, DC: Banco Mundial. doi:10.1596/978-1-4648-1425-9. Licencia: Creative Commons Attribution CC BY 3.0 IGO."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "To understand how China pulled off this historical rail build-out, let’s rewind the clock and look at the milestones that made it a reality. This did not happen overnight but was the result of intentional and persistent efforts dating back to the 1990s.",
+            "es": "Para comprender cómo China logró esta histórica expansión ferroviaria, retrocedamos en el tiempo y veamos los hitos que la hicieron realidad. Esto no sucedió de la noche a la mañana, sino que fue el resultado de esfuerzos intencionados y persistentes que se remontan a la década de 1990."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p56-1.jpg",
+          "src_es": "media/img/v1i1/p56-1-es.jpg",
+          "alt": {
+            "en": "Timeline of China’s high-speed rail milestones from the 1990s to 2024",
+            "es": "Cronología de los hitos del tren de alta velocidad de China desde la década de 1990 hasta 2024"
+          }
+        },
+        {
+          "t": "list",
+          "ordered": false,
+          "items": {
+            "en": [
+              "**1990s-2007:** Inspired by Japan’s Shinkansen, the Ministry of Transport prepared a “Medium- and Long-Term Railway Plan” until 2030. The Ministry of Railways later launched the six-phase \"Speed-Up\" Campaign to improve tracks and prepare them for faster trains. Average train speeds then ranged from 48.1 to 70.18 km/h (~30-44 mph).¹",
+              "**2004:** China signed agreements with foreign companies (Alstom, Bombardier, Kawasaki, and Siemens) to jointly design and produce trains, train local engineers, and use Chinese names. Think of it as an international collaboration with Chinese subtitles and branding. Western countries, particularly the U.S., love the idea of fast trains—but not the control and politics that come with them. Where China streamlined, America hit a wall of permits and local protests.",
+              "**2008:** The first fully HSR line (350 km/h or 220 mph), the Beijing–Tianjin Intercity Railway, opened, coinciding with the 2008 Olympic Games hosted by Beijing. In the years following the 2008 global financial crisis, the government continued to invest in expanding the HSR to create jobs and boost the economy.",
+              "**2010:** The Wuhan–Guangzhou line starts operations, extending the network to southern China. Locally manufactured CRH380A, which travels at 355km/h (221mph), started regular service. Its maximum speed is 486.1km/h (302mph).",
+              "**2012:** Services began in China's Harbin–Dalian HSR, which traverses three northeastern provinces. It’s considered the world's first high-speed line in a “high-cold” region.",
+              "**2014-2017:** Lanzhou–Xinjiang HSR line's segments become operational, passing through West China's Gobi Desert terrain.",
+              "**2015:** The first high-speed line encircling an island, the Hainan Island loop line, was inaugurated.",
+              "**2024:** HSR tracks reach 48,000 kilometers (29,826 miles), making up nearly a third of China’s overall railroad network.² Besides speed, more people have grown to prefer the HSR over airports for local travel due to its proximity to city centers and commuters found security checks shorter than at airports.³"
+            ],
+            "es": [
+              "**1990s-2007:** Inspirado por el Shinkansen japonés, el Ministerio de Transporte preparó un “Plan ferroviario a medio y largo plazo” hasta 2030. Posteriormente, el Ministerio de Ferrocarriles puso en marcha la campaña “Speed-Up” (Aceleración), dividida en seis fases, con el fin de mejorar las vías y prepararlas para trenes más rápidos. La velocidad media de los trenes oscilaba entonces entre 48,1 y 70,18 km/h (~30-44 mph).¹",
+              "**2004:** China firmó acuerdos con empresas extranjeras (Alstom, Bombardier, Kawasaki y Siemens) para diseñar y producir trenes de forma conjunta, formar a ingenieros locales y utilizar nombres chinos. Piensa en ello como una colaboración internacional con subtítulos y marcas chinas. A los países occidentales, en particular a Estados Unidos, les encanta la idea de los trenes rápidos, pero no el control y la política que los acompañan. Mientras China se modernizaba, Estados Unidos se topó con un muro de permisos y protestas locales.",
+              "**2008:** Se inauguró la primera línea totalmente de alta velocidad (350 km/h o 220 mph), el ferrocarril interurbano Pekín-Tianjin, coincidiendo con los Juegos Olímpicos de 2008 celebrados en Pekín. En los años posteriores a la crisis financiera mundial de 2008, el Gobierno siguió invirtiendo en la expansión del tren de alta velocidad para crear puestos de trabajo e impulsar la economía.",
+              "**2010:** La línea Wuhan-Guangzhou entra en funcionamiento, ampliando la red al sur de China. El CRH380A, fabricado localmente, que viaja a 355 km/h (221 mph), comenzó a prestar servicio regular. Su velocidad máxima es de 486,1 km/h (302 mph).",
+              "**2012:** Comienzan los servicios en el tren de alta velocidad Harbin-Dalian de China, que atraviesa tres provincias del noreste. Se considera la primera línea de alta velocidad del mundo en una región “fría y elevada”.",
+              "**2014-2017:** Entran en funcionamiento los tramos de la línea de alta velocidad Lanzhou-Xinjiang, que atraviesa el desierto de Gobi, en el oeste de China.",
+              "**2015:** Se inaugura la primera línea de alta velocidad que rodea una isla, la línea circular de la isla de Hainan.",
+              "**2024:** Las vías del tren de alta velocidad alcanzan los 48.000 kilómetros (29.826 millas), lo que supone casi un tercio de la red ferroviaria total de China.² Además de la velocidad, cada vez más personas prefieren el tren de alta velocidad a los aeropuertos para los desplazamientos locales, debido a su proximidad a los centros urbanos y a que los viajeros consideran que los controles de seguridad son más rápidos que en los aeropuertos.³"
+            ]
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "How did they do it? The machinery behind China’s speed revolution",
+            "es": "¿Cómo lo han conseguido? La maquinaria detrás de la revolución de la velocidad en China"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "China’s railway innovation was an interplay of various drivers behind its steady development, including political alignment, cultural ethos, and local technology transfer. The government practiced top-down governance to ensure progress for the project, from land acquisition to funding. If people weren’t ready to move, they would just build around them. In one situation, the station or railway ended up circling some residents’ homes.",
+            "es": "La innovación ferroviaria de China fue el resultado de la interacción de varios factores que impulsaron su desarrollo constante, entre ellos, la alineación política, el espíritu cultural y la transferencia de tecnología local. El Gobierno aplicó una gobernanza de arriba hacia abajo para garantizar el progreso del proyecto, desde la adquisición de terrenos hasta la financiación. Si la gente no estaba dispuesta a mudarse, simplemente construían a su alrededor. En una ocasión, la estación o la vía férrea acabaron rodeando las casas de algunos residentes."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Asian values, which have Confucian influences such as loyalty toward family, corporation, and nation, social harmony, work ethic, and the pursuit of excellence, together fueled the collective will to persevere. Local manufacturers also made up 70% strategic materials by 2020 with an anticipated increase to 85% by 2025.⁴",
+            "es": "Los valores asiáticos, que tienen influencias confucianas como la lealtad hacia la familia, la empresa y la nación, la armonía social, la ética del trabajo y la búsqueda de la excelencia, alimentaron la voluntad colectiva de perseverar. Los fabricantes locales también fabricaron el 70% de los materiales estratégicos en 2020, con un aumento previsto hasta el 85% en 2025.⁴"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Human capital at scale and uniform design were also crucial elements. The Beijing-Shanghai route alone mobilized around 100,000 workers.⁵ They laid tracks and built stations, bridges, and systems for signaling and communications. The government also standardized designs and manufacturing processes for everything from tracks, viaducts, and embankments to electrification and signaling.",
+            "es": "El capital humano a gran escala y el diseño uniforme también fueron elementos cruciales. Solo la ruta Pekín-Shanghái movilizó a unos 100.000 trabajadores.⁵ Estos colocaron las vías y construyeron estaciones, puentes y sistemas de señalización y comunicaciones. El Gobierno también estandarizó los diseños y los procesos de fabricación de todo, desde las vías, los viaductos y los terraplenes hasta la electrificación y la señalización."
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "When Speed Inspires and Stretches Thin: Challenges and Implications",
+            "es": "Cuando la velocidad inspira y se extiende: retos e implicaciones"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "While the world may admire China’s high speed rail network, it faces significant pressure. The speed of ultra-fast trains doesn’t just move passengers—it also moves loan figures. As of 2022, the government’s debt amounted to $890 billion, 5% of China’s GDP that year, for pushing this transport system to every corner of the country.⁶",
+            "es": "Aunque el mundo admira la red ferroviaria de alta velocidad de China, esta se enfrenta a una presión considerable. La velocidad de los trenes ultrarrápidos no solo mueve pasajeros, sino también cifras de préstamos. En 2022, la deuda del Gobierno ascendía a 890.000 millones de dólares, el 5% del PIB de China ese año, por llevar este sistema de transporte a todos los rincones del país.⁶"
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p57-1.jpg",
+          "alt": {
+            "en": "A white high-speed train with a red stripe on an elevated track",
+            "es": "Un tren de alta velocidad blanco con una franja roja sobre una vía elevada"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Meanwhile, some routes are struggling due to low demand because of high ticket prices. Commuters in less developed areas turn to more affordable (and slower) alternatives. They include the green trains, which still run in places like Yunnan, which only charge six to 36.5 yuan.⁷",
+            "es": "Mientras tanto, algunas rutas están sufriendo apuros debido a la baja demanda provocada por los elevados precios de los billetes. Los viajeros de las zonas menos desarrolladas recurren a alternativas más asequibles (y más lentas). Entre ellas se encuentran los trenes ecológicos, que siguen funcionando en lugares como Yunnan y que solo cobran entre 6 y 36,5 yuanes.⁷"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "In a 2021 interview by Radio Free Asia’s Eugene Whong, a Lao national described the ride on the Laos-China high-speed railway as “calm, like I was sitting in an airplane, only without the turbulence.”⁸ Plans are underway to establish a link between Kunming and Bangkok. Also, the Jakarta–Bandung high-speed railway, although based in Indonesia, is a product of China’s rail diplomacy.",
+            "es": "En una entrevista realizada en 2021 por Eugene Whong, de Radio Free Asia, un ciudadano de Laos describió el viaje en el tren de alta velocidad Laos-China como “tranquilo, como si estuviera sentado en un avión, pero sin turbulencias”.⁸ Hay planes en marcha para establecer una conexión entre Kunming y Bangkok. Además, el tren de alta velocidad Yakarta-Bandung, aunque tiene su sede en Indonesia, es producto de la diplomacia ferroviaria de China."
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "The Long Game in the Fast Lane",
+            "es": "El juego largo en la vía rápida"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "China’s HSR may have begun as a slow burn of planning, public will, and partnerships. However, the discipline and commitment to the long game ultimately paid off.",
+            "es": "Es posible que el tren de alta velocidad chino comenzara como un proyecto lento en cuanto a planificación, voluntad pública y asociaciones. Sin embargo, la disciplina y el compromiso con el juego a largo plazo finalmente dieron sus frutos."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Although the debt is steep and some routes run light, the project proves what’s possible when vision meets resolve. So we’re faced with a quiet challenge: Would we ever wait 20 years for a train that goes 350 to 400km/h? Or will we abandon our efforts midway and build another freeway instead?",
+            "es": "Aunque la deuda es elevada y algunas rutas tienen poca afluencia, el proyecto demuestra lo que se puede conseguir cuando la visión se une a la determinación. Así que nos enfrentamos a un reto silencioso: ¿esperaríamos 20 años por un tren que circula a 350 o 400 km/h? ¿O abandonaríamos nuestros esfuerzos a mitad de camino y construiríamos otra autopista en su lugar?"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "While some nations get stuck in the planning stage, China has already left the station. In the end, national pride isn’t just about speed alone, but how far you’re willing to go to make it real.",
+            "es": "Mientras que algunos países se quedan estancados en la fase de planificación, China ya ha salido de la estación. Al fin y al cabo, el orgullo nacional no solo tiene que ver con la velocidad, sino con lo lejos que se está dispuesto a llegar para hacerlo realidad."
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "Riding China’s HSR as a tourist",
+            "es": "Viajar en el tren de alta velocidad de China como turista"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "If you’re visiting China, you should check out the HSR—it’s the fastest and most efficient way to travel between cities. China’s high-speed trains fall under three categories based on their speed and tracks:",
+            "es": "Si visitas China, no te pierdas el tren de alta velocidad, ya que es la forma más rápida y eficiente de viajar entre ciudades. Los trenes de alta velocidad de China se dividen en tres categorías según su velocidad y vías:"
+          }
+        },
+        {
+          "t": "list",
+          "ordered": false,
+          "items": {
+            "en": [
+              "G trains: 250 to 400km/h, ballast-free tracks",
+              "D trains: 200 to 250km/h, standard tracks",
+              "C trains: 200km/h for shorter, inter-city routes (within a region)"
+            ],
+            "es": [
+              "Trenes G: de 250 a 400 km/h, vías sin balasto",
+              "Trenes D: de 200 a 250 km/h, vías estándar.",
+              "Trenes C: 200 km/h para rutas interurbanas más cortas (dentro de una región)"
+            ]
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Seats range from second class (tight and efficient) to business class (think first-class airline pod).",
+            "es": "Los asientos van desde la segunda clase (estrechos y eficientes) hasta la clase business (similar a los asientos de primera clase de los aviones)."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "The amenities available on most high-speed trains include:",
+            "es": "Las comodidades disponibles en la mayoría de los trenes de alta velocidad incluyen:"
+          }
+        },
+        {
+          "t": "list",
+          "ordered": false,
+          "items": {
+            "en": [
+              "Luggage racks and closets",
+              "Power outlets (except on some old CRH1 trains)",
+              "Wi-Fi access (on Fuxing bullet trains and some Hexie high-speed trains)",
+              "Dining bar or food trolley service and water dispensers"
+            ],
+            "es": [
+              "Portaequipajes y armarios",
+              "Enchufes eléctricos (excepto en algunos trenes CRH1 antiguos)",
+              "Acceso a wifi (en los trenes bala Fuxing y algunos trenes de alta velocidad Hexie)",
+              "Bar o servicio de comida a bordo y dispensadores de agua"
+            ]
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p58-1.jpg",
+          "alt": {
+            "en": "Rows of cream-colored seats inside a high-speed train car",
+            "es": "Filas de asientos de color crema en el interior de un vagón de tren de alta velocidad"
+          },
+          "caption": {
+            "en": "Guilin, China: The comfortable and spacy inside of a high speed intercity train en route to Shenzhen.",
+            "es": "Guilin, China: El cómodo y espacioso interior de un tren interurbano de alta velocidad en ruta hacia Shenzhen."
+          },
+          "credit": {
+            "en": "Credit: Yuestock",
+            "es": "Crédito: Yuestock"
+          }
+        },
+        {
+          "t": "callout",
+          "title": {
+            "en": "Travel Tips",
+            "es": "Consejos de viaje"
+          },
+          "text": {
+            "en": "Experience a more pleasurable journey by taking these steps:\n\n1. Download ticket booking apps like [Klook.com](https://www.klook.com/) or [Trip.com](https://www.trip.com/) in advance.\n\n2. Bring your travel documents.\n\n3. Know your luggage limits (20 kilos/44 pounds for adults and 10 kilos for children).\n\n4. Arrive early to give yourself ample time for security checks.",
+            "es": "Disfruta de un viaje más agradable siguiendo estos consejos:\n\n1. Descarga con antelación aplicaciones para reservar billetes, como [Klook.com](https://www.klook.com/) o [Trip.com](https://www.trip.com/).\n\n2. Lleva contigo tus documentos de viaje.\n\n3. Infórmate sobre los límites de equipaje (20 kilos/44 libras para adultos y 10 kilos para niños).\n\n4. Llega con antelación para disponer de tiempo suficiente para los controles de seguridad."
+          }
+        }
+      ],
+      "references": {
+        "en": [
+          "Yan, S. L. K. (2020). Planning Like a State: Railway Modernization in China. University of Toronto (Canada).",
+          "CCTV. (January 3, 2025). Total length of operation network of high-speed railways in China from 2008 to 2024 (in 1,000 kilometers) [Graph]. In Statista.",
+          "Gao, Y., Song, S., & Zou, Y. (2025). Does high-speed rail complement or substitute other transportation modes? City-level evidence from China. Research in Transportation Business & Management, 59, 101250.",
+          "Boullenois, C., Black, M., & Rosen, D. H. (2025). Was Made in China 2025 Successful? Prepared for the U.S. Chamber of Commerce.",
+          "Powell, B. (2009). China’s Amazing New Bullet Train-This year Beijing will spend $50 billion on what will soon be the world’s biggest high-speed train system. Here’s how it works. Fortune (Asia), 160(3), 28.",
+          "Rai, K. (n.d.a). High speed railways in China. Organisation for Research on China and Asia.",
+          "Huaxia (January 16, 2025). Across China: green-painted trains provide cost-effective rides for rural vendors. Xinhua.",
+          "Wong, E. (December 12, 2012). Lao-China railways feels ‘similar to when I rode the Shinkansen in Japan.’ Radio Free Asia."
+        ],
+        "es": [
+          "Yan, S. L. K. (2020). Planning Like a State: Railway Modernization in China. University of Toronto (Canada).",
+          "CCTV. (January 3, 2025). Total length of operation network of high-speed railways in China from 2008 to 2024 (in 1,000 kilometers) [Graph]. In Statista.",
+          "Gao, Y., Song, S., & Zou, Y. (2025). Does high-speed rail complement or substitute other transportation modes? City-level evidence from China. Research in Transportation Business & Management, 59, 101250.",
+          "Boullenois, C., Black, M., & Rosen, D. H. (2025). Was Made in China 2025 Successful? Prepared for the U.S. Chamber of Commerce.",
+          "Powell, B. (2009). China’s Amazing New Bullet Train-This year Beijing will spend $50 billion on what will soon be the world’s biggest high-speed train system. Here’s how it works. Fortune (Asia), 160(3), 28.",
+          "Rai, K. (n.d.a). High speed railways in China. Organisation for Research on China and Asia.",
+          "Huaxia (January 16, 2025). Across China: green-painted trains provide cost-effective rides for rural vendors. Xinhua.",
+          "Wong, E. (December 12, 2012). Lao-China railways feels ‘similar to when I rode the Shinkansen in Japan.’ Radio Free Asia."
+        ]
+      }
+    }
+  ]
+}

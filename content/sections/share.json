@@ -1,0 +1,81 @@
+{
+  "id": "share",
+  "intro": {
+    "en": "We want to hear your ideas about authentic foods you would like to see featured; films and songs that you would like to see reviewed; a veteran you would like to honor; or a story to share.",
+    "es": "Queremos conocer tus ideas sobre los alimentos auténticos que te gustaría que se presentaran, las películas y canciones que te gustaría que se reseñaran, un veterano al que te gustaría honrar o una historia que compartir."
+  },
+  "articles": [
+    {
+      "id": "share-your-story",
+      "pages": [
+        78
+      ],
+      "title": {
+        "en": "Share your story!",
+        "es": "¡Comparte tu historia!"
+      },
+      "cover": "media/img/v1i1/p78-1.jpg",
+      "blocks": [
+        {
+          "t": "p",
+          "text": {
+            "en": "Your voice matters! Do you have a favorite cultural dish or even a recipe of a healthy version of it? Can you recommend any health- or hope-related films or unique songs? Are you a veteran or know someone who is and have a story to share? Or do you have any personal stories that relate to your well-being journey? Please send it our way for consideration in a future issue at: [dru@4everyone.health](mailto:dru@4everyone.health)",
+            "es": "¡Tu opinión es importante! ¿Tienes algún plato cultural favorito o incluso una receta saludable de ese plato? ¿Puedes recomendar alguna película o canción relacionada con la salud o la esperanza? ¿Eres veterano o conoces a alguien que lo sea y tienes una historia que compartir? ¿Tienes alguna historia personal relacionada con tu camino hacia el bienestar? Envíanosla para que la tengamos en cuenta en un próximo número a: [dru@4everyone.health](mailto:dru@4everyone.health)"
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p78-1.jpg",
+          "alt": {
+            "en": "A diverse group of people standing arm in arm outdoors, seen from behind",
+            "es": "Un grupo diverso de personas abrazadas al aire libre, vistas de espaldas"
+          }
+        },
+        {
+          "t": "quote",
+          "text": {
+            "en": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+            "es": "“Nada en la vida debe ser temido, solamente comprendido. Ahora es el momento de comprender más, para temer menos”."
+          },
+          "cite": {
+            "en": "Marie Curie",
+            "es": "Marie Curie"
+          }
+        },
+        {
+          "t": "quote",
+          "text": {
+            "en": "Make every effort to change things you do not like. If you cannot make a change, change the way you have been thinking. You might find a new solution.",
+            "es": "“Si no te gusta algo, cámbialo. Si no puedes cambiarlo, cambia tu actitud. Quizás encuentres una nueva solución”."
+          },
+          "cite": {
+            "en": "Maya Angelou",
+            "es": "Maya Angelou"
+          }
+        },
+        {
+          "t": "quote",
+          "text": {
+            "en": "Often when you think you’re at the end of something, you’re at the beginning of something else.",
+            "es": "“A menudo, cuando crees que estás al final de algo, estás en el comienzo de otra cosa”."
+          },
+          "cite": {
+            "en": "Fred Rogers",
+            "es": "Fred Rogers"
+          }
+        },
+        {
+          "t": "callout",
+          "title": {
+            "en": "Answer to the music trivia in Flow:",
+            "es": "Respuesta a la pregunta de música de Flow:"
+          },
+          "text": {
+            "en": "El Cascabel",
+            "es": "El Cascabel"
+          }
+        }
+      ]
+    }
+  ]
+}

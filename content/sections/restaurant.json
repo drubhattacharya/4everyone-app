@@ -1,0 +1,90 @@
+{
+  "id": "restaurant",
+  "intro": {
+    "en": "Spotlight on where to find healthy, authentic cuisine. We begin in Las Vegas with El Dorado Cantina, which serves organic Mexican food, non-GMO, and no seed oils.",
+    "es": "Destacamos dónde encontrar cocina saludable y auténtica. Comenzamos en Las Vegas con El Dorado Cantina, que sirve comida mexicana orgánica, sin OMG y sin aceites de semillas."
+  },
+  "articles": [
+    {
+      "id": "el-dorado-cantina",
+      "pages": [
+        62,
+        63
+      ],
+      "title": {
+        "en": "Authentic, hearty Pozole in Vegas",
+        "es": "Auténtico y sustancioso pozole en Las Vegas"
+      },
+      "dek": {
+        "en": "El Dorado Cantina, Las Vegas",
+        "es": "El Dorado Cantina, Las Vegas"
+      },
+      "cover": "media/img/v1i1/p62-1.jpg",
+      "blocks": [
+        {
+          "t": "p",
+          "text": {
+            "en": "Welcomed by the upbeat rhythms of Latin music and the comfort of spacious booths, El Dorado Cantina sets the tone with warmth and ease. The friendly staff guided me through a menu bursting with flavor, starting with bright red and green salsas that shouted freshness. But the star? The pozole. A rich, savory stew that echoes the layered depth of Vietnamese pho, adorned with fresh onions, red cabbage, radishes, avocado, and limes. Hearty and deeply satisfying, the generous cuts of meat make each bite feel like home. This is comfort food with corazón, so good, you’ll want a siesta afterward.",
+            "es": "Recibido por los alegres ritmos de la música latina y la comodidad de sus amplias mesas, El Dorado Cantina crea un ambiente cálido y relajado. El amable personal me guio a través de un menú repleto de sabor, comenzando con salsas rojas y verdes que abundaban de frescura. Pero, ¿cuál es la estrella? El pozole. Un guiso rico y sabroso que recuerda la profundidad del pho vietnamita, adornado con cebolla fresca, col roja, rábanos, aguacate y limas. Sustancioso y profundamente satisfactorio, los generosos trozos de carne hacen que cada bocado te haga sentir como en casa. Es una comida reconfortante con corazón, tan buena que querrás echarte una siesta después."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p62-1.jpg",
+          "alt": {
+            "en": "A bowl of red pozole with a plate of chopped onion, cilantro, red cabbage, radishes, avocado and lime, next to blue and yellow tortilla chips, red and green salsas and the El Dorado Cantina menu",
+            "es": "Un plato de pozole rojo con cebolla picada, cilantro, col morada, rábanos, aguacate y lima, junto a totopos azules y amarillos, salsas roja y verde y el menú de El Dorado Cantina"
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "Sazón y Sonrisas: organic, soul-filled, & health-forward",
+            "es": "Sazón y sonrisas: orgánico, lleno de alma y saludable"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "El Dorado Cantina radiates warmth from the moment you enter—glowing star lanterns, sleek wood tables, and plush leather booths offer cozy elegance. In the corner, calaveras and folkloric figurines honor Día de los Muertos traditions, a tribute to ancestors that beautifully bridges the past and present, reminding diners that food, like memories, keeps us connected.",
+            "es": "El Dorado Cantina irradia calidez desde el momento en que entras: linternas de estrellas brillantes, elegantes mesas de madera y lujosas cabinas de cuero ofrecen una elegancia acogedora. En la esquina, calaveras y figuritas folclóricas honran las tradiciones del Día de los Muertos, un tributo a los antepasados que une maravillosamente el pasado y el presente, recordando a los comensales que la comida, al igual que los recuerdos, nos mantiene conectados."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p63-1.jpg",
+          "alt": {
+            "en": "Entrance of El Dorado Cantina Restaurant & Bar, with an “Open 24 hours” sign on the glass doors and a mural of a guitar-playing calavera",
+            "es": "Entrada de El Dorado Cantina Restaurant & Bar, con el letrero “Open 24 hours” en las puertas de cristal y un mural de una calavera tocando la guitarra"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Make brunch a vibrant celebration, with bottomless mimosas, and Bolillo Churro French Toast at Tivoli Village. Adults may choose to swing by the location on the Strip after a night out. Whether you’re vegan, gluten-friendly, or just craving carne asada, the menu welcomes all. This is Mexican cuisine with integrity. Organic, soul-filled, and boldly health-forward. Even the oils are chosen with care: premium palm for sautéing, wagyu tallow for deep-frying. Each dish is a thoughtful blend of tradition and innovation, where heirloom ingredients meet elevated technique. The pozole evokes ancestral warmth, the avocado toast offers a nod to modern wellness. Brunch is shared, savored, and steeped in sabor. Come hungry, leave nourished.",
+            "es": "Convierte el brunch en una celebración vibrante, con mimosas ilimitadas y tostadas francesas Bolillo Churro en Tivoli Village. Los adultos pueden optar por pasar por el local de The Strip después de una noche de fiesta. Tanto si eres vegano, celíaco o simplemente te apetece una carne asada, el menú da la bienvenida a todos. Se trata de cocina mexicana con integridad: orgánica, llena de alma y audazmente saludable. Incluso los aceites se eligen con cuidado: palma de primera calidad para saltear y sebo de wagyu para freír. Cada plato es una mezcla cuidadosa de tradición e innovación, donde los ingredientes tradicionales se combinan con una técnica elevada: el pozole evoca la calidez ancestral, mientras que la tostada de aguacate es un guiño al bienestar moderno. El brunch se comparte, se saborea y está impregnado de sabor. Ven con hambre y vete saciado."
+          }
+        },
+        {
+          "t": "callout",
+          "title": {
+            "en": "Open 24 hours",
+            "es": "Abierto las 24 horas"
+          },
+          "text": {
+            "en": "For reservations or more information, please call or click below:\n\n725-208-1903 (The Cantina - Southwest)\n\n702-333-1112 (Tivoli Village)\n\n702-722-2289 (The Strip)\n\nOr you can place a pickup or delivery order",
+            "es": "Para reservas o más información, llama o haz clic a continuación:\n\n725-208-1903 (The Cantina - Southwest)\n\n702-333-1112 (Tivoli Village)\n\n702-722-2289 (The Strip)\n\nTambién puedes realizar un pedido para recoger o que te lo entreguen."
+          }
+        },
+        {
+          "t": "link",
+          "href": "https://eldoradocantina.com/reservation/",
+          "label": {
+            "en": "Make a reservation",
+            "es": "Haz una reserva"
+          }
+        }
+      ]
+    }
+  ]
+}

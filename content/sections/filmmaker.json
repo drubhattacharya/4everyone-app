@@ -1,0 +1,143 @@
+{
+  "id": "filmmaker",
+  "intro": {
+    "en": "Bruce Nelson explores the rich history of the African American experience, including one that takes him down a startling path into his own family’s history.",
+    "es": "Bruce Nelson explora la rica historia de la experiencia afroamericana, incluyendo una que le lleva por un sorprendente camino hacia la historia de su propia familia."
+  },
+  "articles": [
+    {
+      "id": "bruce-nelson",
+      "pages": [
+        53,
+        54
+      ],
+      "title": {
+        "en": "Award-winning filmmaker brings an authentic voice",
+        "es": "Un cineasta galardonado aporta una voz auténtica"
+      },
+      "dek": {
+        "en": "Filmmaker Spotlight",
+        "es": "Foco sobre el cineasta"
+      },
+      "cover": "media/img/v1i1/p53-1.jpg",
+      "blocks": [
+        {
+          "t": "p",
+          "text": {
+            "en": "Bruce Nelson is a visionary actor and filmmaker whose work resonates across generations and cultures. Through powerful documentaries and narrative films, Bruce brings to life untold stories that stir the heart and challenge the moral compass, anchored in historical truth and cultural authenticity. In addition to his film work, Bruce curates traveling exhibitions and documentary projects that honor African American history, including the rich legacy of the once-segregated Washington-Escobedo community in Mesa, Arizona. His exhibitions are available for museums, libraries, and public spaces, ensuring that these vibrant stories are not only preserved—but proudly shared.",
+            "es": "Bruce Nelson es un actor y cineasta visionario cuyo trabajo resuena en todas las generaciones y culturas. A través de poderosos documentales y películas narrativas, Bruce da vida a historias desconocidas que conmueven el corazón y desafían la brújula moral, ancladas en la verdad histórica y la autenticidad cultural. Además de su trabajo cinematográfico, Bruce dirige exposiciones itinerantes y proyectos documentales que rinden homenaje a la historia afroamericana, incluido el rico legado de la comunidad de Washington-Escobedo, en Mesa (Arizona), que supo ser objeto de segregación. Sus exposiciones están disponibles para museos, bibliotecas y espacios públicos, lo que garantiza que estas vibrantes historias no solo se conserven, sino que se compartan con orgullo."
+          }
+        },
+        {
+          "t": "youtube",
+          "id": "NM_gW7aCJB0",
+          "title": {
+            "en": "North Town (trailer)",
+            "es": "North Town (tráiler)"
+          },
+          "caption": {
+            "en": "North Town unearths the untold struggles and resilience of Mesa’s once-segregated Black community",
+            "es": "North Town desentraña las luchas desconocidas y la resiliencia de la comunidad negra de Mesa, que supo ser segregada."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p53-1.jpg",
+          "src_es": "media/img/v1i1/p53-1-es.jpg",
+          "alt": {
+            "en": "Bruce Nelson standing with arms outstretched in front of the TCL Chinese Theatre",
+            "es": "Bruce Nelson con los brazos abiertos frente al TCL Chinese Theatre"
+          },
+          "caption": {
+            "en": "Bruce Nelson outside TCL Chinese Theatres (formerly Gruman’s Chinese) after North Town became an official selection of Silicon Beach Film Festival.",
+            "es": "Bruce Nelson frente al TCL Chinese Theatres (antes Gruman’s Chinese) después de que North Town fuera seleccionada oficialmente para el Silicon Beach Film Festival."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "The African American experience is rarely captured with the nuance and sensitivity to tales of tragedy and resilience as portrayed in the works of Bruce Nelson. In *North Town*, we learn of Dr. Lucius C. Alston, a physician and World War I veteran, who resided in Mesa and served African Americans, Hispanics, and Native Americans in its segregated community of Washington Park. Residents recall seeing White patients visit Dr. Alston in the night to avoid drawing attention to the fact that they had an African American doctor. One resident recalled Chicago Cubs Hall of Famer, Ernie Banks, staying at the residence because African American players were often refused hotel rooms in downtown Mesa. Today, the Alston House provides offices for non-profit associations supporting civil rights and equal employment opportunity.",
+            "es": "La experiencia afroamericana rara vez se plasma con el matiz y la sensibilidad de las historias de tragedia y resiliencia que se retratan en las obras de Bruce Nelson. En *North Town*, conocemos al Dr. Lucius C. Alston, médico y veterano de la Primera Guerra Mundial, que residía en Mesa y atendía a afroamericanos, hispanos y nativos americanos en la comunidad segregada de Washington Park. Los residentes recuerdan haber visto a pacientes blancos visitar al Dr. Alston por la noche para evitar llamar la atención sobre el hecho de que tenían un médico afroamericano. Un residente recordó que Ernie Banks, miembro del Salón de la Fama de los Chicago Cubs, se alojaba en la residencia porque a los jugadores afroamericanos a menudo se les negaban habitaciones de hotel en el centro de Mesa. Hoy en día, la Casa Alston ofrece oficinas a asociaciones sin ánimo de lucro que apoyan los derechos civiles y la igualdad de oportunidades en el empleo."
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "Bruce Nelson",
+            "es": "Bruce Nelson"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Nelson’s current projects include *Redline: Veterans of Washington-Escobedo Community*, and *Looking for Laura Nelson*. In *Redline*, he spotlights the unsung African American heroes who served in the Civil War, World War I, and World War II, fighting for all Americans while battling discrimination in their own town. In *Looking for Laura Nelson*, Bruce explores a deeply personal history as he uncovers secrets of the past through DNA testing, and investigates the lynching that occurred in 1911 of two relatives in Okemah, Oklahoma. Ms. Nelson’s image has been used in dozens of documentaries, but for Bruce, her legacy is deeply personal:",
+            "es": "Los proyectos actuales de Nelson incluyen “Redline: Veterans of Washington-Escobedo Community” y “Looking for Laura Nelson”. En “Redline” destaca a los héroes afroamericanos olvidados que sirvieron en la Guerra Civil, la Primera Guerra Mundial y la Segunda Guerra Mundial, luchando por todos los estadounidenses mientras combatían la discriminación en su propia ciudad. En “Looking for Laura Nelson” Bruce explora una historia profundamente personal al descubrir secretos del pasado mediante pruebas de ADN e investigar el linchamiento que tuvo lugar en 1911 de dos familiares en Okemah, Oklahoma. La imagen de la Sra. Nelson se ha utilizado en docenas de documentales, pero para Bruce, su legado es profundamente personal:"
+          }
+        },
+        {
+          "t": "quote",
+          "text": {
+            "en": "“I have to tell people Laura Nelson’s story. This is where she’s buried; this is what happened to her; she did not deserve this; it was wrong. And I want to make it right.”",
+            "es": "“Tengo que contar a la gente la historia de Laura Nelson. Aquí es donde está enterrada, esto es lo que le pasó, no se merecía esto, estuvo mal. Y quiero corregirlo”."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Bruce’s penchant for storytelling is not limited to films. He curates exhibitions available for museums, libraries, open spaces, as well as other documentaries and publications. His latest exhibition, *Take Me to the Water*, is a set of murals, which the Arizona Historical Society described as a journey through memory, community, and healing. The exhibit explores what water means to a community where this most essential part of life has been utilized and exploited. From the othering of separate drinking fountains to the sacrosanct baptismal ritual of immersion, the mural conjures feelings that inspire reflection, dialogue, and hope.",
+            "es": "La afición de Bruce por contar historias no se limita al cine. Es director de exposiciones para museos, bibliotecas y espacios abiertos, así como de otros documentales y publicaciones. Su última exposición, “Take Me to the Water”, es un conjunto de murales que la Sociedad Histórica de Arizona ha descrito como un viaje a través de la memoria, la comunidad y la sanación. La exposición explora lo que significa el agua para una comunidad en la que se ha utilizado y explotado esta parte tan esencial de la vida. Desde la diferenciación de las fuentes de agua potable separadas hasta el sacrosanto ritual bautismal de la inmersión, el mural evoca sentimientos que inspiran reflexión, diálogo y esperanza."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p54-1.jpg",
+          "alt": {
+            "en": "Flyer for the Take Me to the Water art exhibition, showing cupped hands pouring water onto a crouching figure on a rock",
+            "es": "Folleto de la exposición de arte Take Me to the Water, con unas manos que vierten agua sobre una figura acurrucada en una roca"
+          },
+          "caption": {
+            "en": "Flyer for Take Me to the Water art exhibition celebrating the Washington-Escobedo Heritage Neighborhood unveiling three murals of the project, sponsored by the City of Mesa, LISC, Grey Box Collective, and Zen Nights.",
+            "es": "Folleto de la exposición de arte “Take Me to the Water”, que celebra el barrio Washington-Escobedo Heritage y presenta tres murales del proyecto, patrocinado por la ciudad de Mesa, LISC, Grey Box Collective y Zen Nights."
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "Bringing Exhibits to Your Hometown",
+            "es": "Lleva las exposiciones a tu ciudad"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "NEB Productions’ museum exhibitions are available for rent. The curator has prepared a one hour lecture presentation for each exhibition. All subject matter is appropriate for a public, multi-use venue. All artwork is original and is the sole creation of the artist. Artwork will be displayed in a professional manner. If you are interested to learn more and collaborate, please contact Bruce directly:",
+            "es": "Las exposiciones museísticas de NEB Productions están disponibles para su alquiler. El director ha preparado una presentación de una hora de duración para cada exposición. Todos los temas son apropiados para un espacio público y polivalente. Todas las obras de arte son originales y creadas exclusivamente por el artista. Las obras se exponen de manera profesional. Si estás interesado en obtener más información y colaborar, ponte en contacto directamente:"
+          }
+        },
+        {
+          "t": "link",
+          "href": "https://nebproductions.com/available-exhibits/",
+          "label": {
+            "en": "Learn more: available exhibits",
+            "es": "Más información: exposiciones disponibles"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "To learn more and support, visit:",
+            "es": "Para obtener más información, visita:"
+          }
+        },
+        {
+          "t": "link",
+          "href": "https://nebproductions.com/",
+          "label": {
+            "en": "NEB Productions",
+            "es": "NEB Productions"
+          }
+        }
+      ]
+    }
+  ]
+}

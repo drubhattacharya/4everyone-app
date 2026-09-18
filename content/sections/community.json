@@ -1,0 +1,179 @@
+{
+  "id": "community",
+  "intro": {
+    "en": "We did a survey of 50 Hispanic and Latino adults to understand their perceptions of communication by healthcare providers and how to do better.",
+    "es": "Hemos realizado una encuesta a 50 adultos hispanos y latinos para comprender su percepción de la comunicación por parte de los proveedores de atención médica y cómo mejorarla."
+  },
+  "articles": [
+    {
+      "id": "survey-healthy-eating",
+      "pages": [
+        59,
+        60,
+        61
+      ],
+      "title": {
+        "en": "Survey of Hispanics and Latinos on Healthy Eating",
+        "es": "Encuesta a latinos sobre alimentación saludable"
+      },
+      "dek": {
+        "en": "Hispanic and Latino voices bemoan out-of-touch care",
+        "es": "Las voces hispanas y latinas lamentan la falta de atención"
+      },
+      "cover": "media/img/v1i1/p59-1.jpg",
+      "blocks": [
+        {
+          "t": "quote",
+          "text": {
+            "en": "“I’m not giving up my rice and neither is my abuela. Why can’t we adjust the ingredients? And who reads these things?!”",
+            "es": "“No voy a renunciar al arroz y mi abuela tampoco. ¿Por qué no podemos ajustar los ingredientes? ¿Y quién lee estas cosas?”."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p59-1.jpg",
+          "alt": {
+            "en": "A multigenerational Latino family cooking together around a kitchen counter",
+            "es": "Una familia latina de varias generaciones cocinando junta alrededor de la encimera de la cocina"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Her words struck me like a ton of bricks. Krystal had said what I was afraid to say out loud: this laundry list of “foods to avoid” enmeshed in a inch-high set of discharge instructions was out of touch. My father was being released from the hospital after experiencing issues from his Type 2 Diabetes, but the entire conversation with his care team was centered on his medications. Not a single word about his diet and lifestyle. Except for this extensive list of foods to avoid.",
+            "es": "Sus palabras me impactaron como una tonelada de ladrillos. Krystal había dicho lo que yo temía decir en voz alta: esta larga lista de “alimentos que hay que evitar”, incluida en un conjunto de instrucciones para el alta, de varios centímetros de grosor, estaba fuera de lugar. Mi padre iba a salir del hospital tras sufrir problemas derivados de su diabetes tipo 2, pero toda la conversación con su equipo médico se centró en su medicación. Ni una sola palabra sobre su dieta y su estilo de vida. Excepto por esta extensa lista de alimentos que debía evitar."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Krystal is a native of Puerto Rico, health professional, and caregiver, so she knew exactly what I was going through and needed to hear. So when she told me bluntly what I had felt reading through the materials while thinking about my own father, it spurred me to action. I sought out and collaborated with Chef Jenna to produce healthy versions of favorite dishes. At the same time, I became curious about how many others felt the same way. So I did a survey to inquire about their perception of nutrition advice offered by health care teams, and how to better engage with our Latino community to explore healthy versions of favorite dishes.",
+            "es": "Krystal es originaria de Puerto Rico, profesional de la salud y cuidadora, por lo que sabía exactamente por lo que estaba pasando y lo que necesitaba oír. Así que cuando me dijo sin rodeos lo que yo había sentido al leer los ingredientes mientras pensaba en mi propio padre, me impulsó a actuar. Busqué y más tarde me asocié con la chef Jenna para elaborar versiones saludables de mis platos favoritos. Al mismo tiempo, sentí curiosidad por saber cuántas otras personas sentían lo mismo. Así que hice una encuesta para preguntarles qué opinaban sobre los consejos nutricionales que les daban los equipos de atención médica y cómo podríamos involucrar mejor a nuestra comunidad latina para explorar versiones saludables de sus platos favoritos."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "A sample of 50 adults (18 years and older) who self-identified as Hispanic or Latino/a/x and reside in the United States completed the survey. The questionnaire captured background demographics and five culture-focused nutrition questions. Participation was anonymous, voluntary, and respondents received fair compensation for their time. Average age was 37.3 years, with a spread of roughly 11 years in either direction, placing most participants in their late-20s to mid-40s. Twenty-six women and 23 men took part (1 did not disclose), giving the sample an almost even split. Everyone resided in the U.S. with 42 respondents (84%) born in the United States, while 8 (16%) were born elsewhere. English was the primary language for 38 participants (76%), whereas 12 (24 %) primarily spoke Spanish. In brief, most of the participants were born and lived in the United States, and predominantly spoke English, with a sizeable Spanish-speaking minority.",
+            "es": "Una muestra de 50 adultos (mayores de 18 años) que se identificaron como hispanos o latinos y residen en los Estados Unidos completaron la encuesta. El cuestionario recopiló datos demográficos y cinco preguntas sobre nutrición centradas en la cultura. La participación fue anónima y voluntaria, y los encuestados recibieron una compensación justa por su tiempo. La edad media era de 37,3 años, con una dispersión de aproximadamente 11 años en ambos sentidos, lo que situaba a la mayoría de los participantes entre los 20 y los 45 años. Participaron 26 mujeres y 23 hombres (1 no reveló su sexo), lo que da a la muestra una distribución casi equitativa. Todos residían en los Estados Unidos, con 42 encuestados (84%) nacidos en los Estados Unidos, mientras que 8 (16%) habían nacido en otros lugares. El inglés era el idioma principal de 38 participantes (76%), mientras que 12 (24%) hablaban principalmente español. En resumen, la mayoría de los participantes habían nacido y vivían en los Estados Unidos, y hablaban principalmente inglés, con una minoría considerable de hispanohablantes."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p60-1.jpg",
+          "src_es": "media/img/v1i1/p60-1-es.jpg",
+          "alt": {
+            "en": "Table of participant characteristics: age 37.3 ± 11.4 years; 26 women, 23 men; 42 born in the U.S., 8 born outside the U.S.; 50 living in the U.S.; primary language English 38, Spanish 12",
+            "es": "Tabla de características de los participantes: edad 37,3 ± 11,4 años; 26 mujeres, 23 hombres; 42 nacidos en EE. UU., 8 nacidos fuera de EE. UU.; 50 residentes en EE. UU.; idioma principal inglés 38, español 12"
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p60-2-w.jpg",
+          "src_es": "media/img/v1i1/p60-2-es.jpg",
+          "alt": {
+            "en": "Pie chart, Provider Cultural Awareness: low awareness 58%, somewhat aware 18%, neither aware nor unaware 14%, very aware 10%",
+            "es": "Gráfico circular, conciencia cultural del proveedor: poco consciente 58%, algo consciente 18%, ni consciente ni inconsciente 14%, muy consciente 10%"
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p60-3-w.jpg",
+          "src_es": "media/img/v1i1/p60-3-es.jpg",
+          "alt": {
+            "en": "Pie chart, Willingness to Give Up Favorite Dishes: highly unlikely 64%, likely 24%, neither unlikely nor likely 8%, highly likely 4%",
+            "es": "Gráfico circular, disposición a renunciar a sus platos favoritos: muy improbable 64%, probable 24%, ni improbable ni probable 8%, muy probable 4%"
+          }
+        },
+        {
+          "t": "callout",
+          "text": {
+            "en": "Most respondents (58.0%) rated hospitals and clinicians as having “Low awareness” of patients’ cultural food preferences, underscoring a perceived gap in culturally responsive care.\n\nAdditionally, nearly two-thirds of participants cluster in the “Unlikely/Highly unlikely” segment when asked of their willingness to give up favorite dishes, confirming a strong attachment to traditional foods even when dietary change was advised.",
+            "es": "La mayoría de los encuestados (58,0%) calificaron a los hospitales y a los médicos como “poco conscientes” de las preferencias alimentarias culturales de los pacientes, lo que pone de relieve una brecha percibida en la atención culturalmente sensible.\n\nAdemás, casi dos tercios de los participantes se agrupan en el segmento “Poco probable/Muy improbable” cuando se les pregunta sobre su disposición a renunciar a sus platos favoritos, lo que confirma un fuerte apego a los alimentos tradicionales, incluso cuando se les recomienda un cambio en la dieta."
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "Respect the Cultural Integrity of the Dish",
+            "es": "Respetar la integridad cultural del plato"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Despite the majority of respondents expressing an unwillingness to give up their favorite cultural dishes, an overwhelming 100% of respondents recognized the value of engaging with a healthier version of these same traditional foods. Notably, 78.0% of respondents rated such options as “quite valuable,” underscoring a strong preference for modification over elimination. This finding reveals a powerful cultural insight: preservation of heritage and improvement of health are not mutually exclusive in the eyes of Latino participants. Rather than being resistant to change, respondents appear to embrace culinary innovation as long as it respects the cultural integrity of the dish.",
+            "es": "A pesar de que la mayoría de los encuestados expresaron su rechazo a renunciar a sus platos culturales favoritos, un abrumador 100% de los encuestados latinos reconoció el valor de adoptar una versión más saludable de estos mismos alimentos tradicionales. Cabe destacar que el 78,0% de los encuestados calificó estas opciones como “bastante valiosas”, lo que subraya una fuerte preferencia por la modificación frente a la eliminación. Este hallazgo revela una poderosa perspectiva cultural: la preservación de la herencia y la mejora de la salud no son mutuamente excluyentes a los ojos de los participantes latinos. En lugar de resistirse al cambio, los encuestados parecen aceptar la innovación culinaria siempre que respete la integridad cultural del plato."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p61-1-w.jpg",
+          "src_es": "media/img/v1i1/p61-1-es-w.jpg",
+          "alt": {
+            "en": "Pie chart, Value of Healthy Versions of Favorite Dishes: quite valuable 78%, somewhat valuable 22%",
+            "es": "Gráfico circular, valor de las versiones saludables de tus platos favoritos: bastante valioso 78%, poco valioso 22%"
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "Meet Me Where I Am",
+            "es": "Encuéntrame donde estoy"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "While 100% of Latino respondents in our survey saw value in healthier versions of traditional dishes, the mode of delivery for this information is just as critical as the content itself. Traditional discharge instructions, which typically dense, text-heavy, and generic. This falls dramatically short of engaging patients in meaningful dietary change.",
+            "es": "Si bien el 100% de los encuestados latinos de nuestra encuesta consideraban valiosas las versiones más saludables de los platos tradicionales, la forma de transmitir esta información es tan importante como el contenido en sí. Las instrucciones tradicionales para el alta, que suelen ser densas, con mucho texto y genéricas, distan mucho de involucrar a los pacientes en un cambio significativo en su dieta."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "These documents often rely on complex medical or nutrition jargon, provide one-size-fits-all dietary guidelines like “reduce sodium” or “cut out rice,” failing to emotionally connect with the foods and values that shape people’s lives. As a result, people may feel confused, dismissed, or even disrespected. When instructed to give up dishes central to family, tradition, and identity without being offered culturally relevant alternatives, the guidance becomes not only ineffective but alienating.",
+            "es": "Estos documentos suelen utilizar jerga médica o nutricional compleja y ofrecen pautas dietéticas genéricas, como “reducir el sodio” o “eliminar el arroz”, sin conectar emocionalmente con los alimentos y los valores que dan forma a la vida de las personas. Como resultado, las personas pueden sentirse confundidas, ignoradas o incluso menospreciadas. Cuando se les indica que renuncien a platos fundamentales para la familia, la tradición y la identidad sin ofrecerles alternativas culturalmente relevantes, la orientación no solo resulta ineficaz, sino también alienante."
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "Modality Matters: Leverage technology so I can see and follow along",
+            "es": "La modalidad importa: aprovechar la tecnología como herramienta"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Over 85% of respondents preferred video demonstrations compared to only 14% who desired a written recipe. Of those who preferred videos, more individuals (46.0%) wanted a voiceover in their preferred language with English subtitles compared to those who simply preferred the videos in their own language (40.0%). Subtitles are notably effective when the cook is a caregiver who may not be proficient in the preferred language.",
+            "es": "Más del 85% de los encuestados prefirió las demostraciones en vídeo, frente a solo el 14% que prefirió una receta escrita. De los que prefirieron los vídeos, un mayor número de personas (46,0%) optó por una voz en off en su idioma preferido con subtítulos en inglés, en comparación con los que votaron por los vídeos en su propio idioma (40,0%). Los subtítulos son especialmente eficaces cuando el cocinero es un cuidador que puede no dominar el idioma preferido."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p61-2-w.jpg",
+          "src_es": "media/img/v1i1/p61-2-es-w.jpg",
+          "alt": {
+            "en": "Pie chart, Preferred Learning Modality: video demo in preferred language with English subtitles 46%, video demo in preferred language 40%, written recipe 14%",
+            "es": "Gráfico circular, modalidad de aprendizaje preferida: demostración en vídeo en su idioma preferido con subtítulos en inglés 46%, demostración en vídeo en su idioma preferido 40%, receta escrita 14%"
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "Prescriptive to Participatory Engagement",
+            "es": "De la participación prescriptiva a la participativa"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "By meeting people where they are and valuing their culinary traditions, we effectively shift from prescriptive to participatory engagement, positioning people to effectively adopt healthy lifestyles. Listening is much more effective than lecturing, and just taking the time can inspire change.",
+            "es": "Al encontrarnos con las personas en su propio lugar y valorar sus tradiciones culinarias, pasamos de una participación prescriptiva a una participativa, lo que permite a las personas adoptar de forma eficaz estilos de vida saludables."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -7,18 +7,25 @@ Installable web app (PWA) for **4Everyone: Flavors, Fitness, Film, & Flow** / **
 | Path | What it is |
 | --- | --- |
 | `index.html` | App shell (header, language switch, text-size toggle, movement-break player) |
-| `content/v1i1.json` | All issue text in English and Spanish: sections, articles, references, video links |
+| `content/v1i1.json` | Issue index: section list, cover, disclaimers, plus the Fitness articles |
+| `content/sections/*.json` | One file per magazine section, English and Spanish (format in `content/SCHEMA.md`) |
+| `tools/check_content.py` | Validates every section file and media path: `python tools/check_content.py` |
 | `js/app.js` | Router, page rendering, movement-break player, "save for offline" |
 | `css/app.css` | Styles (light and dark mode) |
 | `sw.js` | Service worker: offline shell and offline video playback |
 | `media/video/` | 720p exercise clips (EN and ES, about 1.3 MB each) with poster frames |
-| `media/img/`, `icons/`, `fonts/` | Covers, photos, wordmarks, app icons, self-hosted fonts |
+| `media/img/v1i1/` | Photos and graphics extracted from the published PDFs (`-es` = Spanish edition graphic) |
+| `media/img/yt/` | Local thumbnails for YouTube videos |
+| `media/audio/proverbs/`, `media/docs/` | Proverb audio clips; printable PDFs (drum sheets, guitar guide, crossword) |
+| `media/img/`, `icons/`, `fonts/` | Covers, wordmarks, app icons, self-hosted fonts |
 
 ## Common edits
 
-**Add a YouTube video** (yoga, strength and other long lessons): in `content/v1i1.json`, set the article's `video.id.en` and `video.id.es` to the 11-character YouTube ID (the part after `watch?v=`). Leave `es` empty to fall back to the English video.
+**Edit text**: change the `en` / `es` strings in the section's file under `content/sections/`, then run `python tools/check_content.py`.
 
-**Open a new section**: set `"available": true` on the section, add `intro` and `groups`, and add its articles under `articles`.
+**Add a YouTube video**: add a `youtube` block with `id` (English) and `id_es` (Spanish-subtitled version); save its thumbnail as `media/img/yt/<id>.jpg`.
+
+**Next issue**: create `content/v1i2.json` and its section files in the same format, and point `ISSUE_URL` in `js/app.js` at it.
 
 **After changing files**, bump `VERSION` in `sw.js` so installed copies pick up the update.
 

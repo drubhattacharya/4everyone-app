@@ -1,0 +1,168 @@
+{
+  "id": "welcome",
+  "articles": [
+    {
+      "id": "editors-letter",
+      "pages": [
+        2,
+        3
+      ],
+      "title": {
+        "en": "Be Curious, Connect, & Create.",
+        "es": "Sé curioso, conéctate y crea."
+      },
+      "byline": {
+        "en": "By Dr. Dru Bhattacharya, Editor-in-Chief",
+        "es": "Por el Dr. Dru Bhattacharya, editor jefe"
+      },
+      "cover": "media/img/v1i1/p2-1.jpg",
+      "blocks": [
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p2-1.jpg",
+          "alt": {
+            "en": "The word “welcome” written in many languages and scripts, in rainbow colors",
+            "es": "La palabra “bienvenido” escrita en muchos idiomas y alfabetos, en colores del arcoíris"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Welcome! While sitting beside both of my parents during hospital stays for chronic conditions, I noticed something deeply wrong: no one asked them about their diet, daily activities, or mental health. When they were discharged, they were simply handed a thick packet of instructions that were hard to follow, and easy to forget. Healthcare wasn’t making them healthy.",
+            "es": "¡Bienvenido! Mientras estaba sentado junto a mis padres durante sus estancias en el hospital por enfermedades crónicas, me di cuenta de algo que estaba muy mal: nadie les preguntaba por su dieta, sus actividades diarias o su salud mental. Cuando les dieron el alta, simplemente les entregaron un grueso paquete de instrucciones que eran difíciles de seguir y fáciles de olvidar. La asistencia sanitaria no les estaba haciendo sanar."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Part of the disconnect stems from not meeting people where they are. What do they like to eat? What do they like to do? What gives them joy? And how can we accommodate those pastimes with the passing of time?",
+            "es": "Parte de la desconexión se debe a que no se tiene en cuenta la situación de las personas. ¿Qué les gusta comer? ¿Qué les gusta hacer? ¿Qué los hace felices? ¿Y cómo podemos adaptarnos a esos pasatiempos con el paso del tiempo?"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "*4Everyone: Flavors, Fitness, Film, & Flow* fosters curiosity, connection and creativity, by celebrating food (flavors), fitness, films (movies & tv), and music (flow), with content that touches upon innovation and culture, and other topics of related interest.",
+            "es": "*Para Cada 1: Recetas, fitness, cine y ritmo* fomenta la curiosidad, la conexión y la creatividad, celebrando la comida (sabores), el fitness, el cine (películas y televisión) y la música (ritmo), con contenidos que abordan la innovación y la cultura, así como otros temas de interés relacionados."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "We welcome readers and contributors from all over the world. Our contributors in this issue hail from North America, South America, Europe, and Asia.",
+            "es": "Damos la bienvenida a lectores y colaboradores de todo el mundo. Los colaboradores de este número proceden de Norteamérica, Sudamérica, Europa y Asia."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "We begin with the voice of a national icon—7-time Olympic Medalist, entrepreneur, cancer survivor, and health advocate, Shannon Miller. Her story reminds us why, every four years, we gather around a television not just to watch a competition, but to witness the triumph of perseverance and resilience. In her words, we find the same spirit that inspires us to believe, to endure, and to dream bigger. We are also joined by Chef Jenna Edwards with video recipes of authentic meals. There’s no better time than now to get moving, so if it’s been a while, warm up with 30-second stretches and seat-based motions. For those of you wanting more, check out a 30-minute yoga or strength training session with Dr. Tara Salay. We then spotlight former NFL player-turned-entrepreneur Quentin Gause, an award winning filmmaker in Bruce Nelson, and reviews of health- and hope-related films and songs with audio samples from musicians worldwide.",
+            "es": "Comenzamos con la voz de un icono nacional: Shannon Miller, siete veces medallista olímpica, empresaria, superviviente de cáncer y defensora de la salud. Su historia nos recuerda por qué, cada cuatro años, nos reunimos alrededor del televisor no solo para ver una competición, sino para ser testigos del triunfo de la perseverancia y la resiliencia. En sus palabras, encontramos el mismo espíritu que nos inspira a creer, a perseverar y a soñar en grande. También nos acompaña la chef Jenna Edwards con recetas en vídeo de platos auténticos. No hay mejor momento que ahora para ponerse en marcha, así que, si hace tiempo que no haces ejercicio, calienta con estiramientos de 30 segundos y movimientos sentado. Para aquellos que quieran más, echen un vistazo a la sesión de yoga o el entrenamiento de fuerza de 30 minutos con la Dra. Tara Salay. A continuación, destacamos al exjugador de la NFL convertido en empresario Quentin Gause, al galardonado cineasta Bruce Nelson y reseñas de películas y canciones relacionadas con la salud y la esperanza con muestras de audio de músicos de todo el mundo."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "For you ‘80s fans, and particularly those familiar with *The Karate Kid* and *Cobra Kai* universes, check out the review of the hope-related film -- you may be surprised to see a familiar face in an unfamiliar role, flexing his creative range.",
+            "es": "Para los fans de los años 80, y en particular para aquellos familiarizados con los universos de “Karate Kid” y “Cobra Kai”, echen un vistazo a la reseña de la película relacionada con la esperanza: quizás los sorprenda ver a un rostro familiar en un papel desconocido, mostrando su versatilidad creativa."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Our health-related film review revisits *Still Alice*, in which Julianne Moore won the Academy Award for her portrayal of a professor diagnosed with Alzheimer’s. We also interview renowned neurologist and psychiatrist, Dr. Dani Cabral, founder of *BrainLove*, which offers a holistic approach to care for loved ones facing Alzheimer’s.",
+            "es": "Nuestra reseña cinematográfica relacionada con la salud vuelve a visitar “Still Alice”, en la que Julianne Moore ganó el Óscar por su interpretación de una profesora diagnosticada con Alzheimer. También entrevistamos a la renombrada neuróloga y psiquiatra, la Dra. Dani Cabral, fundadora de BrainLove, que ofrece un enfoque holístico para el cuidado de los seres queridos que se enfrentan al Alzheimer."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Here, we honor our veterans, beginning with a nod to the Greatest Generation and those who captured the U-505 during World War II. We also commemorate the 35th anniversary of the Americans with Disabilities Act, and spotlight Anran Lyu, the developer of Lumiread, a digital tool that makes the internet more accessible for the visually impaired.",
+            "es": "Aquí rendimos homenaje a nuestros veteranos, comenzando con un guiño a la Generación Más Grande y a aquellos que capturaron el U-505 durante la Segunda Guerra Mundial. También conmemoramos el 35º aniversario de la Ley de Estadounidenses con Discapacidades y destacamos a Anran Lyu, desarrollador de Lumiread, una herramienta digital que hace que Internet sea más accesible para las personas con discapacidad visual."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "I recently brushed off the dust from an old keyboard. Music therapy has been shown to reduce pain, anxiety, and stress while improving mood, cognitive function, and rehabilitation. Even for adult learners, playing music enhances brain function, lowers depression and loneliness, and fosters emotional resilience and social connection. In this issue, we offer lessons on playing the electric guitar with Fabio Werk, the acoustic guitar with Joaco Bustillo, and the drums with Christian Bruni (honestly, who wouldn’t want to learn the iconic drum fill of *In the Air Tonight* by Phil Collins?!).",
+            "es": "Recientemente desempolvé un viejo teclado. Se ha demostrado que la musicoterapia reduce el dolor, la ansiedad y el estrés, al mismo tiempo que mejora el estado de ánimo, la función cognitiva y la rehabilitación. Incluso para los estudiantes adultos, tocar música mejora la función cerebral, reduce la depresión y la soledad, y fomenta la resiliencia emocional y la conexión social. En este número ofrecemos lecciones para tocar la guitarra eléctrica con Fabio Werk, la guitarra acústica con Joaco Bustillo y la batería con Christian Bruni (sinceramente, ¿quién no querría aprender el icónico redoble de batería de “In the Air Tonight” de Phil Collins?)."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "**Discard performances; share stories.**",
+            "es": "**Descarta las actuaciones; comparte historias.**"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "It’s ok to connect differently, and we don’t have to be beholden to the past. Popular conceptions of the decline of happy hour, for example, often focus on surface-level cultural shifts like remote work, post-COVID disconnection, or changing norms around alcohol. But these narratives overlook issues like the increasing strain on the sandwich generation, who are simultaneously caring for aging parents and raising kids. Worldwide, almost 40% of families live in multigenerational arrangements. So, discretionary time for after-work socializing is scarce. Not because we don’t value camaraderie, but because our evenings are packed. And others who are single or do not have large families most certainly have other obligations, and should not have their availability assumed or intentions questioned. *But it’s just an hour, right?*",
+            "es": "Está bien conectar de otra manera, y no tenemos por qué estar atados al pasado. Las concepciones populares sobre el declive de la “hora feliz”, por ejemplo, suelen centrarse en cambios culturales superficiales como el teletrabajo, la desconexión pos-COVID o las normas cambiantes en torno al alcohol. Pero estas narrativas pasan por alto cuestiones como la creciente presión sobre la generación sándwich, que se ocupa simultáneamente de sus padres ancianos y de la crianza de sus hijos. En todo el mundo, casi el 40% de las familias viven en hogares multigeneracionales. Por lo tanto, el tiempo libre para socializar después del trabajo es escaso. No porque no valoremos la camaradería, sino porque nuestras tardes están llenas de compromisos. Y otras personas que son solteras o no tienen familias numerosas seguramente tienen otras obligaciones, y no se debe dar por sentada su disponibilidad ni cuestionar sus intenciones. Pero solo es una hora, ¿no?"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "**Yes, but it’s your hour. Claim your time.**",
+            "es": "**Sí, pero es tu hora. Reclama tu tiempo.**"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Boundaries matter. Ironically, the perpetual flow of mind-numbing news and AI-generated platitudes often drowns out the silent revelations of our own thoughts and insights.",
+            "es": "Los límites son importantes. Irónicamente, el flujo perpetuo de noticias abrumadoras y tópicos generados por la inteligencia artificial a menudo ahoga las revelaciones silenciosas de nuestros propios pensamientos y percepciones."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "I believe in paying it forward. A portion of proceeds from each issue will be donated to charitable causes. **Contributions from this issue will go to the Ovarian Cancer Research Alliance, the National Ovarian Cancer Coalition, and the Breast Cancer Research Foundation.** My wife is a veteran of the U.S. Air Force and health professional whose combination of service and selflessness continues to inspire. As she trains for the next 60-mile Susan G. Komen charity walk to support breast cancer research and care, I am inspired by her and participants worldwide who come together in solidarity to help find a cure. Let’s remain grateful to give back.",
+            "es": "Creo en devolver el favor. Una parte de los ingresos de cada número se donará a causas benéficas. Las contribuciones de este número se destinarán a la Alianza para la Investigación del Cáncer de Ovario, la Coalición Nacional contra el Cáncer de Ovario y la Fundación para la Investigación del Cáncer de Mama. Mi esposa es una veterana de la Fuerza Aérea de los Estados Unidos y profesional de la salud cuya combinación de servicio y altruismo sigue siendo una fuente de inspiración. Mientras se entrena para la próxima caminata benéfica de 60 millas de Susan G. Komen para apoyar la investigación y la atención del cáncer de mama, me siento inspirado por ella y por los participantes de todo el mundo que se unen en solidaridad para ayudar a encontrar una cura. Sigamos agradecidos por poder devolver lo que hemos recibido."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "I’ve traveled the world over and lived in 10 places over the past 25 years. Every experience is an opportunity to grow. So find your flow and stay connected. Each of us has a story to share, and you never know who you might inspire. Welcome to *4Everyone*---where we foster curiosity, connection, & creativity.",
+            "es": "He viajado por todo el mundo y vivido en 10 lugares diferentes durante los últimos 25 años. Cada experiencia es una oportunidad para crecer. Así que encuentra tu ritmo y mantente conectado. Cada uno de nosotros tiene una historia que compartir, y nunca se sabe a quién puedes inspirar. Bienvenido a Para Cada 1, donde fomentamos la curiosidad, la conexión y la creatividad."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Wishing you health, wealth, and prosperity,",
+            "es": "Te deseo salud, riqueza, y prosperidad."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "**Dr. Dru**, Editor-in-Chief",
+            "es": "**Dr. Dru**, Editor jefe"
+          }
+        },
+        {
+          "t": "callout",
+          "text": {
+            "en": "*Dr. Dru Bhattacharya, DMSc, JD, MPH, LLM, MSc, EMBA is a graduate of Harvard Medical School, Georgetown Law, Northeastern, Michigan State, Johns Hopkins, and the University of Chicago; author, researcher, screenwriter, novelist, and executive. He has received national awards for improving employee culture and grants to improve patient safety and care.*",
+            "es": "*El Dr. Dru Bhattacharya, DMSc es graduado de la Facultad de Medicina de Harvard. Ha recibido premios nacionales por mejorar la cultura de los empleados y subvenciones para mejorar la seguridad y la atención de los pacientes.*"
+          }
+        },
+        {
+          "t": "callout",
+          "title": {
+            "en": "Copyright & disclaimer",
+            "es": "Derechos de autor y descargo de responsabilidad"
+          },
+          "text": {
+            "en": "©4Everyone: Flavors, Fitness, Film, & Flow. All rights reserved. 4Everyone is owned by Safety & Health Equity Partners and published in Queen Creek, Arizona. No part of this publication may be reproduced, distributed, or transmitted without express written consent. ISSN: 3068-4021.\n\nDisclaimer: Any information provided within 4Everyone is meant for general awareness and should not be used as medical and/or other health related guidance or advice pertaining to any specific individual or their health condition. Please consult a physician before altering your diet or beginning a new physical fitness routine.",
+            "es": "© Para Cada 1: Recetas, fitness, cine y ritmo. Todos los derechos reservados. Para Cada Uno es propiedad de Safety & Health Equity Partners y se publica en Queen Creek, Arizona. Ninguna parte de esta publicación puede ser reproducida, distribuida o transmitida sin el consentimiento expreso por escrito.\n\nDescargo de responsabilidad: Toda la información proporcionada en Para Cada 1 tiene como objetivo la concienciación general y no debe utilizarse como orientación o consejo médico u otro tipo de orientación relacionada con la salud de ninguna persona específica. Consulta a un médico antes de modificar tu dieta o comenzar una nueva rutina de ejercicio físico."
+          }
+        }
+      ]
+    }
+  ]
+}

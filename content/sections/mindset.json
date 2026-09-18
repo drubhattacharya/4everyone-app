@@ -1,0 +1,146 @@
+{
+  "id": "mindset",
+  "intro": {
+    "en": "An inspiring reflection by 7-time Olympic Medalist, cancer survivor, author of the Gold Medal Mindset, and health and well-being advocate, Shannon Miller.",
+    "es": "Una reflexión inspiradora de Shannon Miller, siete veces medallista olímpica, superviviente de cáncer, autora de “Mentalidad de Medalla de Oro” y defensora de la salud y el bienestar."
+  },
+  "articles": [
+    {
+      "id": "shannon-miller",
+      "pages": [
+        10,
+        11,
+        12
+      ],
+      "title": {
+        "en": "Shannon Miller reflects on her journey and well-being",
+        "es": "Shannon Miller reflexiona sobre su trayectoria y su bienestar"
+      },
+      "dek": {
+        "en": "An inspiring reflection by 7-time Olympic medalist & cancer survivor",
+        "es": "Una reflexión inspiradora de la siete veces medallista olímpica y sobreviviente de cáncer"
+      },
+      "cover": "media/img/v1i1/p10-1.jpg",
+      "blocks": [
+        {
+          "t": "p",
+          "text": {
+            "en": "Seven-time Olympic Medalist, Shannon Miller is the only female athlete to be inducted into the US Olympic Hall of Fame – twice! Shannon has won an astounding 108 competition medals, over half of which have been gold. She obtained degrees in marketing and entrepreneurship from the University of Houston and her law degree from Boston College. In 2011, Shannon was diagnosed with a rare form of ovarian cancer. She is currently cancer-free and continues to be a strong advocate for early detection, and health and wellness of women and children. Her book, *It’s Not About Perfect: Competing for My Country and Fighting for My Life*, is her inspirational memoir written to encourage and empower others to break through and overcome their own personal challenges. We hope her real talk and insights inspire you.",
+            "es": "Shannon Miller, siete veces medallista olímpica, es la única mujer atleta que ha sido incluida en el Salón de la Fama Olímpico de Estados Unidos, ¡dos veces! Shannon ha ganado la asombrosa cifra de 108 medallas en competiciones, más de la mitad de las cuales han sido de oro. Se licenció en Marketing y Emprendimiento por la Universidad de Houston y en Derecho por el Boston College. En 2011, a Shannon le diagnosticaron un tipo raro de cáncer de ovario. Actualmente está libre de cáncer y sigue siendo una firme defensora de la detección precoz y de la salud y el bienestar de las mujeres y los niños. Su libro “*It’s Not About Perfect: Competing for My Country and Fighting for My Life*” (“No se trata de la perfección: compitiendo por mi país y luchando por mi vida”), es una inspiradora autobiografía escrita para animar y empoderar a otros a superar sus propios retos personales. Esperamos que sus sinceras palabras y sus reflexiones te inspiren."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p10-1.jpg",
+          "src_es": "media/img/v1i1/p10-1-es.jpg",
+          "alt": {
+            "en": "Shannon Miller in a split leap on the balance beam at the 1996 Atlanta Olympics, in front of a packed crowd",
+            "es": "Shannon Miller en un salto con las piernas abiertas sobre la barra de equilibrio en los Juegos Olímpicos de Atlanta 1996, ante un público lleno"
+          },
+          "caption": {
+            "en": "Atlanta, Georgia, USA. July 24, 1996 - Shannon Miller captures Gold for the All Around Balance Beam routine at the Georgia Dome during the 1996 Summer Olympics.",
+            "es": "Atlanta, Georgia, EE. UU. 24 de julio de 1996: Shannon Miller gana la medalla de oro en la prueba de barra de equilibrio en el Georgia Dome durante los Juegos Olímpicos de Verano de 1996."
+          },
+          "credit": {
+            "en": "Credit: Al Tielemans, Sports Illustrated via Getty Images",
+            "es": "Crédito: Al Tielemans, Sports Illustrated a través de Getty Images"
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "Dr. Dru catches up with Shannon Miller, reflecting on her journey",
+            "es": "El Dr. Dru se reúne con Shannon Miller para reflexionar sobre su trayectoria"
+          }
+        },
+        {
+          "t": "qa",
+          "q": {
+            "en": "You’ve spoken openly about your journey through gymnastics and later, your fight against ovarian cancer. How has your own understanding of well-being evolved over time—from the gymnastics mat to today?",
+            "es": "Has hablado abiertamente sobre tu trayectoria en la gimnasia y, más tarde, sobre tu lucha contra el cáncer de ovario. ¿Cómo ha evolucionado tu propia comprensión del bienestar a lo largo del tiempo, desde la colchoneta de gimnasia hasta hoy?"
+          },
+          "a": {
+            "en": "As a gymnast, I was very aware of everything going on with my body, that’s the job. You don’t fly around 1-15 ft in the air and not know. However, when I retired from Olympic competition, I didn’t transfer that focus into everyday life. Fast forward, I was a 33-year-old new mom and an advocate for women’s health, and yet I completely missed the signs of ovarian cancer. My body hadn’t betrayed me; I had simply stopped listening to it. What I was reminded of during that time is that we can’t just know how to focus on our health. We must actively do it each and every day. And a huge part of that is listening to our body and advocating for ourselves.",
+            "es": "Como gimnasta, era muy consciente de todo lo que ocurría en mi cuerpo, ese es mi trabajo. No se puede volar a una altura de entre 3 y 4,5 metros y no darse cuenta. Sin embargo, cuando me retiré de la competición olímpica, no trasladé ese enfoque a mi vida cotidiana. Más adelante, era una madre primeriza de 33 años y defensora de la salud de la mujer y, sin embargo, pasé por alto completamente los síntomas del cáncer de ovario. Mi cuerpo no me había traicionado; simplemente había dejado de escucharlo. Lo que me recuerda esa época es que no basta con saber cómo centrarnos en nuestra salud. Debemos hacerlo de forma activa cada día. Y una parte muy importante de ello es escuchar a nuestro cuerpo y defendernos a nosotros mismos."
+          }
+        },
+        {
+          "t": "qa",
+          "q": {
+            "en": "Belonging is at the heart of 4Everyone—a sense that health and well-being should feel personal, not prescribed, and something that we can all aspire towards. What role has belonging played in your own recovery and resilience, whether on a team or in life?",
+            "es": "La pertenencia es el núcleo de Para Cada 1, la sensación de que la salud y el bienestar deben ser algo personal, no algo prescrito, y algo a lo que todos podemos aspirar. ¿Qué papel ha desempeñado la pertenencia en tu propia recuperación y resiliencia, ya sea en un equipo o en la vida?"
+          },
+          "a": {
+            "en": "It’s so important for us to understand that we are never alone in our journey. We always have a team surrounding us, but sometimes we have to look a little harder or reach out to others to find those teammates. I understood “team” through my years in gymnastics. And it wasn’t just my teammates out there on the floor wearing the same uniform. It was my parents, coaches, community, teachers, trainers, etc. Everyone plays an important part. During my cancer journey I had to remember this. My team wasn’t just the medical team. It was friends, family, neighbors, etc. I had to remember that there is strength in not only accepting help when offered but in asking for help when it was needed. It can be hard to accept help sometimes but know that life is a team sport. And there will be plenty of days when you’re able to offer help to someone else. That’s what makes a great team.",
+            "es": "Es muy importante que comprendamos que nunca estamos solos en nuestro camino. Siempre tenemos un equipo que nos rodea, pero a veces tenemos que esforzarnos un poco más o acercarnos a los demás para encontrar a esos compañeros de equipo. Entendí el concepto de “equipo” a lo largo de mis años en la gimnasia. Y no se trataba solo de mis compañeros de equipo que estaban en la pista con el mismo uniforme. Eran mis padres, entrenadores, comunidad, profesores, preparadores físicos, etc. Todos desempeñan un papel importante. Durante mi viaje con el cáncer tuve que recordar esto. Mi equipo no era solo el equipo médico. Eran amigos, familiares, vecinos, etc. Tuve que recordar que la fuerza no solo está en aceptar la ayuda cuando se ofrece, sino también en pedirla cuando se necesita. A veces puede ser difícil aceptar ayuda, pero hay que saber que la vida es un deporte de equipo. Y habrá muchos días en los que podrás ofrecer ayuda a otra persona. Eso es lo que hace a un gran equipo."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p11-1.jpg",
+          "alt": {
+            "en": "Shannon Miller smiling on the red carpet at the “Jump, Jive & Thrive” event",
+            "es": "Shannon Miller sonriendo en la alfombra roja del evento “Jump, Jive & Thrive”"
+          },
+          "caption": {
+            "en": "October 8, 2017 - Shannon Miller arrives at the taping of “Jump, Jive & Thrive,” a music, gymnastics, and dance show to celebrate cancer survivors at UCLA’s Pauley Pavilion in Los Angeles, CA.",
+            "es": "8 de octubre de 2017: Shannon Miller llega a la grabación de “Jump, Jive & Thrive”, un espectáculo de música, gimnasia y baile para celebrar a los supervivientes de cáncer en el Pauley Pavilion de la UCLA en Los Ángeles, California."
+          },
+          "credit": {
+            "en": "Credit: Carla Van Wagoner",
+            "es": "Crédito: Carla Van Wagoner"
+          }
+        },
+        {
+          "t": "qa",
+          "q": {
+            "en": "What gives you hope right now about how our culture is shifting around wellness and particularly mental health, especially when it comes to meeting people where they are, across age, ability, or background?",
+            "es": "¿Qué te da esperanza en este momento sobre cómo está cambiando nuestra cultura en torno al bienestar y, en particular, a la salud mental, especialmente cuando se trata de conocer a las personas tal y como son, independientemente de su edad, capacidad o procedencia?"
+          },
+          "a": {
+            "en": "Health and wellness are the foundation for so much of what we want to do and be, regardless of phase of life or background. I love that there is so much information and research available and so many incredible ways to learn and get involved with focusing on our own health regardless of our season of life. The more information we have, the more opportunity to get involved and the more we can create awareness the better. When you’re able to offer help to someone else. That’s what makes a great team.",
+            "es": "La salud y el bienestar son la base de gran parte de lo que queremos hacer y ser, independientemente de la etapa de la vida o los antecedentes. Me encanta que haya tanta información e investigación disponible y tantas formas increíbles de aprender y comprometerse con nuestra propia salud, independientemente de la etapa de la vida en la que nos encontremos. Cuanta más información tengamos, más oportunidades tendremos de comprometernos y más conciencia podremos crear, lo cual es mejor. Cuando eres capaz de ofrecer ayuda a otra persona. Eso es lo que hace que un equipo sea excelente."
+          }
+        },
+        {
+          "t": "qa",
+          "q": {
+            "en": "You’ve had such a dynamic journey from Olympic gymnast to law graduate to business entrepreneur and health advocate. Looking back, how have each of those chapters shaped your perspective on what it truly means to thrive, not just physically, but personally and professionally?",
+            "es": "Has tenido una trayectoria muy dinámica, desde gimnasta olímpica hasta licenciada en Derecho, empresaria y defensora de la salud. Mirando hacia atrás, ¿cómo ha influido cada uno de esos capítulos en tu perspectiva sobre lo que realmente significa prosperar, no solo físicamente, sino también personal y profesionalmente?"
+          },
+          "a": {
+            "en": "Thriving is not a destination; it’s something you consciously pursue each day. I look at the different chapters of my life as a cumulative effort to learn, grow and help others. Thriving to me is all of those things. I want to be a lifelong learner, to grow in a variety of ways and consistently find ways to help others. For me that is thriving.",
+            "es": "Prosperar no es un destino, es algo que se persigue conscientemente cada día. Considero los diferentes capítulos de mi vida como un esfuerzo acumulativo por aprender, crecer y ayudar a los demás. Para mí, prosperar es todo eso. Quiero ser una persona que aprende durante toda la vida, crecer de diversas maneras y encontrar constantemente formas de ayudar a los demás. Para mí, eso es prosperar."
+          }
+        },
+        {
+          "t": "qa",
+          "q": {
+            "en": "Millennials and Gen Z now constitute the majority of our workforce. What advice do you have for them as they navigate the personal and professional challenges that lay ahead?",
+            "es": "Los millennials y la generación Z constituyen ahora la mayoría de nuestra fuerza laboral. ¿Qué consejo les darías para afrontar los retos personales y profesionales que les esperan?"
+          },
+          "a": {
+            "en": "I’m a huge proponent of setting goals. Don’t wait for someone to give you a goal, go make your own, in every area of your life. Strategize what things you need to do each year, month, week or even day to make it happen. Goals keep you moving forward, they give you something to focus on when you fail and they keep you motivated to learn something new each day. I would also share that challenges come in all shapes and sizes, you will face them. How you handle it is what matters most. If you are setting goals and constantly learning, you will weather the storms easier because you have a focus, a drive and have learned to be adaptable.",
+            "es": "Soy una gran defensora de establecer objetivos. No esperes a que alguien te marque un objetivo, créate el tuyo propio en todos los ámbitos de tu vida. Elabora una estrategia con las cosas que tienes que hacer cada año, mes, semana o incluso día para conseguirlo. Los objetivos te hacen avanzar, te dan algo en lo que centrarte cuando fracasas y te mantienen motivado para aprender algo nuevo cada día. También les diría que los retos son de todo tipo y tamaño, y que tendrán que enfrentarse a ellos. Lo más importante es cómo los afrontan. Si se fijan objetivos y aprenden constantemente, superarán las dificultades más fácilmente porque tienen un objetivo, un impulso y han aprendido a adaptarse."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p12-1.jpg",
+          "alt": {
+            "en": "Fountains shaped like the Olympic rings at Centennial Olympic Park in Atlanta at sunset",
+            "es": "Fuentes con la forma de los anillos olímpicos en el Centennial Olympic Park de Atlanta al atardecer"
+          },
+          "caption": {
+            "en": "Atlanta, Georgia -August 21, 2016: Centennial Olympic Park’s landmark fountains. The Park was built for the 1996 Summer Olympics, during which Shannon led the “Magnificent Seven” -- Shannon Miller, Dominique Moceanu, Dominique Dawes, Kerri Strug, Amy Chow, Jaycie Phelps and Amanda Borden -- to the US Women’s first ever Team Gold and captured Gold on the Balance Beam, the first time for any American gymnast.",
+            "es": "Atlanta, Georgia, 21 de agosto de 2016: Las emblemáticas fuentes del Centennial Olympic Park. El parque se construyó para los Juegos Olímpicos de Verano de 1996, durante los cuales Shannon lideró al “Magnificent Seven” (Shannon Miller, Dominique Moceanu, Dominique Dawes, Kerri Strug, Amy Chow, Jaycie Phelps y Amanda Borden) hasta la primera medalla de oro por equipos de la historia de Estados Unidos y ganó el oro en la barra de equilibrio, la primera vez una gimnasta estadounidense."
+          },
+          "credit": {
+            "en": "Credit: Sean Pavone",
+            "es": "Crédito: Sean Pavone"
+          }
+        }
+      ]
+    }
+  ]
+}

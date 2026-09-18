@@ -1,5 +1,5 @@
 /* 4Everyone service worker: app shell precache + offline video playback with Range support. */
-const VERSION = 'v2';
+const VERSION = 'v4';
 const SHELL_CACHE = `4e-shell-${VERSION}`;
 const MEDIA_CACHE = '4e-media-v1'; // must match js/app.js; videos saved by the user live here
 
@@ -28,8 +28,17 @@ const SHELL = [
   ...['squats', 'arm-raises', 'heel-taps', 'leg-ext'].flatMap((n) => [`media/video/${n}-en.jpg`, `media/video/${n}-es.jpg`])
 ];
 
+// Precache the shell plus every section's text, so the whole issue reads offline once installed.
 self.addEventListener('install', (e) => {
-  e.waitUntil(caches.open(SHELL_CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));
+  e.waitUntil((async () => {
+    const cache = await caches.open(SHELL_CACHE);
+    await cache.addAll(SHELL);
+    try {
+      const issue = await (await cache.match('content/v1i1.json')).json();
+      await cache.addAll(issue.sections.filter((s) => s.src).map((s) => s.src));
+    } catch { /* sections are also cached as they are read */ }
+    await self.skipWaiting();
+  })());
 });
 
 self.addEventListener('activate', (e) => {

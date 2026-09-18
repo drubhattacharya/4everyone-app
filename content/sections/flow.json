@@ -1,0 +1,544 @@
+{
+  "id": "flow",
+  "intro": {
+    "en": "Musician Robert Ruby reviews tunes from across the world, along with some audio samples!",
+    "es": "El músico Robert Ruby repasa melodías de todo el mundo, ¡junto con algunas muestras de audio!"
+  },
+  "articles": [
+    {
+      "id": "song-reviews",
+      "pages": [
+        30
+      ],
+      "title": {
+        "en": "Song Reviews",
+        "es": "Reseñas de canciones"
+      },
+      "cover": "media/img/v1i1/p30-2.jpg",
+      "blocks": [
+        {
+          "t": "p",
+          "text": {
+            "en": "Music can soothe, provoke, uplift, and transcend, and sometimes, it does all of that in a single note. In this section, LA-based musician and producer Robert Ruby brings his discerning ear and heartfelt reflections to four remarkable songs, each rooted in a distinct cultural tradition yet universally resonant.",
+            "es": "La música puede calmar, provocar, animar y trascender, y a veces lo hace todo con una sola nota. En esta sección, el músico y productor Robert Ruby, afincado en Los Ángeles, aporta su oído exigente y sus sinceras reflexiones a cuatro canciones extraordinarias, cada una de ellas arraigada en una tradición cultural distinta, pero con una resonancia universal."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "From the tranquil elegance of the Chinese guqin in “High Mountains and Flowing Water” to the windswept solitude evoked by R. Carlos Nakai’s “Inward Journey,” Ruby offers fresh insight. He then takes us to the jubilant complexity of Mexican mariachi in “El Cascabel,” and finally, the simmering spiritual depth of Mahalia Jackson’s gospel rendition of “Take My Hand, Precious Lord.”",
+            "es": "Desde la tranquila elegancia del guqin chino en “High Mountains and Flowing Water” hasta la soledad azotada por el viento que evoca “Inward Journey” de R. Carlos Nakai, Ruby ofrece una nueva perspectiva. A continuación, nos lleva a la jubilosa complejidad del mariachi mexicano en “El Cascabel” y, por último, a la profunda espiritualidad de la interpretación gospel de Mahalia Jackson de “Take My Hand, Precious Lord”."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Whether you’re a longtime listener or a first-time explorer, we invite you to feel, not just hear, the music. Check out the sample audio tracks after each review!",
+            "es": "Tanto si eres un oyente habitual como si eres un explorador novato, te invitamos a sentir la música, no solo a escucharla. ¡Echa un vistazo a las muestras de audio que hay después de cada reseña!"
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p30-3.jpg",
+          "alt": {
+            "en": "Illustration of the Voyager 1 space probe against a black sky",
+            "es": "Ilustración de la sonda espacial Voyager 1 sobre un fondo negro"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Speaking of exploration, did you know that one of humanity’s most audacious acts of musical outreach came aboard Voyager 1. Launched in 1977, this deep-space probe carries the Golden Record—a 12-inch, gold-plated copper disc encoded with images, greetings in 55 languages, and 27 carefully and curated musical tracks representing the diversity of life on Earth. From Bach and Beethoven to a Navajo night chant and a wedding song from Peru, these sounds were chosen to communicate the essence of our planet to any intelligent life it may someday encounter—billions of miles from home, drifting through the stars.",
+            "es": "Hablando de exploración, ¿sabías que uno de los actos más audaces de divulgación musical de la humanidad se llevó a cabo a bordo de la Voyager 1? Lanzada en 1977, esta sonda espacial lleva consigo el Disco de Oro, un disco de cobre chapado en oro de 30 cm que contiene imágenes, saludos en 55 idiomas y 27 pistas musicales cuidadosamente seleccionadas que representan la diversidad de la vida en la Tierra. Desde Bach y Beethoven hasta un canto nocturno navajo y una canción nupcial de Perú, estos sonidos fueron elegidos para comunicar la esencia de nuestro planeta a cualquier forma de vida inteligente con la que pueda encontrarse algún día, a miles de millones de kilómetros de casa, a la deriva entre las estrellas."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p30-2.jpg",
+          "alt": {
+            "en": "The gold-plated Golden Record carried aboard Voyager 1, engraved with diagrams",
+            "es": "El Disco de Oro chapado en oro que lleva la Voyager 1, grabado con diagramas"
+          }
+        },
+        {
+          "t": "callout",
+          "title": {
+            "en": "Trivia",
+            "es": "Curiosidad"
+          },
+          "text": {
+            "en": "Which of the 4 songs were included in Voyager’s golden record?",
+            "es": "¿Cuáles de las cuatro canciones se incluyeron en el disco de oro de la Voyager?"
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p31-2.jpg",
+          "src_es": "media/img/v1i1/p31-2-es.jpg",
+          "alt": {
+            "en": "Robert Ruby with a hollow-body guitar beside a reel-to-reel tape recorder",
+            "es": "Robert Ruby con una guitarra de caja junto a una grabadora de cinta de bobina abierta"
+          },
+          "caption": {
+            "en": "Robert Ruby",
+            "es": "Robert Ruby"
+          }
+        },
+        {
+          "t": "callout",
+          "title": {
+            "en": "About the reviewer",
+            "es": "Sobre el autor"
+          },
+          "text": {
+            "en": "Robert Ruby is a music producer, songwriter, composer, and sometimes writer based in LA. He releases original music, produces for artists, and has contributed music to short films and games. You can follow him at @RobertRubyMusic on Instagram, @RobertRuby on YouTube, or check out his website [here](https://www.robertrubymusic.com/).",
+            "es": "Robert Ruby es productor musical, compositor y, en ocasiones, escritor, y reside en Los Ángeles. Publica música original, produce para artistas y ha contribuido con música para cortometrajes y videojuegos. Puedes seguirlo en @RobertRubyMusic en Instagram, o visitar su página web [aquí](https://www.robertrubymusic.com/)."
+          }
+        },
+        {
+          "t": "link",
+          "href": "https://www.robertrubymusic.com/",
+          "label": {
+            "en": "Visit Robert Ruby’s website",
+            "es": "Visita el sitio web de Robert Ruby"
+          }
+        }
+      ]
+    },
+    {
+      "id": "high-mountains",
+      "pages": [
+        31,
+        32
+      ],
+      "title": {
+        "en": "High Mountains and Flowing Water (高山流水)",
+        "es": "“High Mountains and Flowing Water” (Altas montañas y agua que fluye)"
+      },
+      "dek": {
+        "en": "Traditional Chinese guqin piece",
+        "es": "Pieza tradicional china para guqin"
+      },
+      "byline": {
+        "en": "By Robert Ruby",
+        "es": "Por Robert Ruby"
+      },
+      "blocks": [
+        {
+          "t": "p",
+          "text": {
+            "en": "As a musician, I have a bad habit. Whenever I listen to a new piece of music, I unconsciously start analyzing it. I can’t help but think about what notes are being played, what instruments I can hear, how it was recorded. But as I listen to this piece of traditional Chinese music, I find myself not thinking, but feeling. I feel suddenly calmer, more relaxed, yet also fascinated. What a wonderful experience!",
+            "es": "Como músico, tengo una mala costumbre: cada vez que escucho una nueva pieza musical, inconscientemente empiezo a analizarla. No puedo evitar pensar en las notas que se tocan, los instrumentos que puedo oír, cómo se grabó… Pero al escuchar esta pieza de música tradicional china, me doy cuenta de que no estoy pensando, sino sintiendo. De repente, me siento más tranquilo, más relajado, pero también fascinado. ¡Qué experiencia tan maravillosa!"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "For once, I’m being pulled along by a tune, rather than evaluating it. “Liu Shui,” or “Flowing Water,” is a graceful and haunting piece. It’s a solo instrumental, performed on a Guqin, a type of zither (harp-like instrument) that was invented literally thousands of years ago. Listening to this piece, I’m amazed that it’s performed by a single person on a single instrument. Guqin players use multiple precise playing techniques to pluck, bend, and harmonize the strings. Strums, tones, overtones, and vibratos are allowed to float together, like moments of flow and turbulence in a peaceful stream.",
+            "es": "Por una vez, me dejo llevar por la melodía, en lugar de evaluarla. “Liu Shui” o “Agua que fluye” es una pieza elegante y evocadora. Es un solo instrumental interpretado con un guqin, un tipo de cítara (instrumento similar al arpa) que se inventó hace literalmente miles de años. Al escuchar esta pieza, me sorprende que la interprete una sola persona con un solo instrumento. Los intérpretes de guqin utilizan múltiples técnicas precisas para pulsar, doblar y armonizar las cuerdas. Los rasgueos, los tonos, los armónicos y los vibratos se mezclan, como momentos de fluidez y turbulencia en un arroyo tranquilo."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "I will note, listening to this piece is a sort of non-traditional experience for me. As most of us do, I usually seek music with a beat, a pulse, recognizable melodies, maybe some catchy lyrics. Liu Shui is a different sort of experience. The notes feel unbound to meter or repetition. It’s like looking at a piece of abstract art. I don’t see anything I recognize right away, just a collection of shapes and colors. But why are they so pleasing? How do I find myself getting lost in them? This piece is like the sonic equivalent of that experience.",
+            "es": "Debo señalar que escuchar esta pieza es una experiencia poco tradicional para mí. Como la mayoría de nosotros, suelo buscar música con ritmo, pulso, melodías reconocibles y, tal vez, letras pegadizas. “Liu Shui” es una experiencia diferente. Las notas parecen no estar sujetas a ningún compás ni repetición. Es como contemplar una obra de arte abstracto. No veo nada que reconozca de inmediato, solo una colección de formas y colores... Pero, ¿por qué me resultan tan agradables? ¿Cómo es que me encuentro perdido en ellos? Esta pieza es como el equivalente sonoro de esa experiencia."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Liu Shui is just so pretty! It can be enjoyed as a meditative experience-- put it on, close your eyes, and just feel the notes drifting. Notice how the music gradually slides to higher and lower registers. How the pace slows and quickens. How different chapters unfold-- a moment with cascading arpeggios gives way to a new moment with bends and vibratos. Then a moment with glowing overtones.",
+            "es": "¡“Liu Shui” es tan bonita! Se puede disfrutar como una experiencia meditativa: ponla, cierra los ojos y simplemente siente cómo fluyen las notas. Fíjate en cómo la música se desliza gradualmente hacia registros más altos y más bajos. Cómo el ritmo se ralentiza y se acelera. Cómo se desarrollan los diferentes capítulos: un momento con arpegios en cascada da paso a un nuevo momento con bendings y vibratos. Luego, un momento con brillantes armónicos."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "But I feel this piece would also pair well with other types of experiences, and could even enhance them. The overall pace of the piece is a slow amble. I’d love to hear this tune echoing through a peaceful garden. The relaxing sights and smells would pair well. Or, I can imagine myself sipping hot tea as I listen. Perhaps a scene with candles, and meditation or yoga. Any experience paired with this piece should be low-stimulation, slow-paced, and more physical than mental. “Liu Shui” is such an immersive experience unto itself that it’s hard to direct your own thoughts as you listen. And that’s what I keep coming back to.",
+            "es": "Pero creo que esta pieza también encajaría bien con otros tipos de experiencias, e incluso podría realzarlas. El ritmo general de la pieza es lento y pausado. Me encantaría escuchar esta melodía resonando en un jardín tranquilo. Las relajantes vistas y los aromas combinarían bien. O me imagino a mí mismo bebiendo té caliente mientras la escucho. Quizás una escena con velas, meditación o yoga. Cualquier experiencia combinada con esta pieza debería ser de baja estimulación, de ritmo lento y más física que mental. “Liu Shui” es una experiencia tan inmersiva en sí misma que es difícil dirigir tus propios pensamientos mientras la escuchas. Y eso es lo que me hace volver a ella una y otra vez."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p31-1.jpg",
+          "alt": {
+            "en": "Waterfalls cascading into a turquoise river between green hills",
+            "es": "Cascadas que caen a un río turquesa entre colinas verdes"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "This is a tune that envelops you in a feeling, and pulls you along through it. Perhaps it’s a fool’s errand, to try to imagine. As I listen, I wonder what sort of context this tune was meant to be experienced in? Was it performed for an audience, in something resembling an auditorium?",
+            "es": "Es una melodía que te envuelve en una sensación y te arrastra a través de ella. Quizás sea una tontería intentar imaginarlo. Mientras la escucho, me pregunto en qué tipo de contexto se pretendía experimentar esta melodía. ¿Se interpretaba para un público, en algo parecido a un auditorio?"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Would it have been picked out by a player in the corner of a temple or a fancy garden, with passersby enjoying the music as part of their ambiance? I’m not sure. But today, Liu Shui is like a serene courtyard or a sweet perfume-- it’s a beautiful little escape, at least for a moment.",
+            "es": "¿La habría elegido un intérprete en un rincón de un templo o un jardín elegante, con los transeúntes disfrutando de la música como parte del ambiente? No estoy seguro. Pero hoy en día, “Liu Shui” es como un patio sereno o un perfume dulce: es un pequeño y hermoso escape, al menos por un momento."
+          }
+        },
+        {
+          "t": "youtube",
+          "id": "mVuuOFoBErk",
+          "title": {
+            "en": "High Mountains and Flowing Water on the guzheng",
+            "es": "“High Mountains and Flowing Water” con el guzheng"
+          },
+          "caption": {
+            "en": "Hear Liu Shui on the guzheng performed by Yang Ling.",
+            "es": "Escucha “Liu Shui” interpretada por Ying Lang con el guzheng."
+          }
+        },
+        {
+          "t": "callout",
+          "title": {
+            "en": "Chinese folk music improves mental health and academic motivation for college students",
+            "es": "La música folclórica china mejora la salud mental y la motivación académica de los estudiantes universitarios"
+          },
+          "text": {
+            "en": "Researchers explored whether listening to traditional Chinese folk music could help college students feel better mentally and become more motivated in their studies without needing a professional music therapist. Over 30 weeks, volunteer students regularly listened to folk music and sometimes took part in simple, movement-based improvisations. The results showed that this approach helped reduce certain negative emotions like sadness and anger, and also sparked a greater interest in new life experiences among the students. The paper suggests that music education should find ways to balance global influences with local traditions.",
+            "es": "Los investigadores exploraron si escuchar música folclórica tradicional china podía ayudar a los estudiantes universitarios a sentirse mejor mentalmente y a estar más motivados en sus estudios sin necesidad de un musicoterapeuta profesional. Durante 30 semanas, los estudiantes voluntarios escucharon regularmente música folclórica y, en ocasiones, participaron en improvisaciones sencillas basadas en el movimiento. Los resultados mostraron que este enfoque ayudó a reducir ciertas emociones negativas, como la tristeza y la ira, y también despertó un mayor interés por nuevas experiencias vitales entre los estudiantes. El artículo sugiere que la educación musical debería encontrar formas de equilibrar las influencias globales con las tradiciones locales."
+          }
+        }
+      ],
+      "references": {
+        "en": [
+          "Zhang J. The impact of Chinese folk music on the mental health and academic motivation of college students. Current Psychology. 2024;43(13339-13348)."
+        ],
+        "es": [
+          "Zhang J. The impact of Chinese folk music on the mental health and academic motivation of college students. Current Psychology. 2024;43(13339-13348)."
+        ]
+      }
+    },
+    {
+      "id": "inward-journey",
+      "pages": [
+        32,
+        33
+      ],
+      "title": {
+        "en": "Inward Journey",
+        "es": "Inward Journey (Viaje Interior)"
+      },
+      "dek": {
+        "en": "R. Carlos Nakai",
+        "es": "R. Carlos Nakai"
+      },
+      "byline": {
+        "en": "By Robert Ruby",
+        "es": "Por Robert Ruby"
+      },
+      "blocks": [
+        {
+          "t": "p",
+          "text": {
+            "en": "Generally speaking, “solitude” and “lonely” are similar words with very different connotations. “Solitude” is more positive. It implies intention, discipline, even strength. Why else would Superman have a fortress dedicated to it? “Lonely,” on the other hand, is implied to be a state one finds oneself in, rather than choosing to be in it.",
+            "es": "En términos generales, “soledad” y “solitario” son palabras similares con connotaciones muy diferentes. “Soledad” es más positiva. Implica intención, disciplina, incluso fuerza. ¿Por qué si no Superman tendría una fortaleza dedicada a ella? “Solitario”, por otro lado, se entiende como un estado en el que uno se encuentra, más que como una elección."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "But have you ever been a good kind of lonely? Sure, it’s sad, as all loneliness is, but it’s a meaningful and even fortifying sadness. Good-lonely can be a poetic experience, the kind that gives life depth.",
+            "es": "Pero, ¿alguna vez has sentido una soledad agradable? Claro, es triste, como toda soledad, pero es una tristeza significativa e incluso fortalecedora. La soledad agradable puede ser una experiencia poética, del tipo que da profundidad a la vida."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "When I listen R. Carlos Nakai’s “Inward Journey,” as with many of his other solo Native American flute pieces, I feel good-lonely. A mournful, monophonic, reverberating flute melody. Simple, repeating, unmoving. Musically speaking, standing in place. Stately, round legato notes, broken by dancing trills. Like wisps of wind through locks of hair. Listening to this piece, how could one not feel a strangely enjoyable loneliness?",
+            "es": "Cuando escucho “Inward Journey” de R. Carlos Nakai, al igual que muchas otras piezas para flauta nativa americana en solitario, me siento bien solo. Una melodía de flauta triste, monofónica y reverberante. Sencilla, repetitiva, inmóvil. Musicalmente hablando, estática. Notas legato majestuosas y redondas, interrumpidas por trinos danzantes, como soplos de viento entre mechones de pelo. Al escuchar esta pieza, ¿cómo no sentir una soledad extrañamente agradable?"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "The Native American flute (which is, surprisingly, its official name now) is a traditional instrument based on many similar instruments from different peoples indigenous to North America. It only plays a handful of different notes, but its beauty is its tone. This flute has a different build from other types of flutes that I’m more familiar with-- it has two chambers, connected with a very thin passage. The resulting tone is unlike any other instrument I know. It’s very rich, velvety, sometimes flutish, and sometimes almost vocal.",
+            "es": "La flauta nativa americana (que, sorprendentemente, es ahora su nombre oficial) es un instrumento tradicional basado en muchos instrumentos similares de diferentes pueblos indígenas de América del Norte. Solo reproduce unas pocas notas diferentes, pero su belleza reside en su tono. Esta flauta tiene una construcción distinta a la de otros tipos de flautas con los que estoy más familiarizado: tiene dos cámaras, conectadas por un pasaje muy delgado. El tono resultante es diferente al de cualquier otro instrumento que conozca. Es muy rico, aterciopelado, a veces similar al de una flauta y otras casi vocal."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Not many recordings of traditional Native songs played on flute exist. R. Carlos Nakai, himself Navajo and Ute heritage, forewent researching and recreating traditional Native melodies. Instead, he struck out to invent his own genre of modern Native American flute improvisations, somewhat based on traditional Native American vocal music.",
+            "es": "No existen muchas grabaciones de canciones tradicionales nativas interpretadas con flauta. R. Carlos Nakai, de ascendencia navajo y uté, se dedicó a investigar y recrear melodías tradicionales nativas. Se lanzó a inventar su propio género de improvisaciones modernas con la flauta nativa americana, basadas en cierta medida en la música vocal tradicional nativa americana."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p33-1.jpg",
+          "alt": {
+            "en": "Horseshoe Bend: the Colorado River curving around a massive red sandstone outcrop",
+            "es": "Horseshoe Bend: el río Colorado rodeando un enorme afloramiento de arenisca roja"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "I’ve lived in many places, but I live in the American Southwest now, in LA, and Nakai is from Arizona. One thing that has struck me about the Southwest is its geographic extremes and severity. Deserts are vast, oceans are churning, rock faces are jagged. Life, both natural and human, clings wherever it can for survival amidst the harsh environment. I feel this in the culture too-- the people of the Southwest are tough and independent, and they’re unbothered by wide open spaces or dramatic natural features.",
+            "es": "He vivido en muchos lugares, pero ahora vivo en el suroeste de Estados Unidos, en Los Ángeles, y Nakai es de Arizona. Una cosa que me ha llamado la atención del suroeste es su geografía extrema y severa. Los desiertos son vastos, los océanos están agitados, las paredes rocosas son escarpadas. La vida, tanto natural como humana, se aferra donde puede para sobrevivir en medio de un entorno hostil. Esto también lo percibo en la cultura: la gente del suroeste es dura e independiente, y no le perturban los grandes espacios abiertos ni los espectaculares accidentes geográficos."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p33-2.jpg",
+          "alt": {
+            "en": "View from inside a sandstone cave arch toward desert hills and blue sky",
+            "es": "Vista desde el interior de un arco de arenisca hacia colinas desérticas y cielo azul"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Perhaps I’m projecting my own experience, but Inward Journey feels like it somehow tells the story of Southwestern life, using nothing but a simple flute melody. As the ends of the melody lines fade into the distance, I can feel myself standing on a massive rocky outcropping, overlooking a huge empty desert or a deep crashing ocean. The scene is stark. I’m alone, and I’m hardly sheltered from the elements. It’s frightening, but somehow soothing. This isn’t a safe place to stay, but it’s an amazing place to stand once in a while and remember how small I really am, and how easily the earth could overpower any one of us. With Nakai’s sweet and spooky flute music, the feeling is perfect.",
+            "es": "Quizás estoy proyectando mi propia experiencia, pero me parece que, de alguna manera, “Inward Journey” cuenta la historia de la vida en el suroeste, utilizando nada más que una sencilla melodía de flauta. A medida que los finales de las líneas melódicas se desvanecen en la distancia, puedo sentirme a mí mismo de pie sobre un enorme afloramiento rocoso, contemplando un vasto desierto vacío o un océano profundo y embravecido. La escena es austera. Estoy solo y apenas protegido de los elementos. Da miedo, pero de alguna manera es relajante. No es un lugar seguro para quedarse, pero es un lugar increíble para pararse de vez en cuando y recordar lo pequeño que soy en realidad y lo fácil que es para la tierra dominarnos a cualquiera de nosotros. Con la dulce y espeluznante música de flauta de Nakai, la sensación es perfecta."
+          }
+        },
+        {
+          "t": "youtube",
+          "id": "5BnkZXxFpXk",
+          "title": {
+            "en": "Native American flute sample by Kim Fleuchaus",
+            "es": "Muestra de flauta nativa americana de Kim Fleuchaus"
+          },
+          "caption": {
+            "en": "Hear a sample of the Native American flute by flautist, Kim Fleuchaus.",
+            "es": "Escucha una muestra de la flauta nativa americana interpretada por el flautista Kim Fleuchaus."
+          }
+        },
+        {
+          "t": "link",
+          "href": "https://www.kimfleuchaus.com/",
+          "label": {
+            "en": "Learn more about Kim’s award-winning work",
+            "es": "Visita el sitio web de Kim Fleuchaus"
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p33-4.jpg",
+          "alt": {
+            "en": "Saguaro cactus silhouetted against a desert sunset",
+            "es": "Silueta de un cactus saguaro contra una puesta de sol en el desierto"
+          }
+        }
+      ]
+    },
+    {
+      "id": "el-cascabel",
+      "pages": [
+        34,
+        35
+      ],
+      "title": {
+        "en": "El Cascabel",
+        "es": "El Cascabel"
+      },
+      "dek": {
+        "en": "Lorrenzo Barcaleta",
+        "es": "Lorrenzo Barcaleta"
+      },
+      "byline": {
+        "en": "By Robert Ruby",
+        "es": "Por Robert Ruby"
+      },
+      "blocks": [
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p34-1.jpg",
+          "alt": {
+            "en": "Mariachi musician in a black charro suit with gold embroidery, face hidden by his sombrero",
+            "es": "Músico de mariachi con traje de charro negro bordado en oro, con el rostro oculto por el sombrero"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "As a musician and a fan of music from different times and cultures, I try hard to be objective when comparing music. I like to believe all music, young or old, simple or complex, from all corners of the globe, has value and is worth celebrating. But man, it’s hard to stop myself from coming to certain generalizations. And one that’s creeping up on me has been-- I’m pretty sure Latin music is just better.",
+            "es": "Como músico y fanático de la música de diferentes épocas y culturas, me esfuerzo por ser objetivo al comparar música. Me gusta creer que toda la música, ya sea antigua o moderna, simple o compleja, de todos los rincones del mundo, tiene valor y merece ser celebrada. Pero, vaya, es difícil evitar caer en ciertas generalizaciones. Y una que se me ha ido imponiendo es que estoy bastante seguro de que la música latina es simplemente mejor."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "I know that’s a ridiculous oversimplification. After all, the Latin world is huge and extremely diverse. There is a big difference between, for example, reggaeton music, Norteño, samba, bossa nova- all different kinds of Latin music. But Latin music just gives me a certain feeling that I don’t get from anything else. I’m not sure how to put it into words. It’s proud, and it’s beautiful. And speaking more objectively, Latin music has been inventive and complex enough to have a huge impact on music around the world.",
+            "es": "Sé que es una simplificación ridícula. Al fin y al cabo, el mundo latino es enorme y extremadamente diverso. Hay una gran diferencia entre, por ejemplo, el reguetón, el norteño, la samba, la bossa nova, todos ellos tipos diferentes de música latina. Pero la música latina me transmite una sensación que no me transmite ninguna otra. No sé muy bien cómo expresarlo con palabras. Es orgullosa y hermosa. Y hablando de forma más objetiva, la música latina ha sido lo suficientemente creativa y compleja como para tener un gran impacto en la música de todo el mundo."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Lorrenzo Barcaleta has recorded this tune, “El Cascabel,” that seems to capture so much of what I love about Latin music in one six-minute rush. This song has energy, style, and size. The driving triplet beat feels like a stampede. Layered guitar strums are overlaid with shimmering trumpet and violin flourishes. The key is minor, but the power is major.",
+            "es": "Lorenzo Barcaleta ha grabado esta canción, “El Cascabel”, que parece capturar gran parte de lo que me gusta de la música latina en tres minutos trepidantes. Esta canción tiene energía, estilo y magnitud. El ritmo trepidante de los tresillos parece una estampida. Los rasgueos de guitarra se superponen con brillantes florituras de trompeta y violín. La tonalidad es menor, pero la fuerza es mayor."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "And the vocals! Lead vocals are shadowed by backup harmonies. The melody is dramatic, as so many beautiful Latin melodies are, but somehow light and nimble at the same time.",
+            "es": "¡Y las voces! Las voces principales están acompañadas por armonías de fondo. La melodía es dramática, como tantas otras hermosas melodías latinas, pero de alguna manera ligera y ágil al mismo tiempo."
+          }
+        },
+        {
+          "t": "quote",
+          "text": {
+            "en": "The best music comes from the meeting of cultures... Latin music may just be the superior evolution.",
+            "es": "La mejor música surge del encuentro entre culturas... La música latina puede que sea la evolución superior."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Different cultures bring in different traditions, and musicians have a talent for finding the best ideas across the sources and melding them. Mexico has one of the most interesting cultural blends already-- of course the major elements are Spain and the natives of the Mexican lands, but there are surprising influences from Germany and Austria. And of course, the US is close by too, with its own broad palette to contribute.",
+            "es": "Las diferentes culturas aportan diferentes tradiciones, y los músicos tienen el talento de encontrar las mejores ideas entre todas las fuentes y fusionarlas. México ya tiene una de las mezclas culturales más interesantes: por supuesto, los elementos principales son España y los nativos de las tierras mexicanas, pero hay influencias sorprendentes de Alemania y Austria. Y, por supuesto, Estados Unidos también está cerca, con su propia y amplia paleta para contribuir."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "But it goes so much deeper, because Spain is already a well-aged blend of influences! Various European and North African cultures have been meeting here for centuries-- after all, Spain is the birthplace of the guitar, one of the most important instruments in the world.",
+            "es": "Pero va mucho más allá, porque España ya es una mezcla bien madurada de influencias. Diversas culturas europeas y norteafricanas se han ido encontrando aquí durante siglos; al fin y al cabo, España es la cuna de la guitarra, uno de los instrumentos más importantes del mundo."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "I dwell on the anthropology behind the song, because there’s simply so much going on in the music that it’s hard to capture any other way. What I’m really saying is- imagine all the best parts of all these musical traditions across all these cultures, and somehow cram them into three minutes of mariachi. It’s a blur, but one I find myself wanting to experience again and again.",
+            "es": "Me detengo en la antropología que hay detrás de la canción, porque hay tantas cosas en la música que es difícil captarlas de otra manera. Lo que realmente quiero decir es: imagina todas las mejores partes de todas estas tradiciones musicales de todas estas culturas y, de alguna manera, mételas en tres minutos de mariachi. Es una imagen borrosa, pero que me hace querer experimentarla una y otra vez."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "The music is ornate, like a baroque building face. It’s busy, like a crowded city square. It’s old, like a dusty desert bungalow. It’s serious, it’s proud. Since the song goes full-clip basically from the jump, its energy does not develop with dynamic playing or quickening pulse. Instead, the song develops through arrangement. The opening moments feature a quickly plucked arpeggio, soon joined by chugging guitars. Legato violins are layered on top, soon enhanced with staccato trumpets. This intro folds into successive chapters of lead vocals, backups, and instrumental interludes. What a journey! It somehow feels improvised, yet the whole production must be tightly choreographed in order to punch so cleanly.",
+            "es": "La música es ornamentada, como la fachada de un edificio barroco. Es ajetreada, como una plaza llena de gente. Es antigua, como una cabaña polvorienta en el desierto. Es seria, es orgullosa. Dado que la canción va a toda velocidad desde el principio, su energía no se desarrolla con una interpretación dinámica o un ritmo acelerado. En cambio, la canción se desarrolla a través del arreglo. Los primeros compases presentan un arpegio rápidamente punteado, al que pronto se unen guitarras traqueteantes. Los violines legato se superponen, y pronto se realzan con trompetas staccato. Esta introducción da paso a sucesivos capítulos de voces principales, coros e interludios instrumentales. ¡Qué viaje! De alguna manera parece improvisado, pero toda la producción debe estar cuidadosamente coreografiada para que resulte tan limpia."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Yes, I don’t think I can be convinced otherwise. Latin music just may be the superior evolution.",
+            "es": "Sí, no creo que pueda convencerme de lo contrario. La música latina puede que sea la evolución superior."
+          }
+        },
+        {
+          "t": "youtube",
+          "id": "UEDpn9CYotk",
+          "title": {
+            "en": "El Cascabel, instrumental rendition produced by Nagel",
+            "es": "El Cascabel, versión instrumental producida por Nagel"
+          },
+          "caption": {
+            "en": "Listen to an instrumental rendition of El Cascabel produced by Nagel. Instruments include the guitar, violin, trumpet, and vihuela. The lively interplay fills the air with the unmistakable warmth and energy of traditional mariachi music.",
+            "es": "Escucha una versión instrumental de El Cascabel producida por Nagel. Los instrumentos incluyen la guitarra, el violín, la trompeta y la vihuela. La animada interacción llena el aire con la inconfundible calidez y energía de la música tradicional mariachi."
+          }
+        }
+      ]
+    },
+    {
+      "id": "take-my-hand",
+      "pages": [
+        35,
+        36
+      ],
+      "title": {
+        "en": "Take My Hand, Precious Lord",
+        "es": "Take My Hand, Precious Lord (Toma mi mano, Señor precioso)"
+      },
+      "dek": {
+        "en": "Mahalia Jackson",
+        "es": "Mahalia Jackson"
+      },
+      "byline": {
+        "en": "By Robert Ruby",
+        "es": "Por Robert Ruby"
+      },
+      "cover": "media/img/v1i1/p35-2.jpg",
+      "blocks": [
+        {
+          "t": "p",
+          "text": {
+            "en": "How do you put magic in a bottle? The job of sheet music is to capture a piece of music, transport it between musicians, and allow new musicians a chance to play something for themselves. And sheet music is very complex; there are countless symbols and obscure Italian words, all in the name of capturing one musician’s magic and giving it to another. But a great music performance can never be captured in sheet music. In between the notes on the page and ambitious symbols trying to enhance them, there is human emotion, expression, chemistry, biology. A cauldron of energy that only exists in its own moment. Expression is really everything, and that’s all I can think about as I listen to Mahalia Jackson’s recording of Take My Hand, Precious Lord. As a music history nerd (especially the history of modern music, and the way it became what we hear on the radio today), I have to say-- in a way, music starts with gospel music. Of course, there was loads of music before gospel music. But the music we know today is ultimately possible because of the marriage of European and African music techniques and traditions, into something that’s far greater than either on its own. And gospel music was the first organized and collected venue for that geographic combination.",
+            "es": "¿Cómo se puede encerrar la magia en una botella? La función de las partituras es capturar una pieza musical, transmitirla entre músicos y dar a los nuevos músicos la oportunidad de tocar algo por sí mismos. Y las partituras son muy complejas: contienen innumerables símbolos y oscuras palabras italianas, todo ello con el fin de capturar la magia de un músico y transmitirla a otro. Pero una gran interpretación musical nunca puede plasmarse en una partitura. Entre las notas de la página y los ambiciosos símbolos que intentan realzarlas, hay emoción humana, expresión, química, biología... Un caldero de energía que solo existe en su propio momento. La expresión lo es todo, y eso es en lo único en lo que puedo pensar mientras escucho la grabación de Mahalia Jackson de “Take My Hand, Precious Lord”. Como fanático de la historia de la música (especialmente la historia de la música moderna y la forma en que se convirtió en lo que escuchamos hoy en la radio), tengo que decir que, en cierto modo, la música comienza con el góspel. Por supuesto, hubo mucha música antes del góspel. Pero la música que conocemos hoy en día es posible, en última instancia, gracias a la unión de las técnicas y tradiciones musicales europeas y africanas, en algo que es mucho más grande que cualquiera de ellas por separado. Y el góspel fue el primer lugar organizado y recopilado para esa combinación geográfica."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p35-2.jpg",
+          "alt": {
+            "en": "1998 U.S. 32-cent postage stamp honoring gospel singer Mahalia Jackson",
+            "es": "Sello postal estadounidense de 32 centavos de 1998 en honor a la cantante de góspel Mahalia Jackson"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "I could go on for pages about how everything from jazz, to rock, soul, disco, musical theater, straight through to modern pop and R&B, can ultimately be traced back to gospel music. I could get so technical about it. But really, just listen to this recording! Doesn’t that say it all? Take My Hand, Precious Lord is one of the more minimal gospel recordings I have heard. When I think of gospel, I immediately think of a church full of people, with a double-time drum beat, glittering piano embellishments, deafening handclaps, and lead and backup vocals building to a frenzy. Sometimes the gospel tunes start small and build. This tune starts small and doesn’t. It feels extremely restrained. All we get is a wilting vocal, a drifting piano, and a low throbbing organ for support. It hints that it will grow, but in a way, it doesn’t. The energy never rises. But it constantly simmers. It’s far from mellow. Instead, it feels like the musicians have found a way to shout without saying a word. The scale feels huge, but it’s all implied.",
+            "es": "Podría escribir páginas y páginas sobre cómo todo, desde el jazz hasta el rock, el soul, la música disco, los musicales, pasando por el pop moderno y el R&B, puede remontarse en última instancia a la música gospel. Podría ponerme muy técnico al respecto. Pero, en realidad, ¡solo hay que escuchar esta grabación! ¿No lo dice todo? “Take My Hand, Precious Lord” es una de las grabaciones de gospel más minimalistas que he escuchado. Cuando pienso en el gospel, inmediatamente me viene a la mente una iglesia llena de gente, con un ritmo de batería doble, brillantes adornos de piano, aplausos ensordecedores y voces principales y coros que van aumentando hasta alcanzar un frenesí. A veces, las melodías gospel comienzan lentamente y van aumentando. Esta melodía comienza lentamente, pero no aumenta. Se siente extremadamente contenida. Todo lo que tenemos es una voz apagada, un piano flotante y un órgano grave y palpitante como acompañamiento. Da a entender que va a crecer, pero en cierto modo no lo hace. La energía nunca aumenta. Sin embargo, hierve constantemente a fuego lento. Está lejos de ser melódica. En cambio, parece que los músicos han encontrado la manera de gritar sin decir una palabra. La escala parece enorme, pero todo está implícito."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Where does that energy, that expression, come from? It’s everything and nothing. No note is sung or played “literally,” but expression is added at every moment. The piano plays slowly, but with rolled chords, twinkling arpeggios, and grace notes punctuating every moment. The vocal is heartbreaking. As if she is not reading the lyrics, but experiencing them in the moment, and expressing their poetry with crescendo, vibrato, and melisma galore. Even the organ, barely audible, employs the pulsing Leslie speaker to great effect. But once again, it’s more than the three individuals, but the connection between all three. They respond to each other and play off each other subtly and constantly. Building and falling as one. If God can be found in music, surely it’s in gospel music.",
+            "es": "¿De dónde viene esa energía, esa expresión? Es todo y nada. Ninguna nota se canta o se toca “literalmente”, pero se añade expresión en cada momento. El piano toca lentamente, pero con acordes rodados, arpegios centelleantes y notas de adorno que marcan cada momento. La voz es desgarradora. Es como si ella no estuviera leyendo la letra, sino experimentándola en el momento y expresando su poesía con crescendos, vibratos y melismas en abundancia. Incluso el órgano, apenas audible, emplea el altavoz Leslie pulsante con gran efecto. Pero, una vez más, es más que los tres individuos, es la conexión entre los tres. Responden entre sí y se complementan de forma sutil y constante, construyendo y cayendo como uno solo. Si Dios se puede encontrar en la música, sin duda es en la música gospel."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p36-1.jpg",
+          "src_es": "media/img/v1i1/p36-1-es.jpg",
+          "alt": {
+            "en": "Bronze statue of Mahalia Jackson with arms raised, framed by autumn trees",
+            "es": "Estatua de bronce de Mahalia Jackson con los brazos en alto, entre árboles otoñales"
+          },
+          "caption": {
+            "en": "Statue of Mahalia Jackson located in Louis Armstrong Park.",
+            "es": "Estatua de la cantante de góspel estadounidense Mahalia Jackson situada en el parque Louis Armstrong."
+          },
+          "credit": {
+            "en": "Credit: Nina Alizada; New Orleans, USA – December 3, 2022",
+            "es": "Crédito: Nina Alizada; Nueva Orleans, EE. UU. – 3 de diciembre de 2022"
+          }
+        },
+        {
+          "t": "callout",
+          "title": {
+            "en": "Amazing Grace: From Personal Redemption to Gospel Anthem",
+            "es": "“Amazing Grace”: de la redención personal al himno gospel"
+          },
+          "text": {
+            "en": "Written in 1772 by English pastor John Newton, Amazing Grace began as a deeply personal testimony. Newton, a former slave ship captain who had participated in the transatlantic slave trade, underwent a profound spiritual transformation after surviving a violent storm at sea. Renouncing his role in slavery, he entered ministry and penned this hymn as an expression of repentance and divine mercy.¹ By the mid-20th century, Amazing Grace had become intertwined with the Civil Rights Movement.\n\nMahalia Jackson’s stirring renditions at rallies, marches, and memorials helped transform it into a unifying anthem of perseverance and faith.²",
+            "es": "Escrita en 1772 por el pastor inglés John Newton, “Amazing Grace” comenzó como un testimonio profundamente personal. Newton, un antiguo capitán de barco negrero que había participado en el comercio transatlántico de esclavos, experimentó una profunda transformación espiritual tras sobrevivir a una violenta tormenta en el mar. Renunciando a su papel en la esclavitud, entró en el sacerdocio y compuso este himno como expresión de arrepentimiento y misericordia divina.¹ A mediados del siglo XX, “Amazing Grace” se había entrelazado con el movimiento por los derechos civiles. Las conmovedoras interpretaciones de Mahalia Jackson en reuniones, marchas y conmemoraciones contribuyeron a convertirlo en un himno unificador de perseverancia y fe.²"
+          }
+        },
+        {
+          "t": "youtube",
+          "id": "6JXt-hvxpis",
+          "title": {
+            "en": "Amazing Grace sung by Shari",
+            "es": "“Amazing Grace” interpretada por Shari"
+          },
+          "caption": {
+            "en": "Listen to Amazing Grace sung by gospel singer, Shari.",
+            "es": "Escucha “Amazing Grace” interpretada por la cantante de góspel Shari."
+          }
+        }
+      ],
+      "references": {
+        "en": [
+          "Turner, S. (2009). Amazing Grace: The Story of America’s Most Beloved Song. Harper Collins.",
+          "Darden, B. (2004). People Get Ready!: A New History of Black Gospel Music. A&C Black."
+        ],
+        "es": [
+          "Turner, S. (2009). Amazing Grace: The Story of America’s Most Beloved Song. Harper Collins.",
+          "Darden, B. (2004). People Get Ready!: A New History of Black Gospel Music. A&C Black."
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "id": "mental-health",
+  "intro": {
+    "en": "Mental health is vital in one’s overall wellness journey, alongside diet and exercise for lasting well-being. Former therapist Emily Mendez explains why.",
+    "es": "La salud mental es fundamental en el camino hacia el bienestar general, junto con la dieta y el ejercicio para lograr un bienestar duradero. La ex terapeuta Emily Mendez nos explica por qué."
+  },
+  "articles": [
+    {
+      "id": "prioritizing-mental-health",
+      "pages": [
+        26,
+        27,
+        28,
+        29
+      ],
+      "title": {
+        "en": "Why Prioritizing Your Mental Health Should Matter in Your Wellness Journey",
+        "es": "Por qué es importante priorizar tu salud mental en tu camino hacia el bienestar"
+      },
+      "dek": {
+        "en": "Mental health matters",
+        "es": "La salud mental importa"
+      },
+      "byline": {
+        "en": "By Emily Mendez, M.S., Ed.S.",
+        "es": "Por Emily Mendez, M.S., Ed.S."
+      },
+      "cover": "media/img/v1i1/p26-1.jpg",
+      "blocks": [
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p26-2.jpg",
+          "alt": {
+            "en": "Portrait of Emily Mendez",
+            "es": "Retrato de Emily Mendez"
+          }
+        },
+        {
+          "t": "callout",
+          "title": {
+            "en": "About the author",
+            "es": "Sobre la autora"
+          },
+          "text": {
+            "en": "Emily Mendez, M.S., Ed.S., is a former therapist and a widely-published mental health author. Her work has appeared in WebMD, Sondermind, TherapyTribe, and eCounseling. Emily has been featured in Healthline, Yahoo, Verywell Mind, and other national publications. Emily has a MsED in Counseling from Indiana University (IU) in Bloomington and an Ed.S. in Mental Health Counseling, also from IU. As a former psychotherapist, Emily is dedicated to helping people understand how to care for their mental health. When she is not writing, Emily spends most of her time doing yoga, playing pickleball, dancing, and traveling. You can learn more about Emily [here](https://emilyrmendez.journoportfolio.com/).",
+            "es": "Emily Mendez, M.S., Ed.S., es una terapeuta y autora con numerosas publicaciones sobre salud mental. Su trabajo ha aparecido en WebMD, Sondermind, TherapyTribe y eCounseling. Emily ha aparecido en Healthline, Yahoo, Verywell Mind y otras publicaciones nacionales. Emily tiene una maestría en Consejería por la Universidad de Indiana (IU) en Bloomington y una especialización en Consejería en Salud Mental, también por la IU. Como antigua psicoterapeuta, Emily se dedica a ayudar a las personas a comprender cómo cuidar su salud mental. Cuando no está escribiendo, Emily pasa la mayor parte de su tiempo haciendo yoga, jugando al pickleball, bailando y viajando. Puedes obtener más información sobre Emily [aquí](https://emilyrmendez.journoportfolio.com/)."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Nowadays, everyone seems to be embarking on a wellness journey to improve their physical well-being. When you decide to go on a wellness journey, you shift your focus and prioritize self-improvement. For example, you may set a goal to get at least eight hours of sleep a night, add more whole foods to your diet and get active.",
+            "es": "Hoy en día, todo el mundo parece embarcarse en un viaje hacia el bienestar para mejorar su salud física. Cuando decides emprender un viaje hacia el bienestar, cambias tu enfoque y priorizas la superación personal. Por ejemplo, puedes fijarte el objetivo de dormir al menos ocho horas cada noche, añadir más alimentos integrales a tu dieta y hacer más ejercicio."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "While people understand the importance of taking care of their physical health, mental health isn’t as big of a priority for many. However, your mental health is the foundation of your overall well-being. After all, you may eat clean and lift heavy, but how well are you really if you’re constantly stressed and mentally drained?",
+            "es": "Aunque la gente entiende la importancia de cuidar su salud física, la salud mental no es una prioridad tan importante para muchos. Sin embargo, tu salud mental es la base de tu bienestar general. Al fin y al cabo, puedes comer sano y levantar pesas, pero, ¿cómo te sientes realmente si estás constantemente estresado y agotado mentalmente?"
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "Bridging the Wellness Culture Gap: The Focus on Physical Health",
+            "es": "Salvar la brecha cultural del bienestar: el enfoque en la salud física"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Historically speaking, mainstream wellness usually focuses on the physical. It’s impossible to go on social media without stumbling upon countless fitness and nutrition influencers showcasing their latest workouts or protein-packed recipes. Marketing physical wellness is easy, especially with the help of an already established multibillion-dollar fitness industry.",
+            "es": "Históricamente, el bienestar convencional suele centrarse en lo físico. Es imposible entrar en las redes sociales sin toparse con innumerables influencers del fitness y la nutrición que muestran sus últimos entrenamientos o recetas ricas en proteínas. Promocionar el bienestar físico es fácil, especialmente con la ayuda de una industria del fitness ya consolidada y valorada en miles de millones de dólares."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p26-1.jpg",
+          "alt": {
+            "en": "Giant wooden sculpture of a seated figure in King’s Cross, London, raising awareness of mental health",
+            "es": "Escultura gigante de madera de una figura sentada en King’s Cross, Londres, para concienciar sobre la salud mental"
+          },
+          "caption": {
+            "en": "LONDON - SEPTEMBER 20. 2019. A giant wooden sculpture designed by Steuart Padwick to raise awareness of mental health in the city, located at King’s Boulevard in the King’s Cross area of London, UK.",
+            "es": "LONDRES, 20 DE SEPTIEMBRE DE 2019. Una escultura gigante de madera diseñada por Steuart Padwick para concienciar sobre la salud mental en la ciudad, situada en King’s Boulevard, en la zona de King’s Cross de Londres, Reino Unido."
+          },
+          "credit": {
+            "en": "Credit: Ron Ellis",
+            "es": "Crédito: Ron Ellis"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Society’s collective perception of wellness is heavily influenced by the fitness and diet culture. This never-ending quest for weight loss and a trimmed physique has led to a belief that how we look on the outside matters much more than how we feel on the inside. Although there is a growing movement advocating for a more holistic wellness approach, mental health still seems to remain stigmatized.",
+            "es": "La percepción colectiva de la sociedad sobre el bienestar está muy influenciada por la cultura del fitness y la dieta. Esta búsqueda incesante de la pérdida de peso y un físico esbelto ha llevado a la creencia de que nuestro aspecto exterior es mucho más importante que cómo nos sentimos por dentro. Aunque existe un movimiento creciente que aboga por un enfoque más holístico del bienestar, la salud mental sigue estando estigmatizada."
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "Why Mental Health Is Essential to Your Wellness Plan",
+            "es": "Por qué la salud mental es esencial para tu plan de bienestar"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Your mental health lies at the foundation of your wellness journey and can directly impact your physical health. For example, when you’re under a tremendous amount of stress, your body releases large amounts of cortisol, which can raise blood pressure and impact your sleep routine, mood and cognitive functioning.",
+            "es": "Tu salud mental es la base de tu camino hacia el bienestar y puede influir directamente en tu salud física. Por ejemplo, cuando estás sometido a un estrés tremendo, tu cuerpo libera grandes cantidades de cortisol, lo que puede elevar la presión arterial y afectar a tus hábitos de sueño, tu estado de ánimo y tu funcionamiento cognitivo."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Just like the state of your mental health impacts physical health, your physical well-being influences your mood too. The gut-brain connection is a great example of this relationship. While emotions, stress and anxiety can influence your digestive health, your gut functioning impacts your cognition and mood.",
+            "es": "Al igual que el estado de tu salud mental afecta a la salud física, tu bienestar físico también influye en tu estado de ánimo. La conexión entre el intestino y el cerebro es un buen ejemplo de esta relación. Mientras que las emociones, el estrés y la ansiedad pueden influir en tu salud digestiva, el funcionamiento de tu intestino afecta a tu cognición y a tu estado de ánimo."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "People who can successfully regulate their emotions often find they’re better able to maintain good relationships and handle stressful situations. Emotional regulation can also help you maintain the motivation to meet your other health goals. In addition, an optimistic mindset can bolster your resilience, leading you towards holistic wellness. The impact your mental health has on your physical well-being is significant. Therefore, it’s important to address your mental health in meaningful ways throughout your daily life.",
+            "es": "Las personas que logran regular sus emociones con éxito suelen descubrir que son más capaces de mantener buenas relaciones y manejar situaciones estresantes. La regulación emocional también puede ayudarte a mantener la motivación para alcanzar tus otros objetivos de salud. Además, una mentalidad optimista puede reforzar tu resiliencia, lo que te llevará hacia un bienestar holístico. El impacto que tu salud mental tiene en tu bienestar físico es significativo. Por lo tanto, es importante abordar tu salud mental de manera significativa en tu vida diaria."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p27-1.jpg",
+          "alt": {
+            "en": "Café chalkboard for Mental Health Awareness Month listing 10 ways to improve mental health",
+            "es": "Pizarra de una cafetería para el Mes de la Concienciación sobre la Salud Mental con 10 formas de mejorar la salud mental"
+          },
+          "caption": {
+            "en": "New York, NY, USA - June 2, 2024: Community café promotes Mental Health Awareness Month with creative chalkboard display of tips.",
+            "es": "Nueva York, NY, EE. UU. - 2 de junio de 2024: Una cafetería comunitaria promueve el Mes de la Concienciación sobre la Salud Mental con una creativa pizarra en la que se muestran consejos."
+          },
+          "credit": {
+            "en": "Credit: Alexandra Adele",
+            "es": "Crédito: Alexandra Adele"
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "How To Integrate Mental Health Into Your Wellness Journey",
+            "es": "Cómo integrar la salud mental en tu camino hacia el bienestar"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "The most effective way to prioritize your mental health is by finding activities that you’ll enjoy integrating into your daily routine. Some effective ways to improve your mood and decrease stress include:",
+            "es": "La forma más eficaz de dar prioridad a tu salud mental es encontrar actividades que te gusten e integrarlas en tu rutina diaria. Algunas formas efectivas de mejorar tu estado de ánimo y reducir el estrés son:"
+          }
+        },
+        {
+          "t": "list",
+          "ordered": false,
+          "items": {
+            "en": [
+              "Find a hobby you enjoy - Hobbies can be a wonderful form of self-care. Whether you enjoy reading, listening to music or cooking, rediscover old hobbies and try out new ones that pique your interest.",
+              "Try mindfulness or meditation - Learning how to be present in the moment or trying out guided meditation can help decrease stress and improve your focus during busy workdays.",
+              "Connect with your loved ones - Whether you’re calling a sibling or reconnecting with an old friend over lunch, connecting with others can improve your mental health and provide you with the social support you need during challenging times.",
+              "Start journaling - Jotting your thoughts down on paper is a great way to process your emotions and improve your self-awareness and insight. Plus, it can be cathartic, reduce stress and help clear your mind before bedtime."
+            ],
+            "es": [
+              "Encontrar un pasatiempo que te guste: los pasatiempos pueden ser una forma maravillosa de cuidarse a sí mismo. Ya sea que te guste leer, escuchar música o cocinar, redescubre viejos pasatiempos y prueba otros nuevos que despierten tu interés.",
+              "Prueba el mindfulness o la meditación: aprender a estar presente en el momento o probar la meditación guiada puede ayudarte a reducir el estrés y mejorar tu concentración durante las ajetreadas jornadas laborales.",
+              "Conecta con tus seres queridos: ya sea llamando a un hermano o reencontrándote con un viejo amigo durante el almuerzo, conectar con otras personas puede mejorar tu salud mental y proporcionarte el apoyo social que necesitas en momentos difíciles.",
+              "Empieza a escribir un diario: anotar tus pensamientos en un papel es una forma estupenda de procesar tus emociones y mejorar tu autoconciencia y tu percepción. Además, puede ser catártico, reducir el estrés y ayudarte a despejar la mente antes de acostarte."
+            ]
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Another way to boost your mental health is by changing negative thought patterns and focusing on gratitude. Replacing negative thoughts with a more positive attitude can improve your optimism and help you feel more content with your life. Although putting these practices and habits into place takes time, they can significantly boost your emotional resilience and improve your mental health.",
+            "es": "Otra forma de mejorar tu salud mental es cambiar los patrones de pensamiento negativos y centrarte en la gratitud. Reemplazar los pensamientos negativos por una actitud más positiva puede mejorar tu optimismo y ayudarte a sentirte más satisfecho con tu vida. Aunque poner en práctica estos hábitos lleva tiempo, pueden aumentar significativamente tu resiliencia emocional y mejorar tu salud mental."
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "Overcoming Barriers to Improved Mental Health",
+            "es": "Superar las barreras para mejorar la salud mental"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Fear and misconceptions are usually the underlying factors behind the stigma surrounding mental health care. Remember, adjusting your focus and dealing with your mental health concerns is never a sign of weakness, but strength. However, there can be challenges associated with seeking professional support, including cost and limited access to treatment.",
+            "es": "El miedo y los conceptos erróneos suelen ser los factores subyacentes del estigma que rodea a la atención de la salud mental. Recuerda que ajustar tu enfoque y abordar tus preocupaciones sobre la salud mental nunca es un signo de debilidad, sino de fortaleza. Sin embargo, buscar ayuda profesional puede plantear retos, como el coste y el acceso limitado al tratamiento."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Fortunately, there are several low-cost and free options for those who are looking for budget-friendly ways to improve their mental health. For quick, on-the-go support, check out meditation apps or mood and symptom trackers to help you identify and address your mental health triggers.",
+            "es": "Afortunadamente, existen varias opciones gratuitas y de bajo costo para quienes buscan formas económicas de mejorar su salud mental. Para obtener apoyo rápido y sobre la marcha, consulta las aplicaciones de meditación o los rastreadores de estado de ánimo y síntomas que te ayudarán a identificar y abordar los factores que desencadenan tus problemas de salud mental."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Support groups in your community can provide you with invaluable sources of advice and compassion from others who may be struggling with similar issues. Many counseling centers also offer services based on a sliding scale fee. While taking the first step towards receiving the support you need can be intimidating, it is an essential part of any holistic wellness journey. Whether that means penciling in a therapy session after the gym or pairing your evening walk with your favorite guided meditation playlist, fitting mental health into your routine is key.",
+            "es": "Los grupos de apoyo de tu comunidad pueden proporcionarte fuentes inestimables de consejo y compasión de otras personas que pueden estar luchando con problemas similares. Muchos centros de asesoramiento también ofrecen servicios basados en una escala de tarifas variable. Aunque dar el primer paso para recibir el apoyo que necesitas puede resultar intimidante, es una parte esencial de cualquier viaje holístico hacia el bienestar. Ya sea apuntándote a una sesión de terapia después del gimnasio o combinando tu paseo nocturno con tu lista de reproducción favorita de meditación guiada, la clave está en incorporar la salud mental a tu rutina."
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "The Holistic Approach to Wellness: Shifting Towards Wholeness",
+            "es": "El enfoque holístico del bienestar: el camino hacia la plenitud"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Remember, embracing wellness isn’t just about taking care of your physical body, but it’s about addressing your entire well-being. Regardless of what society has taught us, your wellness isn’t just about how toned and healthy you look. Rather, it’s about taking a look at the whole picture and seeing how you mentally and physically feel. It’s important to make mental health a non-negotiable pillar within your wellness routine.",
+            "es": "Recuerda que abrazar el bienestar no solo consiste en cuidar tu cuerpo físico, sino en abordar tu bienestar integral. Independientemente de lo que nos haya enseñado la sociedad, tu bienestar no solo se basa en lo tonificado y saludable que te ves. Más bien, se trata de tener una visión global y ver cómo te sientes mental y físicamente. Es importante que la salud mental sea un pilar innegociable dentro de tu rutina de bienestar."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Prioritizing mental health isn’t just something you should consider doing if you have extra time. It’s non-negotiable. Remember, you wouldn’t ever skip out on healthy meal planning or miss leg day. So don’t skip over taking care of your mind, too.",
+            "es": "Dar prioridad a la salud mental no es algo que debas considerar hacer solo si tienes tiempo extra. Es algo innegociable. Recuerda, nunca te saltarías la planificación de comidas saludables ni te perderías el día de entrenamiento de piernas. Así que no te saltes el cuidado de tu mente tampoco."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "If you’ve made mental health a priority throughout your wellness journey, we’d love to hear about it. Feel free to share your tips on your favorite mental health habits and how to make time for both your mental and physical well-being.",
+            "es": "Si has hecho de la salud mental una prioridad en tu camino hacia el bienestar, nos encantaría que nos lo contaras. No dudes en compartir tus consejos sobre tus hábitos favoritos para la salud mental y cómo sacar tiempo para tu bienestar físico y mental."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p29-1.jpg",
+          "alt": {
+            "en": "Two people standing on a grassy hill watching the sunset over the mountains",
+            "es": "Dos personas de pie en una colina cubierta de hierba contemplando la puesta de sol sobre las montañas"
+          }
+        }
+      ],
+      "disclaimer": "general"
+    }
+  ]
+}

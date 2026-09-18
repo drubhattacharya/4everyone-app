@@ -1,0 +1,104 @@
+{
+  "id": "crossword",
+  "intro": {
+    "en": "Test your knowledge of this issue of 4Everyone! This crossword puzzle draws on the foods, films, songs, and stories highlighted throughout the magazine. You can also download and print out the puzzle as a worksheet offline.",
+    "es": "¡Pon a prueba tus conocimientos sobre este número de Para Cada 1! Este crucigrama se basa en los alimentos, películas, canciones e historias destacados a lo largo de la revista. También puedes descargar e imprimir el crucigrama como hoja de trabajo sin conexión."
+  },
+  "articles": [
+    {
+      "id": "crossword",
+      "pages": [
+        77
+      ],
+      "title": {
+        "en": "Check Your Knowledge!",
+        "es": "¡Comprueba tus conocimientos!"
+      },
+      "dek": {
+        "en": "Crossword Puzzle!",
+        "es": "¡Crucigrama!"
+      },
+      "blocks": [
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p77-1.jpg",
+          "src_es": "media/img/v1i1/p77-1-es.jpg",
+          "alt": {
+            "en": "Blank crossword puzzle grid with numbered squares",
+            "es": "Cuadrícula de crucigrama en blanco con casillas numeradas"
+          }
+        },
+        {
+          "t": "download",
+          "href": "media/docs/crossword-en.pdf",
+          "href_es": "media/docs/crossword-es.pdf",
+          "label": {
+            "en": "Download & print the crossword puzzle",
+            "es": "Descarga e imprime el crucigrama"
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "Across",
+            "es": "Horizontal"
+          }
+        },
+        {
+          "t": "list",
+          "ordered": false,
+          "items": {
+            "en": [
+              "3. Southern dish in recipe videos",
+              "4. Mobility focus in Dr. Tara’s Strength Training session",
+              "6. Song reviewed by Robert Rudy that was on the Voyager’s Golden Record",
+              "7. Mexican dish in recipe videos",
+              "9. The “S” in the TeamSTEPPS communication technique, CUS, stands for this term"
+            ],
+            "es": [
+              "3. Plato mexicano en vídeos de recetas",
+              "5. Apellido del capitán cuya fuerza operativa capturó el submarino U505 durante la Segunda Guerra Mundial.",
+              "6. Enfoque en la movilidad en la sesión de entrenamiento de fuerza de la Dra. Tara.",
+              "9. Canción reseñada por Robert Rudy que aparecía en el Disco de Oro de la Voyager."
+            ]
+          }
+        },
+        {
+          "t": "h",
+          "text": {
+            "en": "Down",
+            "es": "Abajo"
+          }
+        },
+        {
+          "t": "list",
+          "ordered": false,
+          "items": {
+            "en": [
+              "1. Title of the hope-related film reviewed (Czech, “Most”).",
+              "2. What Shannon Miller advised people to set to navigate challenges",
+              "5. Surname of the Captain whose task force captured the WWII U505 submarine",
+              "8. Upper part of a guitar connecting the headstock to the body",
+              "10. 35th anniversary of this law to promote inclusion"
+            ],
+            "es": [
+              "1. Plato sureño en vídeos de recetas",
+              "2. La «S» de la técnica de comunicación TeamSTEPPS, CUS, significa este término.",
+              "4. Título de la película relacionada con la esperanza reseñada (checa, «Most»).",
+              "7. 35.º aniversario de esta ley para promover la inclusión",
+              "8. Lo que Shannon Miller aconsejó a la gente para afrontar los retos"
+            ]
+          }
+        },
+        {
+          "t": "download",
+          "href": "media/docs/crossword-answers-en.pdf",
+          "label": {
+            "en": "Download the answer key",
+            "es": "Descarga las respuestas (versión en inglés)"
+          }
+        }
+      ]
+    }
+  ]
+}

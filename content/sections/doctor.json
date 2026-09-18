@@ -1,0 +1,297 @@
+{
+  "id": "doctor",
+  "intro": {
+    "en": "We catch up with renowned neurologist and founder of BrainLove, Dr. Dani Cabral, who is transforming the narrative on Alzheimer’s and related diseases of aging through cutting-edge medical care, accessible education, trusted resources, and inspiring community.",
+    "es": "Nos reunimos con la renombrada neuróloga y fundadora de BrainLove, la Dra. Dani Cabral, que está transformando la narrativa sobre el Alzheimer y otras enfermedades relacionadas con el envejecimiento a través de una atención médica de vanguardia, una educación accesible, recursos fiables y una comunidad inspiradora."
+  },
+  "articles": [
+    {
+      "id": "dani-cabral-brainlove",
+      "pages": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "title": {
+        "en": "The Doctor Is In",
+        "es": "La doctora está aquí"
+      },
+      "dek": {
+        "en": "Dr. Dani Cabral transforms Alzheimer’s care with BrainLove",
+        "es": "La Dra. Dani Cabral transforma el cuidado del Alzheimer con BrainLove"
+      },
+      "cover": "media/img/v1i1/p47-1.jpg",
+      "blocks": [
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p47-1.jpg",
+          "alt": {
+            "en": "Portrait of Dr. Dani Cabral",
+            "es": "Retrato de la Dra. Dani Cabral"
+          },
+          "caption": {
+            "en": "Dr. Dani Cabral, neurologist and psychiatrist; founder, BrainLove",
+            "es": "Dra. Dani Cabral, neuróloga y psiquiatra; fundadora de BrainLove."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Dr. Danielle “Dani” Cabral is an Ivy-league trained, internationally respected Alzheimer’s specialist neurologist and psychiatrist with over 15 years of experience in Alzheimer’s care and clinical research. She’s known for her unique ability to translate cutting-edge science into real-world, deeply human care. Dr. Cabral has served as principal investigator for multiple Alzheimer’s clinical trials, received grants to advance access and awareness, and speaks widely on transforming brain aging and care. We spoke with Dr. Cabral to learn more about BrainLove, and tips for caring for loved ones facing the challenges of dementia and Alzheimer’s--and those who care for them. According to the Alzheimer’s Association, over 7 million Americans are living with Alzheimer’s, and by 2050, this number is expected to approach 13 million. We are grateful for Dr. Cabral for taking the time to offer her timely insights and support.",
+            "es": "La Dra. Danielle “Dani” Cabral es una neuróloga y psiquiatra especializada en Alzheimer, formada en la Ivy League y respetada internacionalmente, con más de 15 años de experiencia en la atención al Alzheimer y la investigación clínica. Es conocida por su capacidad única para traducir la ciencia de vanguardia en una atención profundamente humana y realista. La Dra. Cabral ha sido investigadora principal en múltiples ensayos clínicos sobre el Alzheimer, ha recibido subvenciones para promover el acceso y la concienciación, y da numerosas charlas sobre la transformación del envejecimiento cerebral y su cuidado. Hablamos con la Dra. Cabral para saber más sobre BrainLove y obtener consejos para cuidar a los seres queridos que se enfrentan a los retos de la demencia y el Alzheimer, así como a quienes los cuidan. Según la Asociación de Alzheimer, más de 7 millones de estadounidenses viven con Alzheimer y se espera que para 2050 esta cifra se acerque a los 13 millones. Agradecemos a la Dra. Cabral que nos haya dedicado su tiempo para ofrecernos sus oportunas ideas y su apoyo."
+          }
+        },
+        {
+          "t": "qa",
+          "q": {
+            "en": "What motivated you to create BrainLove?",
+            "es": "¿Qué te motivó a crear BrainLove?"
+          },
+          "a": {
+            "en": "I created BrainLove because I saw how the traditional healthcare system often left patients and families feeling like they’d been handed a diagnosis with no roadmap. Unfortunately, it is not uncommon for patients and families to be told, “Yes, this looks like Alzheimer’s. Come back in 6 months,” with limited guidance, support, or acknowledgment of the emotional earthquake they had just experienced. This is a systems issue and not the fault of any single healthcare professional. Physicians are not trained to know how to best help in these situations. I have found that much of what helps is “non-medical” or what I call psychosocial-spiritual-relational care. There is currently little to no reimbursement for this type of care. In fact, it is often devalued despite mounting evidence of its effectiveness to improve patient quality of life, decrease unnecessary healthcare utilization and high-risk medications, and improve care partner well-being. As both a neurologist and psychiatrist, I knew there had to be a better way. BrainLove was born out of the conviction that people deserve more than a label. They deserve partnership, education, and the possibility of living fully, even in the face of memory and thinking changes. And just as importantly, we believe that caring for the care partner is inseparable from caring for the patient because the well-being of one directly shapes the resilience of the other.",
+            "es": "Creé BrainLove porque vi cómo el sistema sanitario tradicional a menudo dejaba a los pacientes y a sus familias con la sensación de que les habían dado un diagnóstico sin ningún tipo de orientación. Por desgracia, no es raro que a los pacientes y a sus familias se les diga: “Sí, parece que es Alzheimer. Vuelva dentro de seis meses”, sin ofrecerles orientación, apoyo o reconocimiento alguno por el terremoto emocional que acababan de sufrir. Se trata de un problema del sistema y no es culpa de ningún profesional sanitario en particular. Los médicos no están formados para saber cómo ayudar mejor en estas situaciones. He descubierto que gran parte de lo que ayuda es “no médico” o lo que yo llamo atención psicosocial, espiritual y relacional. Actualmente, este tipo de atención apenas se recomienda. De hecho, a menudo se critica, a pesar de las crecientes pruebas de su eficacia para mejorar la calidad de vida de los pacientes, reducir el uso innecesario de la asistencia sanitaria y los medicamentos de alto riesgo, y mejorar el bienestar de los cuidadores. Como neuróloga y psiquiatra, sabía que tenía que haber una forma mejor. BrainLove nació de la convicción de que las personas merecen más que una etiqueta. Merecen colaboración, educación y la posibilidad de vivir plenamente, incluso ante los cambios en la memoria y el pensamiento. Y lo que es igual de importante, creemos que cuidar al cuidador es inseparable de cuidar al paciente, porque el bienestar de uno determina directamente la resiliencia del otro."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p47-2.jpg",
+          "alt": {
+            "en": "An older patient holding a doctor’s hand",
+            "es": "Un paciente mayor sostiene la mano de un médico"
+          },
+          "caption": {
+            "en": "Elderly patient holding a physician’s hand.",
+            "es": "Paciente anciano sosteniendo la mano de un médico."
+          },
+          "credit": {
+            "en": "Credit: Chinnapong",
+            "es": "Crédito: Chinnapong"
+          }
+        },
+        {
+          "t": "qa",
+          "q": {
+            "en": "What are some common misconceptions about dementia and Alzheimer’s?",
+            "es": "¿Cuáles son algunos de los conceptos erróneos más comunes sobre la demencia y el Alzheimer?"
+          },
+          "a": {
+            "en": "The biggest myth is that there’s nothing we can do. Families are often told to “get their affairs in order” and prepare for an inevitable decline. That’s not the full story. While there’s no Alzheimer’s cure yet, there is so much that can be done to support brain health, adapt to changes, stay active and engaged in one’s life, and strengthen relationships. We now have FDA-approved Alzheimer’s treatments that target biological changes, amyloid plaques, in the brain in individuals in the early symptomatic stages.\n\nEven beyond this, we encourage patients and families to see the opportunity for growth and transformation while addressing the real challenges they face. I have found that those who do best with Alzheimer’s and related diseases are open, honest, and transparent with themselves, their families, and friends. They do not let a disease define their identity. They join together and fight hard to maintain their identity, adapting along the way. This is an act of rebellion in many ways, rebellion against the dementia stigma, against a society and culture that tries to make us invisible as we age and especially with neurodegenerative diseases, such as Alzheimer’s disease.\n\nI call this “Dementia Dehumanization Syndrome.” It’s what happens when a dementia diagnosis leads people to pull back from life not because of the disease itself, but because of the stigma around it. Families stop going out, individuals stop sharing their opinions or trying new things, and their sense of agency and identity shrinks. It’s a form of self-limiting and anticipatory grief fueled by cultural messages that equate dementia with incompetence or irrelevance.\n\nTo combat this, I am part of the Initiative to Change the “D-word”, advocating that we move away from the term dementia altogether. The word is both inaccurate and deeply stigmatizing, suggesting “madness” or “loss of mind,” which does not reflect the lived experience of people with these conditions and presents a barrier to early detection, diagnosis, and treatment. Words matter, and shifting our language is one step toward shifting culture, identity, and hope.\n\nBut I’ve also seen families push back against this with remarkable courage. I worked with families who made the decision to talk openly about the diagnosis with friends, neighbors, and even their faith and social communities. Instead of withdrawing, they lean in, host dinners, share their journey on social media, and invite others to learn alongside them. The result is a circle of support that grows stronger over time. The choice to live transparently not only preserves sense of self but also dismantles stigma for those around them. It is proof that with honesty, community, and courage, people can move beyond dehumanization toward resilience and even transformation.",
+            "es": "El mayor mito es que no hay nada que podamos hacer. A menudo se dice a las familias que “pongan sus asuntos en orden” y se preparen para un deterioro inevitable. Pero eso no es todo. Aunque todavía no existe cura para el Alzheimer, hay mucho que se puede hacer para apoyar la salud cerebral, adaptarse a los cambios, mantenerse activo y comprometido con la vida y fortalecer las relaciones. Ahora contamos con tratamientos para el Alzheimer aprobados por la FDA que se centran en los cambios biológicos, las placas amiloides, en el cerebro de las personas en las primeras etapas sintomáticas.\n\nMás allá de esto, animamos a los pacientes y a sus familias a ver la oportunidad de crecimiento y transformación mientras abordan los retos reales a los que se enfrentan. He descubierto que quienes mejor se adaptan al Alzheimer y otras enfermedades relacionadas son personas abiertas, honestas y transparentes consigo mismas, con sus familias y con sus amigos. No dejan que una enfermedad defina su identidad. Se unen y luchan con fuerza para mantener su identidad, adaptándose sobre la marcha. En muchos sentidos, se trata de un acto de rebelión, una rebelión contra el estigma de la demencia, contra una sociedad y una cultura que intentan hacernos invisibles a medida que envejecemos y, especialmente, cuando padecemos enfermedades neurodegenerativas, como el Alzheimer.\n\nYo lo llamo “síndrome de deshumanización de la demencia”. Es lo que ocurre cuando un diagnóstico de demencia lleva a las personas a retirarse de la vida, no por la enfermedad en sí, sino por el estigma que la rodea. Las familias dejan de salir, las personas dejan de compartir sus opiniones o de probar cosas nuevas, y su sentido de la agencia y la identidad se reduce. Es una forma de autolimitación y duelo anticipado alimentado por mensajes culturales que equiparan la demencia con la incompetencia o la irrelevancia.\n\nPara combatir esto, formo parte de la Iniciativa para cambiar la “palabra D”, que aboga por que dejemos de utilizar por completo el término demencia. La palabra es inexacta y profundamente estigmatizante, ya que sugiere “locura” o “pérdida de la razón”, lo que no refleja la experiencia vivida por las personas con estas afecciones y supone un obstáculo para la detección precoz, el diagnóstico y el tratamiento. Las palabras importan, y cambiar nuestro lenguaje es un paso hacia el cambio de la cultura, la identidad y la esperanza.\n\nPero también he visto a familias oponerse a esto con un valor extraordinario. He trabajado con familias que tomaron la decisión de hablar abiertamente sobre el diagnóstico con amigos, vecinos e incluso con sus comunidades religiosas y sociales. En lugar de aislarse, se involucran, organizan cenas, comparten su experiencia en las redes sociales e invitan a otros a aprender junto a ellos. El resultado es un círculo de apoyo que se fortalece con el tiempo. La decisión de vivir con transparencia no solo preserva el sentido de identidad, sino que también desmantela el estigma para quienes los rodean. Es la prueba de que, con honestidad, comunidad y valentía, las personas pueden superar la deshumanización y alcanzar la resiliencia e incluso la transformación."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p48-1.jpg",
+          "alt": {
+            "en": "A purple awareness ribbon",
+            "es": "Una cinta morada de concienciación"
+          },
+          "caption": {
+            "en": "The purple ribbon represents Alzheimer’s awareness and, according to the Alzheimer’s Association, is the official color of the Alzheimer’s movement.",
+            "es": "La cinta morada representa la concienciación sobre el Alzheimer y, según la Asociación de Alzheimer, es el color oficial del movimiento contra el Alzheimer."
+          },
+          "credit": {
+            "en": "Credit: Kumer Oksana.",
+            "es": "Crédito: Kumer Oksana."
+          }
+        },
+        {
+          "t": "qa",
+          "q": {
+            "en": "How does BrainLove support caregivers, specifically partners and adult children who may care for their elderly parents?",
+            "es": "¿Cómo apoya BrainLove a los cuidadores, en concreto a las parejas y a los hijos adultos que deben cuidar de sus padres ancianos?"
+          },
+          "a": {
+            "en": "Care partners are at the heart of BrainLove. We believe that when care partners thrive, everyone does. We recognize that care partners are not just managing logistics and symptoms, they are also navigating an ongoing grief process. We find the Dementia Grief Model, as described by Kesstan Blandin, to be a powerful framework that reflects what so many families experience.\n\nThis model describes three psychological states that care partners can move through:",
+            "es": "Los cuidadores son el corazón de BrainLove. Creemos que cuando los cuidadores prosperan, todos prosperan. Reconocemos que los cuidadores no solo se ocupan de la logística y los síntomas, sino que también atraviesan un proceso de duelo continuo. Consideramos que el modelo de duelo por demencia, tal y como lo describe Kesstan Blandin, es un marco poderoso que refleja lo que experimentan muchas familias.\n\nEste modelo describe tres estados psicológicos por los que pueden pasar los cuidadores:"
+          }
+        },
+        {
+          "t": "list",
+          "ordered": false,
+          "items": {
+            "en": [
+              "**Separation** — when serial changes and losses lead to a state of separation from the person with cognitive decline",
+              "**Liminality** — the “in-between” space marked by ambiguity, where a loved one is physically present but psychologically changed, and caregivers must tolerate painful and confusing emotions.",
+              "**Re-emergence** — a stage of adaptation, where caregivers begin to integrate the reality of loss and find new ways of connecting, communicating, and living."
+            ],
+            "es": [
+              "**Separación:** cuando los cambios y las pérdidas sucesivas conducen a un estado de separación de la persona con deterioro cognitivo.",
+              "**Liminalidad:** el espacio “intermedio” marcado por la ambigüedad, en el que un ser querido está físicamente presente pero psicológicamente cambiado, y los cuidadores deben tolerar emociones dolorosas y confusas.",
+              "**Reaparición:** una etapa de adaptación, en la que los cuidadores comienzan a integrar la realidad de la pérdida y a encontrar nuevas formas de conectar, comunicarse y vivir."
+            ]
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "At BrainLove, we support families in moving through these stages with compassion and intention. For some, that means helping them name and acknowledge losses, so they don’t remain stuck in separation. For others, it’s about providing tools to tolerate the uncertainty of liminality, including strategies for self-care, support groups, and exploring the concept of ambiguous loss through the work of Pauline Boss, PhD. And when families reach re-emergence, we walk beside them as they adapt to a new reality finding fresh ways to connect with their loved one, to laugh again, and to build resilience for the road ahead.",
+            "es": "En BrainLove, apoyamos a las familias para que superen estas etapas con compasión e intención. Para algunos, eso significa ayudarles a nombrar y reconocer las pérdidas, para que no se queden estancados en la separación. Para otros, se trata de proporcionarles herramientas para tolerar la incertidumbre de la liminalidad, incluyendo estrategias para el autocuidado, grupos de apoyo y la exploración del concepto de pérdida ambigua a través del trabajo de la Dra. Pauline Boss. Y cuando las familias alcanzan la reaparición, las acompañamos en su adaptación a una nueva realidad, encontrando nuevas formas de conectar con su ser querido, de volver a reír y de desarrollar la resiliencia necesaria para el camino que tienen por delante."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p49-1.jpg",
+          "alt": {
+            "en": "An older man in a wheelchair and his daughter on a path in a sunny park",
+            "es": "Un hombre mayor en silla de ruedas y su hija en un sendero de un parque soleado"
+          },
+          "caption": {
+            "en": "Older gentleman and his daughter in the park enjoying a peaceful stroll outdoors.",
+            "es": "Un anciano y su hija disfrutan de un tranquilo paseo al aire libre en el parque."
+          },
+          "credit": {
+            "en": "Credit: Lucky Business",
+            "es": "Crédito: Lucky Business"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "As well, care partners often carry an invisible weight of guilt sometimes heavier than the physical or logistical demands of caregiving itself. This guilt shows up in many ways:",
+            "es": "Además, los cuidadores suelen llevar una carga invisible de culpa que a veces es más pesada que las exigencias físicas o logísticas del propio cuidado. Esta culpa se manifiesta de muchas maneras:"
+          }
+        },
+        {
+          "t": "list",
+          "ordered": false,
+          "items": {
+            "en": [
+              "**Guilt about not doing enough.** Even when they’re providing round-the-clock care, spouses and adult children often feel they should be doing more, more patience, more creativity, more energy. They measure themselves against an impossible standard of “perfect caregiving.”",
+              "**Guilt about frustration or resentment.** Care partners sometimes feel angry or resentful, and then feel guilty for having those very human emotions toward someone they love.",
+              "**Guilt about needing help.** Accepting outside assistance, respite care, or even considering long-term placement can feel like “failing” their loved one, even when it’s necessary for survival.",
+              "**Guilt about enjoying life.** Many caregivers feel disloyal for laughing with friends, going on vacation, or having moments of joy while their loved one is struggling.",
+              "**Survivor’s guilt.** After their loved one passes away, some caregivers carry guilt about choices they made, medical decisions, placement in a facility, or simply wishing at times for the burden to be lighter."
+            ],
+            "es": [
+              "**Culpa por no hacer lo suficiente.** Incluso cuando proporcionan cuidados las 24 horas del día, los cónyuges y los hijos adultos a menudo sienten que deberían hacer más, tener más paciencia, más creatividad, más energía. Se miden a sí mismos con un estándar imposible de “cuidado perfecto”.",
+              "**Culpa por la frustración o el resentimiento.** Los cuidadores a veces sienten ira o resentimiento, y luego se sienten culpables por tener esas emociones tan humanas hacia alguien a quien aman.",
+              "**Culpa por necesitar ayuda.** Aceptar ayuda externa, cuidados de relevo o incluso considerar la posibilidad de ingresar al paciente en una residencia a largo plazo puede hacerles sentir que están “fallando” a su ser querido, incluso cuando es necesario para su supervivencia.",
+              "**Culpa por disfrutar de la vida.** Muchos cuidadores se sienten desleales por reírse con sus amigos, irse de vacaciones o tener momentos de alegría mientras su ser querido está pasando por dificultades.",
+              "**Culpa del sobreviviente.** Tras el fallecimiento de su ser querido, algunos cuidadores se sienten culpables por las decisiones que tomaron, las decisiones médicas, el ingreso en un centro o, simplemente, por desear en ocasiones que la carga fuera más ligera."
+            ]
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p50-1.jpg",
+          "alt": {
+            "en": "Infographic: 41% of caregivers are ages 50-64",
+            "es": "Infografía: el 41% de los cuidadores tienen entre 50 y 64 años (texto en inglés)"
+          },
+          "credit": {
+            "en": "Source: Alzheimer’s Association, Fact Sheet - Alzheimer’s Disease Caregivers, Alzheimer’s Impact Movement (AIM), alzimpact.org (March 2024).",
+            "es": "Fuente: Asociación de Alzheimer, Hoja informativa - Cuidadores de enfermos de Alzheimer, Movimiento de Impacto del Alzheimer (AIM), alzimpact.org (marzo de 2024)."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "At BrainLove, we try to normalize these feelings. Guilt doesn’t mean a caregiver isn’t devoted. It often means the opposite: they care so deeply that they hold themselves to superhuman expectations. We help caregivers reframe guilt as a signal of love, not of failure, and guide them toward self-compassion and self-care.",
+            "es": "En BrainLove, intentamos normalizar estos sentimientos. La culpa no significa que un cuidador no sea devoto. A menudo significa lo contrario: se preocupan tanto que se imponen expectativas sobrehumanas. Ayudamos a los cuidadores a replantearse la culpa como una señal de amor, no de fracaso, y los guiamos hacia la autocompasión y el autocuidado."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "BrainLove provides direct care to care partners through personalized visits, tailored offerings, referrals, and resource connections focusing not only on the patient, but on the caregiver’s mental health and well-being. Our programs are designed so care partners never feel invisible. They are equipped, supported, and reminded that they are not alone in this journey.",
+            "es": "BrainLove proporciona atención directa a los cuidadores mediante visitas personalizadas, ofertas a medida, derivaciones y conexiones con recursos que se centran no solo en el paciente, sino también en la salud mental y el bienestar del cuidador. Nuestros programas están diseñados para que los cuidadores nunca se sientan invisibles. Se les equipa, se les apoya y se les recuerda que no están solos en este viaje."
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "We also know that caring for someone with Alzheimer’s or related conditions cannot be done in isolation by families or by us. Partnerships with primary care providers, other trusted healthcare professionals, community services, and agencies are essential to a truly holistic approach. There are many excellent resources available, but they can be difficult to access in the moment of need. Just as we encourage our care partners not to shoulder everything alone, we at BrainLove don’t try to do it alone either. We actively connect our caregiver patients to outside support whenever it’s needed, ensuring they have a team around them, not just a single point of care.",
+            "es": "También sabemos que el cuidado de una persona con Alzheimer o enfermedades relacionadas no puede ser realizado de forma aislada por las familias o por nosotros. Las asociaciones con proveedores de atención primaria, otros profesionales sanitarios de confianza, servicios comunitarios y agencias son esenciales para un enfoque verdaderamente holístico. Hay muchos recursos excelentes disponibles, pero pueden ser difíciles de acceder en el momento en que se necesitan. Al igual que animamos a nuestros cuidadores a no cargar con todo ellos solos, en BrainLove tampoco intentamos hacerlo solos. Conectamos activamente a nuestros pacientes cuidadores con apoyo externo siempre que es necesario, asegurándonos de que cuenten con un equipo a su alrededor, no solo con un único punto de atención."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p50-2.jpg",
+          "src_es": "media/img/v1i1/p50-2-es.jpg",
+          "alt": {
+            "en": "Illustration of a hand holding a red heart, with leaves and a flower",
+            "es": "Ilustración de una mano que sostiene un corazón rojo, con hojas y una flor"
+          }
+        },
+        {
+          "t": "qa",
+          "q": {
+            "en": "Alzheimer’s is often described as a disease that reshapes identity and family roles. From your perspective, how can families best maintain connection and a sense of “self” for their loved one?",
+            "es": "El Alzheimer se describe a menudo como una enfermedad que transforma la identidad y los roles familiares. Desde su perspectiva, ¿cómo pueden las familias mantener mejor la conexión y el sentido del “yo” de sus seres queridos?"
+          },
+          "a": {
+            "en": "Families can maintain connection by focusing less on facts and more on feelings, less on the past and future and more on the present moment. A person may not remember your name, but they can remember the feeling of being loved, safe, and included. Small rituals such as shared meals, favorite music, storytelling can anchor identity and belonging.\n\nIt also helps to see this journey through new ideas and frameworks. One that I often share is ambiguous loss, the recognition that your loved one is physically here but may feel psychologically different, and that grief begins long before goodbye. Naming this experience gives families permission to feel what they feel, while still seeking ways to connect.\n\nAnother powerful approach is using humor and improv. Instead of correcting or forcing reality, families can learn to “yes, and…” to lean into the conversation or moment as it is, to find levity, and to rediscover joy in unexpected places. Laughter, play, and spontaneity not only reduce stress but also preserve relationships in a way that words alone cannot.",
+            "es": "Las familias pueden mantener la conexión centrándose menos en los hechos y más en los sentimientos, menos en el pasado y el futuro y más en el momento presente. Una persona puede no recordar su nombre, pero puede recordar la sensación de ser amada, segura e incluida. Pequeños rituales como las comidas compartidas, la música favorita o contar historias pueden afianzar la identidad y el sentido de pertenencia.\n\nTambién ayuda ver este viaje a través de nuevas ideas y marcos. Uno que suelo compartir es la pérdida ambigua, el reconocimiento de que su ser querido está físicamente aquí, pero puede sentirse psicológicamente diferente, y que el duelo comienza mucho antes de la despedida. Nombrar esta experiencia da permiso a las familias para sentir lo que sienten, sin dejar de buscar formas de conectar.\n\nOtro enfoque poderoso es el uso del humor y la improvisación. En lugar de corregir o forzar la realidad, las familias pueden aprender a decir “sí, y...” para apoyarse en la conversación o el momento tal como es, encontrar la ligereza y redescubrir la alegría en lugares inesperados. La risa, el juego y la espontaneidad no solo reducen el estrés, sino que también preservan las relaciones de una manera que las palabras por sí solas no pueden."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p51-1.jpg",
+          "alt": {
+            "en": "Three generations of a family sharing a meal at a table",
+            "es": "Tres generaciones de una familia comparten una comida en la mesa"
+          },
+          "caption": {
+            "en": "Multigenerational family sharing a meal together.",
+            "es": "Familia multigeneracional compartiendo una comida juntos."
+          },
+          "credit": {
+            "en": "Credit: PeopleImages",
+            "es": "Crédito: PeopleImages"
+          }
+        },
+        {
+          "t": "qa",
+          "q": {
+            "en": "Beyond medication, what lifestyle or holistic strategies have you found most impactful in supporting brain health and quality of life for patients with Alzheimer’s?",
+            "es": "Más allá de la medicación, ¿qué estilo de vida o estrategias holísticas le han parecido más eficaces para favorecer la salud cerebral y la calidad de vida de los pacientes con Alzheimer?"
+          },
+          "a": {
+            "en": "Physical activity, social connection, and cognitive stimulation have consistently been shown to support healthy brain aging and quality of life in Alzheimer’s. The key is to find ways to do tap into these areas that resonate with the person with Alzheimer’s. As the disease progresses, people often want to continue their lifelong hobbies but may express resistance or outright refusal. This resistance is usually not stubbornness. It often stems from fear, uncertainty, or a loss of confidence. A person may worry about “getting it wrong” or feel overwhelmed by tasks that used to come easily. In these moments, rational explanations rarely work. Telling someone why they “should” do something usually only increases anxiety or refusal.\n\nInstead, one effective approach is to gently guide them into the activity without making it feel like a test or requirement. Sometimes that means joining them first such as driving to the park for a walk, putting on music, starting to dance or begin sketching and then inviting them in. Other times it means reframing the activity in a way that feels safe and natural.\n\nThis is where the concept of therapeutic fibbing can be helpful. If a loved one resists going for a walk, instead of insisting “it’s good for you,” you might say, “Can you help me mail a letter?” or “Let’s go see if the roses are blooming outside.” If they resist playing the piano, you might say, “I’ve forgotten this song. Can you show me?” These small, compassionate reframings lower resistance and restore confidence. At BrainLove, we encourage families to use therapeutic fibbing not as deception, but as a loving strategy to reduce distress and open the door to meaningful engagement, connection, and joy.\n\nFinally, and especially in the mid to late stages of disease, my top three picks for sparking joy and connection are music, pets, and gentle touch. Simple things like hand massage or stroking a pet can bypass words and reach directly into the emotional core. I first learned the power of these approaches more than 20 years ago while working for a hospice dementia program. I’ll never forget watching individuals who had been still and unresponsive for days, sometimes weeks, suddenly begin tapping a toe or opening their eyes when a favorite anthem from their youth filled the room. For families, those moments felt nothing short of miraculous. They offered a glimpse of their loved one’s essence shining through, reminding everyone that connection is still possible, even at the end of life.",
+            "es": "Se ha demostrado que la actividad física, la conexión social y la estimulación cognitiva favorecen el envejecimiento saludable del cerebro y la calidad de vida en el Alzheimer. La clave está en encontrar formas de aprovechar estas áreas que resuenen en la persona con Alzheimer. A medida que la enfermedad avanza, las personas suelen querer continuar con sus aficiones de toda la vida, pero pueden expresar resistencia o rechazo absoluto. Esta resistencia no suele ser obstinación. A menudo se debe al miedo, la incertidumbre o la pérdida de confianza. Una persona puede preocuparse por “hacerlo mal” o sentirse abrumada por tareas que antes le resultaban fáciles. En estos momentos, las explicaciones racionales rara vez funcionan. Decirle a alguien por qué “debería” hacer algo suele aumentar la ansiedad o la negativa.\n\nEn cambio, un enfoque eficaz consiste en guiarla suavemente hacia la actividad sin que se sienta como una prueba o una obligación. A veces, eso significa acompañarla primero, por ejemplo, llevarla en coche al parque para dar un paseo, poner música, empezar a bailar o dibujar y luego invitarla a participar. Otras veces, significa replantear la actividad de una manera que resulte segura y natural.\n\nAquí es donde puede resultar útil el concepto de la mentira piadosa. Si un ser querido se resiste a salir a dar un paseo, en lugar de insistir en que “es bueno para él”, podría decirle: “¿Me acompañas a llevar una carta al correo?” o “vamos a ver si las rosas están floreciendo fuera”. Si se resisten a tocar el piano, se le puede decir: “He olvidado esta canción. ¿Me la enseñas?”. Estos pequeños y compasivos cambios de perspectiva reducen la resistencia y restauran la confianza. En BrainLove, animamos a las familias a utilizar la mentira piadosa no como un engaño, sino como una estrategia amorosa para reducir la angustia y abrir la puerta a una participación, conexión y alegría significativas.\n\nPor último, y especialmente en las etapas intermedias y avanzadas de la enfermedad, mis tres opciones principales para despertar la alegría y la conexión son la música, las mascotas y el contacto físico suave. Cosas sencillas como un masaje en las manos o acariciar a una mascota pueden prescindir de las palabras y llegar directamente al núcleo emocional. Descubrí el poder de estos enfoques hace más de 20 años, mientras trabajaba en un programa de demencia en un hospicio. Nunca olvidaré ver a personas que habían estado inmóviles y sin responder durante días, a veces semanas, empezar de repente a mover los dedos de los pies o a abrir los ojos cuando una canción favorita de su juventud llenaba la habitación. Para las familias, esos momentos eran nada menos que milagrosos. Ofrecían un atisbo de la esencia de su ser querido, recordando a todos que la conexión sigue siendo posible, incluso al final de la vida."
+          }
+        },
+        {
+          "t": "qa",
+          "q": {
+            "en": "How has your experience with BrainLove shaped, or even changed, how you practice and interact with families of patients with dementia and Alzheimer’s?",
+            "es": "¿Cómo ha influido o incluso cambiado su experiencia con BrainLove en su forma de trabajar e interactuar con las familias de pacientes con demencia y Alzheimer?"
+          },
+          "a": {
+            "en": "BrainLove has taught me to slow down and listen not just to symptoms but to stories. I once had a husband tell me, “Doctor, thank you for not just seeing my wife but for seeing me too.” That moment crystallized what BrainLove is about: care for the whole family, not just the patient. It’s also changed how I measure success. Before, it was about test results and scan reports. Now, it’s about moments of connection: a care partner feeling less overwhelmed, a patient laughing again, a family rediscovering joy in the midst of challenge. Those are the metrics that matter most.\n\nAt the same time, BrainLove has reinforced that families need both: the confidence that their medical team is doing everything possible to figure out what’s happening, and the support to move into the non-medical—what I call psychosocial-spiritual-relational care. Families often can’t embrace the non-medical until they trust that the medical has been addressed. When both are in place, healing becomes possible on multiple levels.",
+            "es": "BrainLove me ha enseñado a tomarme las cosas con calma y a escuchar no solo los síntomas, sino también las historias. Una vez, un marido me dijo: “Doctora, gracias por no solo atender a mi esposa, sino también a mí”. Ese momento cristalizó lo que significa BrainLove: cuidar de toda la familia, no solo del paciente. También ha cambiado mi forma de medir el éxito. Antes, se trataba de los resultados de las pruebas y los informes de las exploraciones. Ahora, se trata de momentos de conexión: un cuidador que se siente menos abrumado, un paciente que vuelve a reír, una familia que redescubre la alegría en medio de las dificultades. Esas son las métricas que más importan.\n\nAl mismo tiempo, BrainLove ha reforzado la idea de que las familias necesitan ambas cosas: la confianza de que su equipo médico está haciendo todo lo posible para averiguar qué está pasando y el apoyo para pasar a lo no médico, lo que yo llamo atención psicosocial, espiritual y relacional. A menudo, las familias no pueden aceptar lo no médico hasta que confían en que lo médico se ha abordado. Cuando ambas cosas están en su sitio, la curación es posible en múltiples niveles."
+          }
+        },
+        {
+          "t": "image",
+          "src": "media/img/v1i1/p52-1.jpg",
+          "alt": {
+            "en": "An older man playing chess with his adult son",
+            "es": "Un hombre mayor juega al ajedrez con su hijo adulto"
+          },
+          "caption": {
+            "en": "Elderly parent playing a game of chess with his son.",
+            "es": "Padre anciano jugando al ajedrez con su hijo."
+          },
+          "credit": {
+            "en": "Credit: PeopleImages",
+            "es": "Crédito: PeopleImages"
+          }
+        },
+        {
+          "t": "link",
+          "href": "https://mybrainlove.com/",
+          "label": {
+            "en": "To learn more, visit BrainLove",
+            "es": "Para obtener más información, visita BrainLove"
+          }
+        }
+      ],
+      "disclaimer": "general"
+    }
+  ]
+}

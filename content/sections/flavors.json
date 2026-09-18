@@ -1,0 +1,356 @@
+{
+  "id": "flavors",
+  "intro": {
+    "en": "Join Chef Jenna in your kitchen!",
+    "es": "¡Únete a la chef Jenna en tu cocina!"
+  },
+  "articles": [
+    {
+      "id": "chef-jenna",
+      "pages": [
+        13
+      ],
+      "title": {
+        "en": "Behind the Camera: Chef Jenna Edwards",
+        "es": "Detrás de la cámara: la chef Jenna Edwards"
+      },
+      "blocks": [
+        {
+          "t": "p",
+          "text": {
+            "en": "Our cooking videos come from the studio of Cooking Companion TV with Jenna Edwards. Jenna has been cooking on camera for 10 years for her YouTube channel, Cooking Companion TV, and on major food and TV commercials as a hand model in NYC. You can learn more, below, and don’t forget to subscribe to her channel, and follow her on Instagram for regular reminders.",
+            "es": "Nuestros vídeos de cocina proceden del estudio de Cooking Companion TV con Jenna Edwards. Jenna lleva 10 años cocinando ante las cámaras para su canal de YouTube, Cooking Companion TV, y en importantes anuncios de televisión y de alimentación como modelo de manos en Nueva York. Puedes obtener más información a continuación, y no olvides suscribirte a su canal y seguirla en Instagram para recibir recordatorios periódicos."
+          }
+        },
+        {
+          "t": "youtube",
+          "id": "JJ2EsLZ-nyw",
+          "title": {
+            "en": "Welcome to Cooking Companion TV with Jenna Edwards",
+            "es": "Bienvenida a Cooking Companion TV con Jenna Edwards"
+          }
+        },
+        {
+          "t": "link",
+          "href": "https://youtube.com/@cookingcompaniontv",
+          "label": {
+            "en": "Subscribe to Cooking Companion TV on YouTube",
+            "es": "Suscríbete a Cooking Companion TV en YouTube"
+          }
+        },
+        {
+          "t": "link",
+          "href": "https://www.instagram.com/jennagedwardstv/",
+          "label": {
+            "en": "Follow Jenna on Instagram",
+            "es": "Sigue a Jenna en Instagram"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pozole",
+      "pages": [
+        14
+      ],
+      "title": {
+        "en": "Pozole",
+        "es": "Pozole"
+      },
+      "blocks": [
+        {
+          "t": "p",
+          "text": {
+            "en": "Pozole is more than a hearty stew; it is a dish intertwined with Mexico’s history, culture, and identity. This traditional hominy-based stew dates back to pre-Columbian Mesoamerica. The very name pozole comes from the Náhuatl word pozolli, meaning “foam.” Early Indigenous cooks observed that when cacahuazintle corn (a large-kernel white maize) was boiled in water with lime, the kernels burst open, creating a frothy, foam-like bloom in the pot. This foaming quality gave the dish its name and reflects the importance of maize processing in Mesoamerican cuisine. By soaking maize in an alkaline solution, a process known as nixtamalization, Indigenous peoples not only loosened the hulls to produce hominy, but also greatly enhanced the grain’s nutritional value, releasing niacin (vitamin B₃) and other nutrients that made corn a reliable staple.¹,² Today it is common to garnish a bowl of pozole with shredded lettuce or cabbage, sliced radishes, and a squeeze of lime, which became beloved additions in the colonial and post-colonial periods.³",
+            "es": "El pozole es más que un guiso sustancioso; es un plato entrelazado con la historia, la cultura y la identidad de México. Este guiso tradicional a base de maíz molido se remonta a la Mesoamérica precolombina. El nombre “pozole” proviene de la palabra náhuatl “pozolli”, que significa “espuma”. Los primeros cocineros indígenas observaron que cuando se hervía el maíz cacahuazintle (un maíz blanco de grano grande) en agua con cal, los granos se abrían, creando una espuma en la olla. Esta espuma dio nombre al plato y refleja la importancia del procesamiento del maíz en la cocina mesoamericana. Al remojar el maíz en una solución alcalina, un proceso conocido como nixtamalización, los pueblos indígenas no solo ablandaban las cáscaras para producir maíz molido, sino que también aumentaban considerablemente el valor nutricional del grano, liberando niacina (vitamina B₃) y otros nutrientes que convertían al maíz en un alimento básico fiable.¹,² Hoy en día es habitual adornar un plato de pozole con lechuga o col rallada, rodajas de rábano y un chorrito de lima, que se convirtieron en aderezos muy apreciados en los periodos colonial y poscolonial.³"
+          }
+        },
+        {
+          "t": "youtube",
+          "id": "l9qybo2Sctg",
+          "vertical": true,
+          "title": {
+            "en": "Mexican Pozole",
+            "es": "Pozole mexicano"
+          }
+        },
+        {
+          "t": "recipe",
+          "ingredients": {
+            "en": [
+              "1 can hominy",
+              "2 oz tomato paste",
+              "1 onion chopped",
+              "1 can stewed tomatoes",
+              "1/4 cup cilantro, chopped",
+              "1 garlic clove, finely chopped",
+              "2 lbs lean beef, cubed",
+              "1 tbsp olive oil",
+              "1/4 tsp salt",
+              "1/8 tsp pepper"
+            ],
+            "es": [
+              "1 lata de maíz molido",
+              "2 onzas de pasta de tomate",
+              "1 cebolla picada",
+              "1 lata de tomates guisados",
+              "1/4 taza de cilantro picado",
+              "1 diente de ajo finamente picado",
+              "900 g de carne magra de ternera cortada en cubitos",
+              "1 cucharada de aceite de oliva",
+              "1/4 cucharadita de sal",
+              "1/8 cucharadita de pimienta"
+            ]
+          },
+          "steps": {
+            "en": [],
+            "es": []
+          }
+        }
+      ],
+      "references": {
+        "en": [
+          "Southern Foodways Alliance. Malnourished: Cultural ignorance paved the way for pellagra. Gravy Journal. Fall 2016.",
+          "Tedlock D, translator. Popol Vuh: The Mayan Book of the Dawn of Life. New York, NY: Simon & Schuster; 1996.",
+          "Secretaría de Agricultura y Desarrollo Rural. Pozole, profunda historia en cada plato. Gob.mx. September 12, 2021."
+        ],
+        "es": [
+          "Southern Foodways Alliance. Malnourished: Cultural ignorance paved the way for pellagra. Gravy Journal. Fall 2016.",
+          "Tedlock D, translator. Popol Vuh: The Mayan Book of the Dawn of Life. New York, NY: Simon & Schuster; 1996.",
+          "Secretaría de Agricultura y Desarrollo Rural. Pozole, profunda historia en cada plato. Gob.mx. September 12, 2021."
+        ]
+      },
+      "disclaimer": "general"
+    },
+    {
+      "id": "gumbo",
+      "pages": [
+        15
+      ],
+      "title": {
+        "en": "Chicken & Sausage Gumbo",
+        "es": "Gumbo de pollo y salchicha"
+      },
+      "blocks": [
+        {
+          "t": "p",
+          "text": {
+            "en": "Chicken and sausage gumbo is a beloved Louisiana stew whose history is as rich as its flavor. Emerging in colonial-era kitchens of the American South, gumbo was born from cultural convergence, blending West African, Native American, and European traditions. The very name gumbo comes from West African languages, e.g. the Bantu word nkombo, meaning okra, hinting at the dish’s African roots and the early use of okra as a key ingredient.¹ Enslaved African cooks in 18th-century Louisiana combined their familiar okra-thickened stews with local ingredients and French techniques, inventing a new Creole specialty.² Okra’s silky texture, Choctaw filé powder (ground sassafras leaves), and the French roux (browned flour in fat) each contributed to gumbo’s signature thickness and depth of flavor, a trio of influences reflecting the dish’s tripartite lineage.³",
+            "es": "El gumbo de pollo y salchicha es un guiso muy apreciado en Luisiana, cuya historia es tan rica como su sabor. El gumbo, que surgió en las cocinas de la época colonial del sur de Estados Unidos, nació de la convergencia cultural, mezclando tradiciones de África Occidental, nativas americanas y europeas. El propio nombre “gumbo” proviene de lenguas de África Occidental, por ejemplo, de la palabra bantú nkombo, que significa okra, lo que insinúa las raíces africanas del plato y el uso temprano de la okra como ingrediente clave.¹ Los cocineros africanos esclavizados en la Luisiana del siglo XVIII combinaron sus conocidos guisos espesados con okra con ingredientes locales y técnicas francesas, inventando una nueva especialidad criolla.² La textura sedosa de la okra, el polvo de filé choctaw (hojas de sasafrás molidas) y el roux francés (harina dorada en grasa) contribuyeron a la espesura y profundidad de sabor características del gumbo, un trío de influencias que reflejan el linaje tripartito del plato.³"
+          }
+        },
+        {
+          "t": "youtube",
+          "id": "VFL-ebvP4ds",
+          "id_es": "d4iR5krrLyA",
+          "title": {
+            "en": "Chicken & Sausage Gumbo",
+            "es": "Gumbo de pollo y salchicha"
+          }
+        },
+        {
+          "t": "recipe",
+          "ingredients": {
+            "en": [
+              "5 oz sausage",
+              "2 precooked chicken breasts",
+              "9 tbsp flour",
+              "2/3 cup vegetable oil",
+              "1 cup brown rice",
+              "1 can kidney beans",
+              "1 red bell pepper",
+              "3 celery stalks",
+              "1/2 onion",
+              "1 tbsp cumin, thyme, oregano, & garlic",
+              "4 tbsp chopped green onions"
+            ],
+            "es": [
+              "5 onzas de salchicha",
+              "2 pechugas de pollo precocinadas",
+              "9 cucharadas de harina",
+              "2/3 taza de aceite vegetal",
+              "1 taza de arroz integral",
+              "1 lata de alubias rojas",
+              "1 pimiento rojo",
+              "3 tallos de apio",
+              "1/2 cebolla",
+              "1 cucharada de comino, tomillo, orégano y ajo",
+              "4 cucharadas de cebollas verdes picadas"
+            ]
+          },
+          "steps": {
+            "en": [],
+            "es": []
+          }
+        }
+      ],
+      "references": {
+        "en": [
+          "Edge J. The Potlikker Papers: A Food History of the Modern South. Penguin Press; 2017.",
+          "Ferris M. The Edible South: The Power of Food and the Making of an American Region. UNC Press; 2014.",
+          "Folse J, Smith C. The Encyclopedia of Cajun & Creole Cuisine. Chef John Folse & Co Publishing; 2004."
+        ],
+        "es": [
+          "Edge J. The Potlikker Papers: A Food History of the Modern South. Penguin Press; 2017.",
+          "Ferris M. The Edible South: The Power of Food and the Making of an American Region. UNC Press; 2014.",
+          "Folse J, Smith C. The Encyclopedia of Cajun & Creole Cuisine. Chef John Folse & Co Publishing; 2004."
+        ]
+      },
+      "disclaimer": "general"
+    },
+    {
+      "id": "lotus-root-soup",
+      "pages": [
+        16
+      ],
+      "title": {
+        "en": "Lotus Root Soup",
+        "es": "Sopa de raíz de loto"
+      },
+      "blocks": [
+        {
+          "t": "p",
+          "text": {
+            "en": "In Chinese kitchens, lotus root soup quietly simmers as more than just a meal – it’s history, healing, and home in one pot. Earthy slices of lotus root mingle with black-eyed peas, mushrooms, peanuts, and chestnuts, perfumed by a curl of dried orange peel and sweet red dates. For centuries, Chinese families have cherished this broth.",
+            "es": "En las cocinas chinas, la sopa de raíz de loto se cocina a fuego lento y es mucho más que una simple comida: es historia, curación y hogar en una sola olla. Las rodajas de raíz de loto se mezclan con frijoles de ojo negro, champiñones, cacahuetes y castañas, perfumadas con una ralladura de piel de naranja seca y dátiles rojos dulces. Durante siglos, las familias chinas han apreciado este caldo. Los arqueólogos desenterraron una vez una olla de sopa de loto de 2000 años de antigüedad sellada en una tumba antigua, lo que da testimonio de la longevidad de la tradición.¹"
+          }
+        },
+        {
+          "t": "p",
+          "text": {
+            "en": "Lotus root’s delicate wheel of holes symbolizes continuity and abundance, making the soup a cherished New Year dish to invoke prosperity in the year ahead.¹ Traditional healers praise its ingredients as nourishing tonics to strengthen the body and calm the spirit, a delicious embodiment of the Chinese principle of food-as-medicine.² Simmered slowly “old-fire” style, this soup is an expression of familial love and hope, each bowl offering the comforting essence of home and a wish for health through the seasons.³",
+            "es": "La delicada rueda de agujeros de la raíz de loto simboliza la continuidad y la abundancia, lo que convierte a la sopa en un plato muy apreciado en Año Nuevo para invocar la prosperidad en el año que comienza.² Los curanderos tradicionales elogian sus ingredientes como tónicos nutritivos para fortalecer el cuerpo y calmar el espíritu, una deliciosa encarnación del principio chino de la comida como medicina.³ Cocida a fuego lento al estilo “old-fire”, esta sopa es una expresión del amor y la esperanza familiares, y cada plato ofrece la reconfortante esencia del hogar y el deseo de salud a lo largo de las estaciones.⁴"
+          }
+        },
+        {
+          "t": "youtube",
+          "id": "QXjo4nGh__E",
+          "id_es": "Vm_uexZk85M",
+          "vertical": true,
+          "title": {
+            "en": "Lotus Root Soup",
+            "es": "Sopa de raíz de loto"
+          }
+        },
+        {
+          "t": "recipe",
+          "ingredients": {
+            "en": [
+              "20 mushroom pieces, soaked",
+              "2 cups of black-eyed peas",
+              "2 stalks of lotus root, peeled & chopped",
+              "20 cups of water",
+              "1 piece of orange peel, dried",
+              "1 cup of raw peanuts",
+              "1 lb frozen chestnuts, peeled",
+              "15 pieces of red dates",
+              "6 pieces of sweet dates",
+              "1 tsp salt"
+            ],
+            "es": [
+              "20 trozos de setas remojadas",
+              "2 tazas de frijoles de ojo negro",
+              "2 tallos de raíz de loto pelados y picados",
+              "20 tazas de agua",
+              "1 trozo de piel de naranja seca",
+              "1 taza de cacahuetes crudos",
+              "1 libra de castañas congeladas peladas",
+              "15 piezas de dátiles rojos",
+              "6 piezas de dátiles dulces",
+              "1 cucharadita de sal"
+            ]
+          },
+          "steps": {
+            "en": [],
+            "es": []
+          }
+        }
+      ],
+      "references": {
+        "en": [
+          "Chia C. Hearty soup for an abundant year. The Star. January 22, 2023.",
+          "Cheng N. Easy Chinese lotus root and pork bone soup. Nomss.com. January 4, 2023.",
+          "Macabasco L. Lo foh tong tastes like home. Whetstone Magazine. September 1, 2020."
+        ],
+        "es": [
+          "Specialty Produce. Lotus Root.",
+          "Chia C. Hearty soup for an abundant year. The Star. January 22, 2023.",
+          "Cheng N. Easy Chinese lotus root and pork bone soup. Nomss.com. January 4, 2023.",
+          "Macabasco L. Lo foh tong tastes like home. Whetstone Magazine. September 1, 2020."
+        ]
+      },
+      "disclaimer": "general"
+    },
+    {
+      "id": "succotash",
+      "pages": [
+        17
+      ],
+      "title": {
+        "en": "Succotash",
+        "es": "Succotash"
+      },
+      "blocks": [
+        {
+          "t": "p",
+          "text": {
+            "en": "Among Northeastern tribes such as the Narragansett and Iroquois, succotash is a living emblem of Indigenous agricultural wisdom. Its name derives from the Narragansett word msíckquatash, meaning “boiled corn kernels.” The dish embodies the legendary Three Sisters method, an ingenious system where corn stalks served as bean trellises, beans enriched the soil, and squash vines suppressed weeds.¹ Cooking these crops together yielded a dish that was nutritionally complete, virtually eliminating the need for meat.² Many communities honor corn, beans, and squash as “Sustainers of Life” and sacred gifts from the Creator, reflecting their central place in both nourishment and ceremony.³ Succotash symbolizes a harmony between people and the land, a humble, nourishing celebration and timeless tribute to the Three Sisters that sustained Native people for generations.⁴",
+            "es": "Entre las tribus del noreste, como los narragansett y los iroqueses, el succotash es un emblema vivo de la sabiduría agrícola indígena. Su nombre deriva de la palabra narragansett msíckquatash, que significa “granos de maíz hervidos”. El plato encarna el legendario método de las Tres Hermanas, un ingenioso sistema en el que los tallos de maíz servían de enrejado para las judías, estas enriquecían el suelo y las enredaderas de calabaza suprimían las malas hierbas.¹ Cocinar estos cultivos juntos daba como resultado un plato nutricionalmente completo, que prácticamente eliminaba la necesidad de carne.² Muchas comunidades honran al maíz, los frijoles y la calabaza como “sustentadores de la vida” y regalos sagrados del Creador, lo que refleja su lugar central tanto en la alimentación como en las ceremonias.³ El succotash simboliza la armonía entre las personas y la tierra, una celebración humilde y nutritiva y un tributo atemporal a las Tres Hermanas que sustentaron a los pueblos nativos durante generaciones.⁴"
+          }
+        },
+        {
+          "t": "youtube",
+          "id": "tki2kVPOH98",
+          "id_es": "AV6uErFvUsQ",
+          "vertical": true,
+          "title": {
+            "en": "Succotash",
+            "es": "Succotash"
+          }
+        },
+        {
+          "t": "recipe",
+          "ingredients": {
+            "en": [
+              "1 cup zucchini",
+              "2 tbsp vegetable oil",
+              "1 tsp garlic powder",
+              "1 cup onion",
+              "1 cup lima beans",
+              "1.5 cups corns",
+              "3/4 cup peas"
+            ],
+            "es": [
+              "1 taza de calabacín",
+              "2 cucharadas de aceite vegetal",
+              "1 cucharadita de ajo en polvo",
+              "1 taza de cebolla",
+              "1 taza de habas",
+              "1,5 tazas de maíz",
+              "3/4 taza de guisantes"
+            ]
+          },
+          "steps": {
+            "en": [],
+            "es": []
+          }
+        }
+      ],
+      "references": {
+        "en": [
+          "Posadas M. How succotash got its iconic name. Food Republic. February 15, 2024.",
+          "Oneida Indian Nation. The interworking of the Three Sisters. August 2024.",
+          "Matador Network. The Three Sisters of Indigenous agriculture.",
+          "Mihesuah DA. Recovering Our Ancestors’ Gardens: Indigenous Recipes and Guide to Diet and Fitness. Lincoln, NE: University of Nebraska Press; 2005."
+        ],
+        "es": [
+          "Posadas M. How succotash got its iconic name. Food Republic. February 15, 2024.",
+          "Oneida Indian Nation. The interworking of the Three Sisters. August 2024.",
+          "Matador Network. The Three Sisters of Indigenous agriculture.",
+          "Mihesuah DA. Recovering Our Ancestors’ Gardens: Indigenous Recipes and Guide to Diet and Fitness. Lincoln, NE: University of Nebraska Press; 2005."
+        ]
+      },
+      "disclaimer": "general"
+    }
+  ]
+}
